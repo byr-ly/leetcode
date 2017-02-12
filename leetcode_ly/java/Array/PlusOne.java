@@ -33,3 +33,24 @@ public class Solution {
         return true;
     }
 }
+
+public class Solution {
+    public int[] plusOne(int[] digits) {
+        if(digits == null) return new int[0];
+        int sum = digits[digits.length - 1] + 1;
+        digits[digits.length - 1] = sum % 10;
+        int remain = sum / 10;
+        for(int i = digits.length - 2; i >= 0; i--){
+            sum = digits[i] + remain;
+            digits[i] = sum % 10;
+            remain = sum / 10;
+        }
+        if(remain == 1){
+            int[] res = new int[digits.length + 1];
+            Arrays.fill(res,0);
+            res[0] = 1;
+            return res;
+        }
+        return digits;
+    }
+}

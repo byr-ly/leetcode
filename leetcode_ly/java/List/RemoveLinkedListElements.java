@@ -7,17 +7,19 @@
  * }
  */
 public class Solution {
-    public ListNode reverseList(ListNode head) {
-        if(head == null) return head; 
-        ListNode p = null; 
-        ListNode q = head; 
-        while(head.next != null){ 
-            head = head.next; 
-            q.next = p; 
-            p = q; 
-            q = head; 
-        } 
-        head.next = p; 
-        return head; 
+    public ListNode removeElements(ListNode head, int val) {
+        ListNode pre = new ListNode(1);
+        pre.next = head;
+        ListNode slow = pre;
+        ListNode fast = head;
+        while(fast != null){
+            if(fast.val != val){
+                slow.next = fast;
+                slow = slow.next;
+            }
+            fast = fast.next;
+        }
+        slow.next = null;
+        return pre.next;
     }
 }
