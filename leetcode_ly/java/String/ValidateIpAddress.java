@@ -15,13 +15,14 @@ public class Solution {
         String[] str = IP.split("\\.");
         if(str.length != 4) return false;
         for(int i = 0; i < str.length; i++){
+        	if(str[i].isEmpty()) return false;
             char[] c = str[i].toCharArray();
             if(c.length > 3) return false;
             for(int j = 0; j < c.length; j++){
                 if(c[j] < '0' || c[j] > '9') return false;
             }
             int val = Integer.parseInt(str[i]);
-            if(c[0] == '0' && (val != 0 || c.length != 1)) return false;
+            if(c[0] == '0' && c.length != 1) return false;
             if(val < 0 || val > 255) return false;
         }
         return true;
