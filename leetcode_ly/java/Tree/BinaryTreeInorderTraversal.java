@@ -101,3 +101,21 @@ public class Solution {
         }
     }
 }
+
+//二叉树转换为双向链表
+public TreeNode baseConvert(TreeNode root,TreeNode node){
+	if(root == null) return node;
+	TreeNode current = root;
+	if(current.left != null){
+		node = baseConvert(current.left,node);
+	}
+	current.left = node;
+	if(node != null){
+		node.right = current;
+	}
+	node = current;
+	if(current.right != null){
+		node = baseConvert(current.right,node);
+	}
+	return node;
+}
