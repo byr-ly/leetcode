@@ -103,19 +103,31 @@ public class Solution {
 }
 
 //二叉树转换为双向链表
-public TreeNode baseConvert(TreeNode root,TreeNode node){
-	if(root == null) return node;
-	TreeNode current = root;
-	if(current.left != null){
-		node = baseConvert(current.left,node);
-	}
-	current.left = node;
-	if(node != null){
-		node.right = current;
-	}
-	node = current;
-	if(current.right != null){
-		node = baseConvert(current.right,node);
-	}
-	return node;
+public class Solution {
+    public TreeNode Convert(TreeNode pRootOfTree) {
+        if(pRootOfTree == null) return null;
+        Stack<TreeNode> s = new Stack<TreeNode>();
+        TreeNode root = null;
+        TreeNode pre = null;
+        boolean flag = true;
+        while(pRootOfTree != null || !s.isEmpty()){
+            while(pRootOfTree != null){
+                s.push(pRootOfTree);
+                pRootOfTree = pRootOfTree.left;
+            }
+            pRootOfTree = s.pop();
+         	if(flag){
+                root = pRootOfTree;
+                pre = root;
+                flag = false;
+            }
+            else{
+                pRootOfTree.left = pre;
+                pre.right = pRootOfTree;
+                pre = pRootOfTree;
+            }
+            pRootOfTree = pRootOfTree.right;
+        }
+        return root;
+    }
 }
