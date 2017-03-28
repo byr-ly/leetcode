@@ -10,3 +10,19 @@ public class Solution {
         return -1;
     }
 }
+
+//¶þ·Ö·¨
+public class Solution {
+    public int findPeakElement(int[] nums) {
+        if(nums == null || nums.length == 0) return 0;
+        int i = 0;
+        int j = nums.length -1;
+        while(i <= j){
+            int m = i + (j - i) / 2; 
+            int target = (m + 1 == nums.length) ? Integer.MIN_VALUE : nums[m + 1];
+            if(nums[m] < target) i = m + 1;
+            else j = m - 1;
+        }
+        return i;
+    }
+}
