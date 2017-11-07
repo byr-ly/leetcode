@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1077/code/trunk/mras/unifyrec/correlationresultmerge/src/main/java/com/eb/bi/rs/mras/unifyrec/correlationresultmerge
+END
+OrderResultInputMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/BI-recsys/!svn/ver/1077/code/trunk/mras/unifyrec/correlationresultmerge/src/main/java/com/eb/bi/rs/mras/unifyrec/correlationresultmerge/OrderResultInputMapper.java
+END
+ReadResultInputMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/BI-recsys/!svn/ver/1077/code/trunk/mras/unifyrec/correlationresultmerge/src/main/java/com/eb/bi/rs/mras/unifyrec/correlationresultmerge/ReadResultInputMapper.java
+END
+ResultMergeReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/BI-recsys/!svn/ver/1077/code/trunk/mras/unifyrec/correlationresultmerge/src/main/java/com/eb/bi/rs/mras/unifyrec/correlationresultmerge/ResultMergeReducer.java
+END
+CorrelationResultMergeDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/BI-recsys/!svn/ver/1077/code/trunk/mras/unifyrec/correlationresultmerge/src/main/java/com/eb/bi/rs/mras/unifyrec/correlationresultmerge/CorrelationResultMergeDriver.java
+END
+CorrelationResultMergeTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/BI-recsys/!svn/ver/1077/code/trunk/mras/unifyrec/correlationresultmerge/src/main/java/com/eb/bi/rs/mras/unifyrec/correlationresultmerge/CorrelationResultMergeTool.java
+END
+ViewResultInputMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/BI-recsys/!svn/ver/1077/code/trunk/mras/unifyrec/correlationresultmerge/src/main/java/com/eb/bi/rs/mras/unifyrec/correlationresultmerge/ViewResultInputMapper.java
+END

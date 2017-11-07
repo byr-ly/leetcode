@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1727/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/iptvfamilyrecognize
+END
+MultiMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1704/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/iptvfamilyrecognize/MultiMapper.java
+END
+SplitMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1702/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/iptvfamilyrecognize/SplitMapper.java
+END
+TextPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/1727/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/iptvfamilyrecognize/TextPair.java
+END
+clustering.config
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1702/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/iptvfamilyrecognize/clustering.config
+END
+FiltReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1704/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/iptvfamilyrecognize/FiltReducer.java
+END
+ClusterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1702/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/iptvfamilyrecognize/ClusterReducer.java
+END
+ClusteringDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1704/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/iptvfamilyrecognize/ClusteringDriver.java
+END

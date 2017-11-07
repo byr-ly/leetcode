@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/BI-recsys/!svn/ver/1632/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/generec/gene_pref
+END
+GenePrefMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BI-recsys/!svn/ver/1591/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/generec/gene_pref/GenePrefMapper.java
+END
+GenePrefReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/1632/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/generec/gene_pref/GenePrefReducer.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/513/code/trunk/mras/seachrec/relatedkey/offline/src/main/java/com/eb/bi/rs/mras/seachrec/relatedkey/offline
+END
+App.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/7/code/trunk/mras/seachrec/relatedkey/offline/src/main/java/com/eb/bi/rs/mras/seachrec/relatedkey/offline/App.java
+END
+FilterHotwordMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/82/code/trunk/mras/seachrec/relatedkey/offline/src/main/java/com/eb/bi/rs/mras/seachrec/relatedkey/offline/FilterHotwordMapper.java
+END
+AnalyzeWordMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/BI-recsys/!svn/ver/82/code/trunk/mras/seachrec/relatedkey/offline/src/main/java/com/eb/bi/rs/mras/seachrec/relatedkey/offline/AnalyzeWordMapper.java
+END
+KeywordGenerateMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/BI-recsys/!svn/ver/82/code/trunk/mras/seachrec/relatedkey/offline/src/main/java/com/eb/bi/rs/mras/seachrec/relatedkey/offline/KeywordGenerateMapper.java
+END
+OutputTopNMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/BI-recsys/!svn/ver/75/code/trunk/mras/seachrec/relatedkey/offline/src/main/java/com/eb/bi/rs/mras/seachrec/relatedkey/offline/OutputTopNMapper.java
+END
+HotWordListMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/BI-recsys/!svn/ver/83/code/trunk/mras/seachrec/relatedkey/offline/src/main/java/com/eb/bi/rs/mras/seachrec/relatedkey/offline/HotWordListMapper.java
+END
+RelatedKeyOfflineDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/BI-recsys/!svn/ver/513/code/trunk/mras/seachrec/relatedkey/offline/src/main/java/com/eb/bi/rs/mras/seachrec/relatedkey/offline/RelatedKeyOfflineDriver.java
+END
+AnalyzeWordReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/BI-recsys/!svn/ver/75/code/trunk/mras/seachrec/relatedkey/offline/src/main/java/com/eb/bi/rs/mras/seachrec/relatedkey/offline/AnalyzeWordReducer.java
+END
+KeywordGenerateReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/BI-recsys/!svn/ver/75/code/trunk/mras/seachrec/relatedkey/offline/src/main/java/com/eb/bi/rs/mras/seachrec/relatedkey/offline/KeywordGenerateReducer.java
+END
+OutputTopNReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/BI-recsys/!svn/ver/84/code/trunk/mras/seachrec/relatedkey/offline/src/main/java/com/eb/bi/rs/mras/seachrec/relatedkey/offline/OutputTopNReducer.java
+END
+HotWordListReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/BI-recsys/!svn/ver/83/code/trunk/mras/seachrec/relatedkey/offline/src/main/java/com/eb/bi/rs/mras/seachrec/relatedkey/offline/HotWordListReducer.java
+END

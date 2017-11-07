@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/BI-recsys/!svn/ver/2046/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/corelationrec/selfsign
+END
+SelfSignedRecMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/2024/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/corelationrec/selfsign/SelfSignedRecMapper.java
+END
+BookInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/BI-recsys/!svn/ver/1929/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/corelationrec/selfsign/BookInfo.java
+END
+SelfSignedRecReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/2046/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/corelationrec/selfsign/SelfSignedRecReducer.java
+END

@@ -1,0 +1,29 @@
+<config>
+	<composite name="personaltailor">
+		<leaf name="cachedjoin">
+			<!--任务类，该类用于带cache的表连接，将小表作为cache与大表进行内连接-->
+			<class>com.eb.bi.rs.frame.recframe.resultcal.offline.cachejoiner.CachedJoinTool</class>
+			<configuration>
+				<!--输入文件的字段分割符正则表达式，不配置则默认为"\|"-->
+				<conf.input.delimiter>\|</conf.input.delimiter>
+				<!--cache文件的字段分割符正则表达式，不配置则默认为"\|"-->
+				<conf.cache.delimiter>\|</conf.cache.delimiter>
+				<!--输出文件的字段分割符，不配置则默认为"|"-->
+				<conf.output.delimiter>|</conf.output.delimiter>
+				<!--输出时，输入文件中的字段是否放在cache文件中的字段前面，不配置则默认为true-->
+				<conf.output.input.first>false</conf.output.input.first>
+
+				<!--cache文件中的key在字段中的索引值-->
+				<conf.cache.key.index>1</conf.cache.key.index>
+				<!--输入文件中的key在字段中的索引值-->
+				<conf.input.key.index>1</conf.input.key.index>
+				<!--输入路径-->
+				<conf.input.path>/user/recsys/personaltailor/hotbookrec/userclasspriority/output/part-*</conf.input.path>
+				<!--输出目录-->
+				<conf.output.path>personaltailor/cachedout</conf.output.path>
+				<!--cache文件的路径-->
+				<conf.cache.path>/user/recsys/personaltailor/hotbookrec/hotbookclassmark/hotbookclassmark.txt</conf.cache.path>
+			</configuration>
+		</leaf>
+	</composite>
+</config>

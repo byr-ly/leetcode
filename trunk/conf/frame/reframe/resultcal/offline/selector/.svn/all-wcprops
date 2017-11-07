@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/BI-recsys/!svn/ver/420/code/trunk/conf/frame/reframe/resultcal/offline/selector
+END
+OrderedTopNOrderByMultiFieldSelector.config
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/420/code/trunk/conf/frame/reframe/resultcal/offline/selector/OrderedTopNOrderByMultiFieldSelector.config
+END
+RandomSelectorDriver.config
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/420/code/trunk/conf/frame/reframe/resultcal/offline/selector/RandomSelectorDriver.config
+END
+RandomTopSelectorDriver.config
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/420/code/trunk/conf/frame/reframe/resultcal/offline/selector/RandomTopSelectorDriver.config
+END
+OrderedTopNSelectorDriver.config
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/420/code/trunk/conf/frame/reframe/resultcal/offline/selector/OrderedTopNSelectorDriver.config
+END
+UnorderedTopNSelector.config
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/BI-recsys/!svn/ver/420/code/trunk/conf/frame/reframe/resultcal/offline/selector/UnorderedTopNSelector.config
+END

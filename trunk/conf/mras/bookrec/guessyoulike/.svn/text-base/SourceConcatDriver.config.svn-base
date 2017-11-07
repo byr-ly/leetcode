@@ -1,0 +1,13 @@
+<leaf name="srcconcat">
+    <class>com.eb.bi.rs.mras.bookrec.guessyoulike.SourceConcatDriver</class>
+    <configuration>
+    	<!--text格式的输入路径，多个来源的输入路径以逗号分隔-->
+        <conf.input.path>guessyoulike/src1,guessyoulike/src2</conf.input.path>
+        <!--sequencefile格式的输入路径，多个来源的输入路径以逗号分隔-->
+        <conf.sequence.input.path>guessyoulike/src1,guessyoulike/src2</conf.sequence.input.path>
+        <!--输出路径，结果为sequencefile，key为user|book，value为src1,src2...-->
+        <conf.output.path>guessyoulike/srcconcat</conf.output.path>
+        <!--reducer个数，默认为1-->
+        <conf.num.reduce.tasks>1</conf.num.reduce.tasks>
+    </configuration>
+</leaf>

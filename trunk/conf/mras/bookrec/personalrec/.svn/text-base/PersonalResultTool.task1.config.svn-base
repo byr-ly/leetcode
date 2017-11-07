@@ -1,0 +1,21 @@
+<config>
+	<composite name="personaltailor">
+		<!--一个任务只能导入一个表的结果，3个栏目应该配置3个leaf任务-->
+		<leaf name="result2hbase">
+			<!--任务类，该类用于将私人定制结果导入到hbase中-->
+			<class>com.eb.bi.rs.mras.bookrec.personalrec.PersonalResultTool</class>
+			<configuration>
+				<!--输入路径-->
+				<conf.input.path>personalrec/result/hot_result.dat</conf.input.path>
+				<!--reducer的个数，不配置则默认为1-->
+				<conf.num.reduce.tasks>1</conf.num.reduce.tasks>
+				<!--管理hbase集群的zookeeper的地址-->
+				<conf.zk.host>10.1.69.179</conf.zk.host>
+				<!--zookeeper连接端口-->
+				<conf.zk.port>2181</conf.zk.port>
+				<!--导入到hbase中的表名-->
+				<conf.hbase.table>personalrec_hot</conf.hbase.table>
+			</configuration>
+		</leaf>
+	</composite>
+</config>

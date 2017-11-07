@@ -1,0 +1,12 @@
+<config>
+	<composite name="compositename">
+		<leaf name="leafname">
+			<class>com.eb.bi.rs.frame2.recframe.base.DriverExample</class>
+			<configuration>
+				<input.path>wordcount/input</input.path>
+				<output.path>wordcount/output</output.path>
+			</configuration>
+		</leaf>
+	</composite>
+</config>
+	

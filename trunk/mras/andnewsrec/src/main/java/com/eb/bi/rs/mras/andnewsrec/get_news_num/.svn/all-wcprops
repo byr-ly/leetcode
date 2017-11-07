@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/BI-recsys/!svn/ver/1359/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/get_news_num
+END
+GetNewsNumMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/1359/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/get_news_num/GetNewsNumMapper.java
+END
+GetNewsNumReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/1359/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/get_news_num/GetNewsNumReducer.java
+END

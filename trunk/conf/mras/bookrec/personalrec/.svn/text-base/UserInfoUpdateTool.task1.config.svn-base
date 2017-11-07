@@ -1,0 +1,18 @@
+<config>
+	<composite name="personaltailor">
+		<leaf name="userinfoupdate">
+			<!--任务类，该类用于用户分类偏好信息更新，以用户当前偏好覆盖用户历史偏好-->
+			<class>com.eb.bi.rs.mras.bookrec.personalrec.UserInfoUpdateTool</class>
+			<configuration>
+				<!--用户历史偏好输入路径-->
+				<conf.history.path>personalrec/user/input/user_history</conf.history.path>
+				<!--用户当前偏好输入路径-->
+				<conf.current.path>personalrec/user/input/user_current</conf.current.path>
+				<!--输出目录-->
+				<conf.output.path>personalrec/user/output</conf.output.path>
+				<!--reducer的个数，不配置则默认为1-->
+				<conf.num.reduce.tasks>1</conf.num.reduce.tasks>
+			</configuration>
+		</leaf>
+	</composite>
+</config>

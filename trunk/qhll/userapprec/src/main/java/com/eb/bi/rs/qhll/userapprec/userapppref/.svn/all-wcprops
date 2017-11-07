@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/userapppref
+END
+UserAppPrefMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/userapppref/UserAppPrefMapper.java
+END
+MaxMinReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/userapppref/MaxMinReducer.java
+END
+EntropyMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/userapppref/EntropyMapper.java
+END
+NormalizeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/userapppref/NormalizeMapper.java
+END
+UserAppPrefReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/userapppref/UserAppPrefReducer.java
+END
+ServiceTypeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/userapppref/ServiceTypeMapper.java
+END
+UserAppPrefDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/userapppref/UserAppPrefDriver.java
+END
+EntropyReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/userapppref/EntropyReducer.java
+END
+UserAppInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/userapppref/UserAppInfo.java
+END
+ServiceTypeReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/userapppref/ServiceTypeReducer.java
+END
+MaxMinMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/userapppref/MaxMinMapper.java
+END

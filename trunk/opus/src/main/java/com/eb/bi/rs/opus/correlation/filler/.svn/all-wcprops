@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/BI-recsys/!svn/ver/1644/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/filler
+END
+CorrelationRecFillerReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/1644/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/filler/CorrelationRecFillerReducer.java
+END
+CorrelationRecFillerDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1644/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/filler/CorrelationRecFillerDriver.java
+END
+CorrelationTypeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/BI-recsys/!svn/ver/1644/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/filler/CorrelationTypeMapper.java
+END
+opus_corelationrec_click_filler.task6.config
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1594/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/filler/opus_corelationrec_click_filler.task6.config
+END

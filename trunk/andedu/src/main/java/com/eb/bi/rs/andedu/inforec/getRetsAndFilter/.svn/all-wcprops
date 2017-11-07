@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/getRetsAndFilter
+END
+GetRetsAndFilterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/getRetsAndFilter/GetRetsAndFilterReducer.java
+END
+GetRetsAndFilterDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/getRetsAndFilter/GetRetsAndFilterDriver.java
+END
+GetRetsAndFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/getRetsAndFilter/GetRetsAndFilterMapper.java
+END
+CompInfos.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/getRetsAndFilter/CompInfos.java
+END
+SortByScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/getRetsAndFilter/SortByScore.java
+END

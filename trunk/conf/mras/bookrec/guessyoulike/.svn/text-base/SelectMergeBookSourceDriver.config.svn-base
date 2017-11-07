@@ -1,0 +1,22 @@
+﻿<leaf name="">
+	<class>com.eb.bi.rs.mras.bookrec.guessyoulike.SelectMergeBookSourceDriver</class>
+	<configuration>
+		<!--必配项，由应用确定使用的源图书来源，可以配置多个图书来源，由逗号分隔-->
+		<select.sources></select.sources>
+		<!--必配项，合并的时候各个来源的权重，形如s1:w1,s2:w2-->
+		<source.weight></source.weight>	
+		<!--选取的相似度在是相似度向量中的索引，可以配置多个索引，索引之间用逗号分隔。不配置默认为全部的偏好（相似度）-->
+		<select.similarity.indexes></select.similarity.indexes>	
+		<!--必配项，用户待推荐记录中相似度偏好向量的原始大小-->
+		<similarity.preference.vector.orginal.size></similarity.preference.vector.orginal.size>	
+			
+	<!--输入输出-->
+		<!--输入路径，可以配置多条路径，路径之间用逗号，分隔-->
+		<input.path></input.path>
+		<!--输出路径-->
+		<output.path></output.path>					
+	<!--MR-->
+		<!--默认值是1-->
+		<mapred.reduce.tasks>10</mapred.reduce.tasks>					
+	</configuration>
+</leaf>

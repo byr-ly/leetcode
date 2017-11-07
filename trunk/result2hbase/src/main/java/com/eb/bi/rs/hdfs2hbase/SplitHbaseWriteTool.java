@@ -1,0 +1,80 @@
+package com.eb.bi.rs.hdfs2hbase;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.NullWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Job;
+import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
+import org.apache.hadoop.mapreduce.lib.input.TextInputFormat;
+import org.apache.hadoop.hbase.HBaseConfiguration;
+import org.apache.hadoop.hbase.HColumnDescriptor;
+import org.apache.hadoop.hbase.HTableDescriptor;
+import org.apache.hadoop.hbase.TableName;
+import org.apache.hadoop.hbase.io.ImmutableBytesWritable;
+import org.apache.hadoop.hbase.mapreduce.TableOutputFormat;
+import org.apache.hadoop.hbase.master.TableNamespaceManager;
+import org.apache.hadoop.hbase.util.Bytes;
+import org.apache.hadoop.hbase.client.HBaseAdmin;
+import org.apache.hadoop.hbase.client.Put;
+
+import com.eb.bi.rs.result2hbase.BaseDriver;
+
+public class SplitHbaseWriteTool extends BaseDriver {
+
+	@Override
+	public int run(String[] args) throws Exception {
+		Configuration conf = HBaseConfiguration.create(getConf());
+
+		String zkHost = properties.getProperty("conf.zk.host");
+		conf.set("hbase.zookeeper.quorum", zkHost);
+		String zkPort = properties.getProperty("conf.zk.port");
+		conf.set("hbase.zookeeper.property.clientPort", zkPort);
+		// hbase表名
+		String tableName = properties.getProperty("conf.hbase.table");
+		conf.set(TableOutputFormat.OUTPUT_TABLE, tableName);
+		// 导入表达式的分隔符
+		conf.set("conf.import.split", properties.getProperty("conf.import.split"));
+		// 导出表达式
+		conf.set("conf.import.express", properties.getProperty("conf.import.express"));
+		// 取rowkey的后几位进行map,避免热点
+		conf.set("conf.rowkey.last", properties.getProperty("conf.rowkey.last"));
+		// 每写100条记录休息的毫秒数
+		conf.set("conf.sleep.ms", properties.getProperty("conf.sleep.ms"));
+
+		// if (properties.getProperty("conf.truncate.table",
+		// "false").equals("true")) {
+		// // 首先要获得table的建表信息
+		// HBaseAdmin admin = new HBaseAdmin(conf);
+		// HTableDescriptor td =
+		// admin.getTableDescriptor(Bytes.toBytes(tableName));
+		// // 删除表
+		// admin.disableTable(tableName);
+		// admin.deleteTable(tableName);
+		// // 重新建表
+		// admin.createTable(td);
+		// }
+
+		Job job = new Job(conf, "HbaseWrite");
+		job.setNumReduceTasks(0);
+		job.setJarByClass(SplitHbaseWriteTool.class);
+		job.setMapperClass(SplitHbaseWriteMapper.class);
+		job.setReducerClass(SplitHbaseWriteReducer.class);
+		job.setInputFormatClass(TextInputFormat.class);
+		job.setMapOutputKeyClass(Text.class);
+		job.setMapOutputValueClass(Text.class);
+		job.setOutputFormatClass(TableOutputFormat.class);
+		job.setOutputKeyClass(ImmutableBytesWritable.class);
+		job.setOutputValueClass(Put.class);
+
+		int reduceNum = Integer.parseInt(properties.getProperty(
+				"conf.num.reduce.tasks", "1"));
+		job.setNumReduceTasks(reduceNum);
+		String inputPath = properties.getProperty("conf.input.path");
+		FileInputFormat.setInputPaths(job, new Path(inputPath));
+		boolean ret = job.waitForCompletion(true);
+
+		return ret ? 0 : 1;
+	}
+
+}

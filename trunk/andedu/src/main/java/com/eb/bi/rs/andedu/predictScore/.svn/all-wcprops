@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/BI-recsys/!svn/ver/2132/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/predictScore
+END
+JoinScoreAndSimilarityReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/2106/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/predictScore/JoinScoreAndSimilarityReducer.java
+END
+JoinScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/2114/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/predictScore/JoinScoreMapper.java
+END
+PredictScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/2106/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/predictScore/PredictScoreReducer.java
+END
+BrandPredictScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/BI-recsys/!svn/ver/2106/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/predictScore/BrandPredictScoreMapper.java
+END
+InterestMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/BI-recsys/!svn/ver/2114/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/predictScore/InterestMapper.java
+END
+TopUserPredictBooksReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/2132/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/predictScore/TopUserPredictBooksReducer.java
+END
+PredictDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/2114/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/predictScore/PredictDriver.java
+END
+InterestReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/2106/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/predictScore/InterestReducer.java
+END
+UserBrandMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/2106/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/predictScore/UserBrandMapper.java
+END
+JoinSimilarityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/BI-recsys/!svn/ver/2106/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/predictScore/JoinSimilarityMapper.java
+END
+PredictScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/2106/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/predictScore/PredictScoreMapper.java
+END
+SimilarityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/2106/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/predictScore/SimilarityMapper.java
+END

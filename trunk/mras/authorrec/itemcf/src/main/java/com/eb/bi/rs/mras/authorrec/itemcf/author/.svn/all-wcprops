@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/1079/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/author
+END
+AuthorAvgScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/author/AuthorAvgScoreMapper.java
+END
+ReorderAuthorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/author/ReorderAuthorDriver.java
+END
+AuthorFilterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/author/AuthorFilterReducer.java
+END
+CollaborativeInitFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/BI-recsys/!svn/ver/1079/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/author/CollaborativeInitFilterMapper.java
+END
+AuthorAvgScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/author/AuthorAvgScoreReducer.java
+END
+AuthorReindexMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/1079/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/author/AuthorReindexMapper.java
+END
+AuthorFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/author/AuthorFilterMapper.java
+END

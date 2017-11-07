@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/BI-recsys/!svn/ver/1606/code/trunk/mras/generec/storm/src/main/java/com/eb/bi/rs/mras/generec/storm/domain
+END
+BookSeriesInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/1484/code/trunk/mras/generec/storm/src/main/java/com/eb/bi/rs/mras/generec/storm/domain/BookSeriesInfo.java
+END
+BookInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/1606/code/trunk/mras/generec/storm/src/main/java/com/eb/bi/rs/mras/generec/storm/domain/BookInfo.java
+END
+BookGeneClassInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/1484/code/trunk/mras/generec/storm/src/main/java/com/eb/bi/rs/mras/generec/storm/domain/BookGeneClassInfo.java
+END
+SortByScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/1484/code/trunk/mras/generec/storm/src/main/java/com/eb/bi/rs/mras/generec/storm/domain/SortByScore.java
+END

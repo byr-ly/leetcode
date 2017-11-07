@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity
+END
+UserItemMeanScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/UserItemMeanScoreMapper.java
+END
+TextPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/TextPair.java
+END
+ItemAvgMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/ItemAvgMapper.java
+END
+CosineSimilarityReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/CosineSimilarityReducer.java
+END
+CaculateSimilarityDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/CaculateSimilarityDriver.java
+END
+UserItemMeanScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/UserItemMeanScoreReducer.java
+END
+ScoreWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/ScoreWritable.java
+END
+EuclideanSimilarityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/EuclideanSimilarityMapper.java
+END
+ItemAvgReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/ItemAvgReducer.java
+END
+PearsonSimilarityWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/PearsonSimilarityWritable.java
+END
+ItemModuleMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/ItemModuleMapper.java
+END
+EuclideanSimilarityReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/EuclideanSimilarityReducer.java
+END
+ItemModuleReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/ItemModuleReducer.java
+END
+calculate_similar_score.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/calculate_similar_score.task1.config
+END
+UserScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/UserScoreMapper.java
+END
+UserMeanScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/UserMeanScoreMapper.java
+END
+CosineSimilarityWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/CosineSimilarityWritable.java
+END
+PearsonSimilarityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/PearsonSimilarityMapper.java
+END
+UserScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/UserScoreReducer.java
+END
+PearsonSimilarityReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/PearsonSimilarityReducer.java
+END
+GenerateNewUserItemScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/GenerateNewUserItemScoreReducer.java
+END
+CosineSimilarityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/CosineSimilarityMapper.java
+END
+UserItemScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/1782/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/itemcf/similarity/UserItemScoreMapper.java
+END

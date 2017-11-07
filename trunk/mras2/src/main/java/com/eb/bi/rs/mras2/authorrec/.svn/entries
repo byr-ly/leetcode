@@ -1,0 +1,58 @@
+10
+
+dir
+2155
+http://liyang@10.1.1.212/svn/BI-recsys/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec
+http://liyang@10.1.1.212/svn/BI-recsys
+
+
+
+2016-04-07T01:51:55.765557Z
+1182
+liyang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aff18cde-65bf-46cc-a571-9cca275ceb57
+
+read_author_filter
+dir
+
+author_pre_score
+dir
+
+authortype
+dir
+
+author_average_score
+dir
+
+commonuser
+dir
+
+pre_author
+dir
+
+authorsimilarity
+dir
+
+unrelated_author_filter
+dir
+
+pre_author_filter
+dir
+
+authorscore
+dir
+

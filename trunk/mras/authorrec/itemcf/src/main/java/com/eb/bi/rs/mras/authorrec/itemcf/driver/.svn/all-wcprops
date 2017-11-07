@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/1079/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/driver
+END
+CopyOfPredictAuthorRecomm.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/1079/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/driver/CopyOfPredictAuthorRecomm.java
+END
+PredictAuthorRecomm.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/1038/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/driver/PredictAuthorRecomm.java
+END
+RecommProduceDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/driver/RecommProduceDriver.java
+END
+AuthorRecommDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1079/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/driver/AuthorRecommDriver.java
+END
+ReadAuthorRecomm.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/driver/ReadAuthorRecomm.java
+END
+FillerAuthorRecomm.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1079/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/driver/FillerAuthorRecomm.java
+END
+RecommDisplayDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/1038/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/driver/RecommDisplayDriver.java
+END
+WrapDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/driver/WrapDriver.java
+END
+CoordinateFilterDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1079/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/driver/CoordinateFilterDriver.java
+END
+CommRecommDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/driver/CommRecommDriver.java
+END

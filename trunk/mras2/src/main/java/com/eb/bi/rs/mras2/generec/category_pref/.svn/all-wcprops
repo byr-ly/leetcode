@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/BI-recsys/!svn/ver/1591/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/generec/category_pref
+END
+CategoryPrefMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/BI-recsys/!svn/ver/1591/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/generec/category_pref/CategoryPrefMapper.java
+END
+CategoryPrefReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/1591/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/generec/category_pref/CategoryPrefReducer.java
+END

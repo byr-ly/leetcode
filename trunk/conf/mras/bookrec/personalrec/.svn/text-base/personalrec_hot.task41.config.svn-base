@@ -1,0 +1,205 @@
+<config>
+	<!--私人定制计算流程-->
+	<composite name="personaltailor">
+		<!--1 火热大点兵-->
+		<composite name="hotbookrec">
+			<!--1.1 用户三级分类偏好(优先级)计算-->
+			<leaf name="hotbookrec-ClassPriorityComputeDriver">
+			<class>com.eb.bi.rs.mras.bookrec.personalrec.ClassPriorityComputeDriver</class>
+			<configuration>
+				<hdfs.input.path.1>/user/recsys/personaltailor/hot/userclassdata/user*</hdfs.input.path.1>
+				<hdfs.input.classinfo.path>/user/recsys/personaltailor/hot/classinfodata/class_*</hdfs.input.classinfo.path>
+				<hdfs.work.path>/user/recsys/personaltailor/hot/userclasspriority/work</hdfs.work.path>
+				<hdfs.output.path.1>/user/recsys/personaltailor/hot/userclasspriority/output</hdfs.output.path.1>
+				<hadoop.reduce.num>100</hadoop.reduce.num>
+				<hadoop.map.maxsplitsizejob>64</hadoop.map.maxsplitsizejob>
+				<hadoop.io.k_v_separator>|</hadoop.io.k_v_separator>
+				<!--输入是横表/竖表：用户|class1|class2|。。-->
+				<Appconf.data.format.type>h</Appconf.data.format.type>
+				<!--是否要无关分类-->
+				<Appconf.if.have.unuse.class>no</Appconf.if.have.unuse.class>
+			</configuration>
+			</leaf>
+			
+			<!--选取用户偏好的topN个分类-->
+			<leaf name="hotbookrec-UnorderedTopNSelectorDriver">
+			<class>com.eb.bi.rs.frame.recframe.resultcal.offline.selector.mr.UnorderedTopNSelectorDriver</class>
+			<configuration>
+				<!--字段分隔符，默认值是"|"-->
+				<field.delimiter>|</field.delimiter>
+				<!--键值字段索引号，默认值是"0"，可以配置多列，配置方式如"0,1"，列之间用逗号","分隔-->
+				<key.field.indexes>0</key.field.indexes>
+				<!--排序依据的字段的索引号，默认值是"0"，目前只支持按照一列排序，后续优化-->
+				<order.by.field.index>2</order.by.field.index>
+				<!--对于键值相同的一组记录，选取的记录数量，默认值是1-->
+				<select.number>12</select.number>		
+				<!--输入输出-->
+				<!--输入路径，可以配置多条路径，路径之间用逗号，分隔-->
+				<input.path>/user/recsys/personaltailor/hot/userclasspriority/output/part*</input.path>
+				<!--输出路径-->
+				<output.path>/user/recsys/personaltailor/hot/topuserclasspriority/output</output.path>					
+				<!--MR-->
+				<!--默认值是1-->
+				<mapred.reduce.tasks>100</mapred.reduce.tasks>					
+			</configuration>
+			</leaf>
+			
+			<!--选取分类下销量的topN本图书-->
+			<leaf name="hotbookrec-UnorderedTopNSelectorDriver">
+			<class>com.eb.bi.rs.frame.recframe.resultcal.offline.selector.mr.UnorderedTopNSelectorDriver</class>
+			<configuration>
+				<!--字段分隔符，默认值是"|"-->
+				<field.delimiter>|</field.delimiter>
+				<!--键值字段索引号，默认值是"0"，可以配置多列，配置方式如"0,1"，列之间用逗号","分隔-->
+				<key.field.indexes>1</key.field.indexes>
+				<!--排序依据的字段的索引号，默认值是"0"，目前只支持按照一列排序，后续优化-->
+				<order.by.field.index>2</order.by.field.index>
+				<!--对于键值相同的一组记录，选取的记录数量，默认值是1-->
+				<select.number>12</select.number>		
+				<!--输入输出-->
+				<!--输入路径，可以配置多条路径，路径之间用逗号，分隔-->
+				<input.path>/user/recsys/personaltailor/hot/hotbookdata/hotbookmark</input.path>
+				<!--输出路径-->
+				<output.path>/user/recsys/personaltailor/hot/tophotbookdata/output</output.path>					
+				<!--MR-->
+				<!--默认值是1-->
+				<mapred.reduce.tasks>10</mapred.reduce.tasks>					
+			</configuration>
+			</leaf>
+			
+			<!--用户图书关联-->
+			<leaf name="cachedjoin">
+				<class>com.eb.bi.rs.frame.recframe.resultcal.offline.cachejoiner.CachedJoinTool</class>
+				<configuration>
+				<!--输入文件的字段分割符正则表达式，不配置则默认为"\|"-->
+				<conf.input.delimiter>\|</conf.input.delimiter>
+				<!--cache文件的字段分割符正则表达式，不配置则默认为"\|"-->
+				<conf.cache.delimiter>\|</conf.cache.delimiter>
+				<!--输出文件的字段分割符，不配置则默认为"|"-->
+				<conf.output.delimiter>|</conf.output.delimiter>
+				<!--输出时，输入文件中的字段是否放在cache文件中的字段前面，不配置则默认为true-->
+				<conf.output.input.first>true</conf.output.input.first>
+
+				<!--cache文件中的key在字段中的索引值-->
+				<conf.cache.key.index>1</conf.cache.key.index>
+				<!--输入文件中的key在字段中的索引值-->
+				<conf.input.key.index>1</conf.input.key.index>
+				<!--输入路径-->
+				<conf.input.path>/user/recsys/personaltailor/hot/topuserclasspriority/output/part*</conf.input.path>
+				<!--输出目录-->
+				<conf.output.path>/user/recsys/personaltailor/hot/many2manyjoiner/output</conf.output.path>
+				<!--标签书库的路径-->
+				<conf.cache.path>/user/recsys/personaltailor/hot/tophotbookdata/output/part*</conf.cache.path>
+			</configuration>
+			</leaf>
+			
+			
+			
+			<!--过滤(去历史、去其他栏目已推书)-->		<!--分类|用户|优先级|图书|频次-->	
+			<leaf name="hotbookrec-MatrixComputeDriver">
+				<class>com.eb.bi.rs.frame.recframe.resultcal.offline.filter.mr.GroupItemFilterDriver</class>
+				<configuration>
+					<!--待过滤集字段分隔符，默认值是"|"-->
+					<to.filter.field.delimiter>|</to.filter.field.delimiter>
+					<!--待过滤集键值字段索引，默认值是"0"，目前只能配置一列，后续优化为多列-->
+					<to.filter.key.field.index>1</to.filter.key.field.index>	
+					<!--待过滤集物品字段索引，默认值是"0",目前只能配置一列，后续优化为多列-->
+					<to.filter.item.field.index>3</to.filter.item.field.index>	
+					<!--过滤集字段分隔符，默认值是"|"-->
+					<filter.field.delimiter>|</filter.field.delimiter>
+					<!--过滤集键值字段索引号，默认值是"0"，目前只能配置一列，后续优化为多列-->
+					<filter.key.field.index>0</filter.key.field.index>	
+					<!--过滤集物品字段索引，默认值是"0",目前只能配置一列，后续优化为多列-->
+					<filter.item.field.index>1</filter.item.field.index>	
+					<!--过滤模式，默认值是"exclude"，可选值是include/exclude-->
+					<filter.mode>exclude</filter.mode>	
+								
+				<!--输入输出-->
+					<!--待过滤集输入路径，可以配置多条路径，路径之间用逗号"，"分隔-->
+					<to.filter.input.path>/user/recsys/personaltailor/hot/many2manyjoiner/output/part*</to.filter.input.path>
+					<!--过滤集输入路径，可以配置多条路径，路径之间用逗号"，"分隔-->
+					<filter.input.path>/user/recsys/personaltailor/hot/userhisdata</filter.input.path>
+					<!--输出路径-->
+					<output.path>/user/recsys/personaltailor/hot/filteredcorrelationer/output</output.path>					
+				<!--MR-->
+					<!--默认值是1-->
+					<mapred.reduce.tasks>100</mapred.reduce.tasks>					
+				</configuration>
+			</leaf>		
+			
+			
+
+			<!--1.4 选取(按用户、优先级分组，按分类轮训选取各分类下流行度最高的书，添加组内序号)-->
+			<!--		输入数据格式：分类|用户|优先级|图书|频次-->
+			<leaf name="hotbookrec-RandomTopSelectorDriver">
+				<class>com.eb.bi.rs.frame.recframe.resultcal.offline.selector.mr.RandomTopSelectorDriver</class>
+				<configuration>
+					<!--字段分隔符，默认值是"|"-->
+					<field.delimiter>|</field.delimiter>
+					<!--键值字段索引号，默认值是"0"，可以配置多列，配置方式如"0,1"，列之间用逗号","分隔-->
+					<key.field.indexes>1,2</key.field.indexes>
+					<!--随机依据的字段的索引号，默认值是"0"，可以配置多列，配置方式如"0,1"，列之间用逗号","分隔-->
+					<random.base.field.indexes>0</random.base.field.indexes>
+					<!--排序依据的字段的索引号，默认值是"0"，目前只支持按照一列排序，后续优化-->
+					<order.by.field.index>4</order.by.field.index>
+					<!--对于键值相同的一组记录，选取的记录数量，默认值是1-->
+					<select.number>12</select.number>
+					<!--优先选取最大值，还是最小值，默认是”max“，可选值是max/min-->					
+					<max.or.min>max</max.or.min>
+				<!--输出格式-->
+					<!--输出时，是否携带序列号，默认值是true，可选值只有true/false-->				 	
+					<with.sequence>true</with.sequence>					
+				<!--输入输出-->
+					<!--输入路径，可以配置多条路径，路径之间用逗号，分隔-->
+					<input.path>/user/recsys/personaltailor/hot/filteredcorrelationer/output/part*</input.path>
+					<!--输出路径-->
+					<output.path>/user/recsys/personaltailor/hot/randomtopselector/output</output.path>					
+				<!--MR-->
+					<!--默认值是1-->
+					<mapred.reduce.tasks>100</mapred.reduce.tasks>					
+				</configuration>
+				<!--薛艳云-->
+			</leaf>
+			<!--1.5 选取(按用户分组，同时按优先级从大到小、序号从小到大排序，输出横表)-->
+			<!--		输入数据格式：分类|用户|优先级|图书|频次|序号-->
+			<leaf name="hotbookrec-OrderedTopNOrderByMultiFieldDriver">
+
+				<class>com.eb.bi.rs.frame.recframe.resultcal.offline.selector.mr.OrderedTopNOrderByMultiFieldDriver</class>
+				<configuration>
+					<!--字段分隔符，默认值是"|"-->
+					<field.delimiter>|</field.delimiter>
+					<!--键值字段索引号，默认值是"0"，可以配置多列，配置方式如"0,1"，列之间用逗号","分隔-->
+					<key.field.indexes>1</key.field.indexes>
+					<!--对于键值相同的一组记录，选取的记录数目，默认值是1-->
+					<top.number>12</top.number>
+					<!--排序模式，默认值是空，该配置项是必需的，形如"2:asc,6:desc",表示按第2列升序排列，按第6列降序排列-->
+					<order.mode>2:desc,5:asc</order.mode>
+					
+			 	<!--输出格式-->
+			 		<!--是否输出竖表，默认值是true-->
+					<is.vertical>false</is.vertical>
+					<!--如果输出竖表，是否需要加序列号，默认值是true，如果输出时横表，则不需要使用配置项（即使配置为true也不会起作用） -->
+					<with.sequence>false</with.sequence>
+					<!--输出时保留的列索引号，默认值是空，可以配置多列，配置方式如"0,1"，列之间用逗号","分隔-->
+					<!--不需要使用该配置项的情况：(1)如果输出竖表，且将每条记录的所有记录都输出，(2)如果输出是横表，且除键值列的所有列都需要累加到一起，-->	
+					<!--如果输出竖表，则需要配置成所有需要保留的列的所有值，如果是横表，则只需要配置需要累加到键值列的后面的列索引号， -->							
+					<reserve.field.indexes>3</reserve.field.indexes>
+					
+				<!--输入输出-->
+					<!--输入路径，可以配置多条路径，路径之间用逗号，分隔-->
+					<input.path>/user/recsys/personaltailor/hot/randomtopselector/output/part*</input.path>
+					<!--输出路径-->
+					<output.path>/user/recsys/personaltailor/hot/output</output.path>
+					
+				<!--MR-->
+					<!--默认值是1-->
+					<mapred.reduce.tasks>100</mapred.reduce.tasks>					
+					<!--推荐最小本数-->
+					<low.bound>4</low.bound>
+				</configuration>
+			</leaf>
+			
+			
+		</composite>
+	</composite>
+</config>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/2077/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/offlineTrainingDataPrep/intervectorPrep
+END
+InterVectorBetweenUserAndBookReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/BI-recsys/!svn/ver/2077/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/offlineTrainingDataPrep/intervectorPrep/InterVectorBetweenUserAndBookReducer.java
+END
+User_RecommendListMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/BI-recsys/!svn/ver/2064/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/offlineTrainingDataPrep/intervectorPrep/User_RecommendListMapper.java
+END
+PersonalizedBookVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/BI-recsys/!svn/ver/2064/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/offlineTrainingDataPrep/intervectorPrep/PersonalizedBookVector.java
+END

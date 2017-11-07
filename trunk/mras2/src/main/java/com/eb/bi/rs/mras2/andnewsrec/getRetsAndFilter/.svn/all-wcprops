@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/BI-recsys/!svn/ver/1824/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/andnewsrec/getRetsAndFilter
+END
+GetRetsAndFilterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1505/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/andnewsrec/getRetsAndFilter/GetRetsAndFilterReducer.java
+END
+GetRetsAndFilterDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/1407/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/andnewsrec/getRetsAndFilter/GetRetsAndFilterDriver.java
+END
+CompNews.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/1219/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/andnewsrec/getRetsAndFilter/CompNews.java
+END
+GetRetsAndFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/1407/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/andnewsrec/getRetsAndFilter/GetRetsAndFilterMapper.java
+END
+SortByScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/BI-recsys/!svn/ver/1824/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/andnewsrec/getRetsAndFilter/SortByScore.java
+END

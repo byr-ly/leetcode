@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/BI-recsys/!svn/ver/2040/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec
+END
+ReadCorelationRecDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/2040/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/ReadCorelationRecDriver.java
+END
+CooccurenceDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/1826/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/CooccurenceDriver.java
+END
+RealTimeFillerDataPrepareDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1849/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/RealTimeFillerDataPrepareDriver.java
+END
+SelfSignedRecDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/1932/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/SelfSignedRecDriver.java
+END
+OrderCorelationResultFilterDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/1849/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/OrderCorelationResultFilterDriver.java
+END
+ReadOrderRecordGenerateDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1849/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/ReadOrderRecordGenerateDriver.java
+END

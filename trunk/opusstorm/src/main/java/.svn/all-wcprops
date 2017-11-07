@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/BI-recsys/!svn/ver/2014/code/trunk/opusstorm/src/main/java
+END
+opus_storm.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/BI-recsys/!svn/ver/1586/code/trunk/opusstorm/src/main/java/opus_storm.task1.config
+END
+hbase-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/BI-recsys/!svn/ver/1630/code/trunk/opusstorm/src/main/java/hbase-site.xml
+END
+hdfs-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/BI-recsys/!svn/ver/1630/code/trunk/opusstorm/src/main/java/hdfs-site.xml
+END

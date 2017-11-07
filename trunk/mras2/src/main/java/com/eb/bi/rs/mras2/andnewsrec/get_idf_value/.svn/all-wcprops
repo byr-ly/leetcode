@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/BI-recsys/!svn/ver/1505/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/andnewsrec/get_idf_value
+END
+GetIdfValueMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/1407/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/andnewsrec/get_idf_value/GetIdfValueMapper.java
+END
+GetIdfValueReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1505/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/andnewsrec/get_idf_value/GetIdfValueReducer.java
+END
+SegWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BI-recsys/!svn/ver/1407/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/andnewsrec/get_idf_value/SegWord.java
+END

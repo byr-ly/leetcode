@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter
+END
+FilterBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter/FilterBase.java
+END
+GroupItemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter/GroupItemFilter.java
+END
+ItemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter/ItemFilter.java
+END
+GroupItemFilter.config
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter/GroupItemFilter.config
+END
+ItemFilter.config
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter/ItemFilter.config
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/BI-recsys/!svn/ver/1512/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/unifyrec/PrefRecResultMerge
+END
+PrefRecResultMergeReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1512/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/unifyrec/PrefRecResultMerge/PrefRecResultMergeReducer.java
+END
+PrefRecResultMergeDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1512/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/unifyrec/PrefRecResultMerge/PrefRecResultMergeDriver.java
+END
+PrefRecResultMergeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1512/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/unifyrec/PrefRecResultMerge/PrefRecResultMergeMapper.java
+END

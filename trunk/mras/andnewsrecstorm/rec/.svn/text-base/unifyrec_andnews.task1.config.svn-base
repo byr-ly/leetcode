@@ -1,0 +1,20 @@
+<config>
+    <!--storm kafka-->
+    <param name="worker_num">1</param>
+    <param name="spout_num">1</param>
+    <param name="bolt_num">2</param>
+    <param name="max_spout_pending">10000</param>
+    
+    <param name="zkCfg">ZJHZ-RTS-DN11:2181,ZJHZ-RTS-DN12:2181,ZJHZ-RTS-DN13:2181,ZJHZ-RTS-DN14:2181</param>
+    <param name="broker_list">ZJHZ-RTS-DN11:9092,ZJHZ-RTS-DN12:9092,ZJHZ-RTS-DN13:9092,ZJHZ-RTS-DN14:9092</param>
+    
+    <param name="zkRoot">/ebupt-andnews</param>
+    <param name="srcNews_Topic">AndNews.SrcNews</param>
+    <param name="group_id">test-consumer-group</param>
+    <param name="returntopic">AndNews.SimilarNews</param>
+    
+    <param name="hbaseZk">ZJHZ-RTS-NN1,ZJHZ-RTS-NN2,ZJHZ-RTS-DN1,ZJHZ-RTS-DN2,ZJHZ-RTS-DN3</param>
+    <param name="hbaseZkPort">2181</param>
+
+    <param name="topN">5</param>    
+</config>

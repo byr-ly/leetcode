@@ -1,0 +1,18 @@
+<config>
+	<composite name="personaltailor">
+		<leaf name="addonlineday">
+			<!--任务类，该类用于为新书齐亮相栏目增加上架时间-->
+			<class>com.eb.bi.rs.mras.bookrec.personalrec.OnlineDayTool</class>
+			<configuration>
+				<!--输入路径-->
+				<conf.input.path>personalrec/hbase/new_result.dat</conf.input.path>
+				<!--图书信息文件路径-->
+				<conf.book.info.path>personalrec/input/bookinfo</conf.book.info.path>
+				<!--输出路径-->
+				<conf.output.path>personalrec/hbase/new</conf.output.path>
+				<!--图书信息中，上架时间字段的位置，默认为2（图书ID|分类ID|上架时间）-->
+				<conf.online.day.index>2</conf.online.day.index>
+			</configuration>
+		</leaf>
+	</composite>
+</config>

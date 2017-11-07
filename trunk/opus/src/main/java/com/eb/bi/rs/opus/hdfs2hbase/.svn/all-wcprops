@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/BI-recsys/!svn/ver/1656/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/hdfs2hbase
+END
+ImportDataProReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/BI-recsys/!svn/ver/1625/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/hdfs2hbase/ImportDataProReducer.java
+END
+hbasewritetool.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/1625/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/hdfs2hbase/hbasewritetool.task1.config
+END
+HbaseWriteMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/BI-recsys/!svn/ver/1646/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/hdfs2hbase/HbaseWriteMapper.java
+END
+ImportDataProTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/BI-recsys/!svn/ver/1625/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/hdfs2hbase/ImportDataProTool.java
+END
+HbaseWriteMapper2.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/BI-recsys/!svn/ver/1625/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/hdfs2hbase/HbaseWriteMapper2.java
+END
+HbaseWriteReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/BI-recsys/!svn/ver/1646/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/hdfs2hbase/HbaseWriteReducer.java
+END
+importdataprotool.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1625/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/hdfs2hbase/importdataprotool.task1.config
+END
+ImportDataProMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/1625/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/hdfs2hbase/ImportDataProMapper.java
+END
+HbaseWriteTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/BI-recsys/!svn/ver/1646/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/hdfs2hbase/HbaseWriteTool.java
+END
+HbaseWriteTool2.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/BI-recsys/!svn/ver/1625/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/hdfs2hbase/HbaseWriteTool2.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/BI-recsys/!svn/ver/899/code/trunk/algorithm/pca
+END
+部署文件.7z
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/BI-recsys/!svn/ver/899/code/trunk/algorithm/pca/%E9%83%A8%E7%BD%B2%E6%96%87%E4%BB%B6.7z
+END
+algorithm-pca.iml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/BI-recsys/!svn/ver/846/code/trunk/algorithm/pca/algorithm-pca.iml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/BI-recsys/!svn/ver/846/code/trunk/algorithm/pca/pom.xml
+END

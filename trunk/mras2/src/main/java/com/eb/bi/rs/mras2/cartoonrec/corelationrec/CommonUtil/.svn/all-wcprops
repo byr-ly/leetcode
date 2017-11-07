@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/1942/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/CommonUtil
+END
+TextPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/1826/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/CommonUtil/TextPair.java
+END
+JoinClassFrequencyReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1849/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/CommonUtil/JoinClassFrequencyReducer.java
+END
+JoinFrequncyMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1826/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/CommonUtil/JoinFrequncyMapper.java
+END
+ReadCorelationBookRecMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/1826/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/CommonUtil/ReadCorelationBookRecMapper.java
+END
+IndicatorFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1942/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/CommonUtil/IndicatorFilterMapper.java
+END
+ReadRecForBookWithoutCooccurrenceInfoMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/BI-recsys/!svn/ver/1855/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/CommonUtil/ReadRecForBookWithoutCooccurrenceInfoMapper.java
+END
+JoinClassMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1849/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/CommonUtil/JoinClassMapper.java
+END
+ReadCorelationBookRecReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/1937/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/CommonUtil/ReadCorelationBookRecReducer.java
+END
+ReadRecForBookWithoutCooccurrenceInfoReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/BI-recsys/!svn/ver/1937/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/CommonUtil/ReadRecForBookWithoutCooccurrenceInfoReducer.java
+END
+StringIntPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/1826/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/cartoonrec/corelationrec/CommonUtil/StringIntPair.java
+END

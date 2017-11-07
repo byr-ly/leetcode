@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/BI-recsys/!svn/ver/1182/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/author_pre_score
+END
+AuthorPreScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/1182/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/author_pre_score/AuthorPreScoreReducer.java
+END
+AuthorPreScoreDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/1181/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/author_pre_score/AuthorPreScoreDriver.java
+END
+AuthorPreScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/1153/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/author_pre_score/AuthorPreScoreMapper.java
+END

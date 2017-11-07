@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/1327/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/get_keyword_news
+END
+GetKeyWordNewsMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1327/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/get_keyword_news/GetKeyWordNewsMapper.java
+END
+GetKeyWordNewsReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/get_keyword_news/GetKeyWordNewsReducer.java
+END
+GetKeyWordNewsDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/get_keyword_news/GetKeyWordNewsDriver.java
+END

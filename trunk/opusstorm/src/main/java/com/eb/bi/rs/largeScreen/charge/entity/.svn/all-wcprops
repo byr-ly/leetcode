@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/BI-recsys/!svn/ver/1860/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/charge/entity
+END
+ChargeSummaryData.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/1860/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/charge/entity/ChargeSummaryData.java
+END
+ChargeData.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1860/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/charge/entity/ChargeData.java
+END
+FailReason.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1808/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/charge/entity/FailReason.java
+END
+AccumulationForCity.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1860/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/charge/entity/AccumulationForCity.java
+END
+AccumualtionForError.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/1808/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/charge/entity/AccumualtionForError.java
+END
+ChargeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/1860/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/charge/entity/ChargeMap.java
+END
+City.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/1808/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/charge/entity/City.java
+END
+FailReasonAccumulation.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/1860/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/charge/entity/FailReasonAccumulation.java
+END

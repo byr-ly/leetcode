@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1404/code/trunk/mras/bookrec/corelationrec/src/main/java/com/eb/bi/rs/mras/bookrec/corelationrec/Browse
+END
+BrowseCorelationBookRecReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/BI-recsys/!svn/ver/1404/code/trunk/mras/bookrec/corelationrec/src/main/java/com/eb/bi/rs/mras/bookrec/corelationrec/Browse/BrowseCorelationBookRecReducer.java
+END
+BrowseRecForBookWithoutCooccurrenceInfoReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/BI-recsys/!svn/ver/1404/code/trunk/mras/bookrec/corelationrec/src/main/java/com/eb/bi/rs/mras/bookrec/corelationrec/Browse/BrowseRecForBookWithoutCooccurrenceInfoReducer.java
+END

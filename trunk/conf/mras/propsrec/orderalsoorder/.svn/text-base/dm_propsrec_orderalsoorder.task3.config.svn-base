@@ -1,0 +1,42 @@
+<config>
+	<!--日期-->
+	<param name="record_day"></param>
+	<!--计算用最大图书数,小于等于1为不限制个数-->
+	<param name="neighbour_num">1</param>
+	<!--map大小-->
+	<param name="tagdict_max_split_size_job1">64</param>
+	<param name="tagdict_max_split_size_job2">64</param>
+	<param name="tagdict_max_split_size_job3">64</param>
+	<!--reduce个数-->
+	<param name="reduce_num_job1">10</param>
+	<param name="reduce_num_job2">10</param>
+	<param name="reduce_num_job3">10</param>
+	<!--分割符-->
+	<param name="k_v_separator">|</param>
+	<param name="id_id_separator">,</param>
+	<param name="id_num_separator">:</param>
+	
+	<!--本地输入目录-->
+	<param name="input_file_path">/home/recsys/data/recsys_data/propsrec_orderalsoorder/input/*/*</param>
+	<!--本地输出目录-->
+	<param name="output_file_path">/home/recsys/data/recsys_data/propsrec_orderalsoorder/output/user_propsrec_result</param>
+	
+	<param name="hadoop_ip">hdfs://192.168.20.4:9000</param>
+	
+	<!--hdfs工作目录-->
+	<param name="hdfs_work_path">/user/recsys/propsrec_orderalsoorder</param>
+	<!--hdfs输入目录-->
+	<param name="intput_hdfs_path">/user/recsys/propsrec_orderalsoorder/input/hdfsdata</param>
+	<!--hdfs中间计算目录-->
+	<param name="hdfs_middle_data_path">/user/recsys/propsrec_orderalsoorder/middle</param>
+	<!--hdfs中间计算目录-->
+	<param name="hdfs_matrix_path">/user/recsys/propsrec_orderalsoorder/matrix</param>
+	<!--hdfs输出目录-->
+	<param name="outtput_hdfs_path">/user/recsys/propsrec_orderalsoorder/output</param>
+	
+	
+	<!--输出方式:0全量输出ID,1全量输出ID和分,2topN输出ID,3topN输出ID和分-->
+	<param name="out_Which">2</param>
+	<!--还订购道具top个数-->
+	<param name="top_num">3</param>
+</config>

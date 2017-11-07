@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/predictpref
+END
+ItemNameReplaceMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/predictpref/ItemNameReplaceMapper.java
+END
+ItemConvertMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/predictpref/ItemConvertMapper.java
+END
+ItemBaseCfInMahout.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/predictpref/ItemBaseCfInMahout.java
+END
+HdfsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/predictpref/HdfsDAO.java
+END
+ItemConvertReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/predictpref/ItemConvertReducer.java
+END
+ItemIdReplaceMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/predictpref/ItemIdReplaceMapper.java
+END
+ItemBaseCfDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/BI-recsys/!svn/ver/7/code/trunk/qhll/userapprec/src/main/java/com/eb/bi/rs/qhll/userapprec/predictpref/ItemBaseCfDriver.java
+END

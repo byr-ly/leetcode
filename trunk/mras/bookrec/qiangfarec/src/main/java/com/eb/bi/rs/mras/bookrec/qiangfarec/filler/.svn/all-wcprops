@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/1324/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/filler
+END
+SelectHighlyRecommendBooksFillerMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/BI-recsys/!svn/ver/1323/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/filler/SelectHighlyRecommendBooksFillerMapper.java
+END
+SelectHighlyRecommendBooksFillerReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/BI-recsys/!svn/ver/1324/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/filler/SelectHighlyRecommendBooksFillerReducer.java
+END
+SelectHighlyRecommendBooksFillerDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/BI-recsys/!svn/ver/1322/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/filler/SelectHighlyRecommendBooksFillerDriver.java
+END

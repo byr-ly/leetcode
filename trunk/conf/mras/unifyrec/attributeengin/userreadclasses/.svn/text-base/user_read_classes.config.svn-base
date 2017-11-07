@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<param name="user_bookid_all">/home/recsys/data/recsys_data/input/user_bookid_all</param>
+	<param name="user_read_classes">/home/recsys/data/recsys_data/output/user_read_classes</param>
+    <param name="user_vectors_reduce_task_num">10</param>
+</config>

@@ -1,0 +1,176 @@
+<config>
+	<!--私人定制计算流程-->
+	<composite name="personaltailor">
+		<!--1 火热大点兵-->
+		<composite name="hotbookrec">			
+			<leaf>
+			<class>com.eb.bi.rs.frame.recframe.resultcal.offline.converter.H2VConvertDriver</class>
+				<configuration>
+					<!--single,multi字段分隔符，默认值是"|"-->
+					<single.multi.field.delimiter>|</single.multi.field.delimiter>
+					<!--multi group字段分隔符，默认值是"|"-->
+					<multi.group.delimiter>;</multi.group.delimiter>
+					<!--multi field字段分隔符，默认值是"|"，对于multi group只有一个field的情况，该配置项是没有意义的-->
+					<multi.field.delimiter></multi.field.delimiter>
+					
+					
+					
+					<!--single字段索引，默认值是"0"，可以配置多列，配置方式如"0,1"，列之间用逗号","分隔-->
+					<single.field.indexes>0,2</single.field.indexes>
+					<!--与multi无关字段索引，默认值是"0"，可以配置多列，配置方式如"0,1"，列之间用逗号","分隔-->
+					<!--当single.multi.field.delimiter与multi.group.delimiter相等时，必须包含该配置项，来确定multi的位置-->
+					<!--当single.multi.field.delimiter与multi.group.delimiter不相等时，不必包含改配置项-->
+					<!--另外，该配置项允许负数配置，例如，-1表示倒数第一个，-2表示倒数第二个-->
+					<multi.unrelated.field.indexes></multi.unrelated.field.indexes>
+					
+					<!--multi group索引，默认值是"1"，只能配置一列-->
+					<!--当single.multi.field.delimiter与multi.group.delimiter不相等时，包含改配置项，来确定multi的位置-->
+					<multi.group.set.index>1</multi.group.set.index>				
+					
+					<!--保留的mutifield字段索引（在group的位置），默认值是"0"，可以配置多列，配置方式如"0,1"，列之间用逗号","分隔-->
+					<reserved.multi.field.indexes>0</reserved.multi.field.indexes>
+					<!--group包含的字段数目，默认值是1-->
+					<multi.group.contains.field.number>1</multi.group.contains.field.number>
+				
+					
+			 	<!--输出格式-->
+			 		<!--single字段是否输出multi字段前面，默认值是true-->
+					<single.first>true</single.first>
+					<!--输出结果的字段分隔符，默认值是| -->
+					<result.field.delimiter>|</result.field.delimiter>
+
+					
+				<!--输入输出-->
+					<!--输入路径，可以配置多条路径，路径之间用逗号，分隔-->
+					<input.path>/user/recsys/personaltailor/tagbookrec/booktagscore/input</input.path>
+					<!--输出路径-->
+					<output.path>/user/recsys/personaltailor/tagbookrec/booktagscore/output</output.path>
+					
+				</configuration>
+			</leaf>
+			
+			<!--选取用户偏好的topN个分类-->
+			<leaf name="hotbookrec-UnorderedTopNSelectorDriver">
+			<class>com.eb.bi.rs.frame.recframe.resultcal.offline.selector.mr.UnorderedTopNSelectorDriver</class>
+			<configuration>
+				<!--字段分隔符，默认值是"|"-->
+				<field.delimiter>|</field.delimiter>
+				<!--键值字段索引号，默认值是"0"，可以配置多列，配置方式如"0,1"，列之间用逗号","分隔-->
+				<key.field.indexes>2</key.field.indexes>
+				<!--排序依据的字段的索引号，默认值是"0"，目前只支持按照一列排序，后续优化-->
+				<order.by.field.index>1</order.by.field.index>
+				<!--对于键值相同的一组记录，选取的记录数量，默认值是1-->
+				<select.number>12</select.number>		
+				<!--输入输出-->
+				<!--输入路径，可以配置多条路径，路径之间用逗号，分隔-->
+				<input.path>/user/recsys/personaltailor/tagbookrec/booktagscore/output/part*</input.path>
+				<!--输出路径-->
+				<output.path>/user/recsys/personaltailor/tagbookrec/topbooktag/output</output.path>					
+				<!--MR-->
+				<!--默认值是1-->
+				<mapred.reduce.tasks>20</mapred.reduce.tasks>					
+			</configuration>
+			</leaf>
+			
+			<!--用户图书关联-->
+			<leaf name="cachedjoin">
+				<class>com.eb.bi.rs.frame.recframe.resultcal.offline.cachejoiner.CachedJoinTool</class>
+				<configuration>
+				<!--输入文件的字段分割符正则表达式，不配置则默认为"\|"-->
+				<conf.input.delimiter>\|</conf.input.delimiter>
+				<!--cache文件的字段分割符正则表达式，不配置则默认为"\|"-->
+				<conf.cache.delimiter>\|</conf.cache.delimiter>
+				<!--输出文件的字段分割符，不配置则默认为"|"-->
+				<conf.output.delimiter>|</conf.output.delimiter>
+				<!--输出时，输入文件中的字段是否放在cache文件中的字段前面，不配置则默认为true-->
+				<conf.output.input.first>true</conf.output.input.first>
+
+				<!--cache文件中的key在字段中的索引值-->
+				<conf.cache.key.index>2</conf.cache.key.index>
+				<!--输入文件中的key在字段中的索引值-->
+				<conf.input.key.index>1</conf.input.key.index>
+				<!--输入路径-->
+				<conf.input.path>/user/recsys/personaltailor/usertagmark/output/part*</conf.input.path>
+				<!--输出目录-->
+				<conf.output.path>/user/recsys/personaltailor/tagbookrec/many2manyjoiner/output</conf.output.path>
+				<!--标签书库的路径-->
+				<conf.cache.path>/user/recsys/personaltailor/tagbookrec/topbooktag/output/part*</conf.cache.path>
+			</configuration>
+			</leaf>
+			
+			<leaf name = "H2VConvertDriver">
+                        <class>com.eb.bi.rs.frame.recframe.resultcal.offline.converter.H2VConvertDriver</class>
+                                <configuration>
+                                        <single.multi.field.delimiter>|</single.multi.field.delimiter>
+                                        <multi.group.delimiter>|</multi.group.delimiter>
+
+                                        <single.field.indexes>0</single.field.indexes>
+                                        <multi.unrelated.field.indexes>0</multi.unrelated.field.indexes>
+
+                                        <reserved.multi.field.indexes>0</reserved.multi.field.indexes>
+                                        <multi.group.contains.field.number>1</multi.group.contains.field.number>
+
+
+                                        <single.first>true</single.first>
+                                        <result.field.delimiter>|</result.field.delimiter>
+
+
+                                        <input.path>/user/recsys/personaltailor/newbookrec/output/part*</input.path>
+                                        <output.path>/user/recsys/personaltailor/newbookrec/outputV</output.path>
+
+                                </configuration>
+                        </leaf>
+			
+			<!--过滤(去历史、去其他栏目已推书)-->		<!--分类|用户|优先级|图书|频次-->	
+			<leaf name="hotbookrec-MatrixComputeDriver">
+				<class>com.eb.bi.rs.frame.recframe.resultcal.offline.filter.mr.GroupItemFilterDriver</class>
+				<configuration>
+					<!--待过滤集字段分隔符，默认值是"|"-->
+					<to.filter.field.delimiter>|</to.filter.field.delimiter>
+					<!--待过滤集键值字段索引，默认值是"0"，目前只能配置一列，后续优化为多列-->
+					<to.filter.key.field.index>1</to.filter.key.field.index>	
+					<!--待过滤集物品字段索引，默认值是"0",目前只能配置一列，后续优化为多列-->
+					<to.filter.item.field.index>3</to.filter.item.field.index>	
+					<!--过滤集字段分隔符，默认值是"|"-->
+					<filter.field.delimiter>|</filter.field.delimiter>
+					<!--过滤集键值字段索引号，默认值是"0"，目前只能配置一列，后续优化为多列-->
+					<filter.key.field.index>0</filter.key.field.index>	
+					<!--过滤集物品字段索引，默认值是"0",目前只能配置一列，后续优化为多列-->
+					<filter.item.field.index>1</filter.item.field.index>	
+					<!--过滤模式，默认值是"exclude"，可选值是include/exclude-->
+					<filter.mode>exclude</filter.mode>	
+								
+				<!--输入输出-->
+					<!--待过滤集输入路径，可以配置多条路径，路径之间用逗号"，"分隔-->
+					<to.filter.input.path>/user/recsys/personaltailor/tagbookrec/many2manyjoiner/output/part*</to.filter.input.path>
+					<!--过滤集输入路径，可以配置多条路径，路径之间用逗号"，"分隔-->
+					<filter.input.path>/user/recsys/personaltailor/hot/userhisdata,/user/recsys/personaltailor/hot/outputV,/user/recsys/personaltailor/newbookrec/outputV</filter.input.path>
+					<!--输出路径-->
+					<output.path>/user/recsys/personaltailor/tagbookrec/filteredcorrelationer/output</output.path>					
+				<!--MR-->
+					<!--默认值是1-->
+					<mapred.reduce.tasks>100</mapred.reduce.tasks>					
+				</configuration>
+			</leaf>
+			
+			<!--选取-->
+			<leaf name="usertagprefer">
+			<!--任务类，该类用于私人定制的“随心所欲看”栏目推书-->
+			<class>com.eb.bi.rs.mras.bookrec.personalrec.UserTagPreferTool</class>
+			<configuration>
+				<!--输入路径-->
+				<conf.input.path>/user/recsys/personaltailor/tagbookrec/filteredcorrelationer/output/part*</conf.input.path>
+				<!--输出目录-->
+				<conf.output.path>/user/recsys/personaltailor/tagbookrec/output</conf.output.path>
+				<!--reducer的个数，不配置则默认为1-->
+				<conf.num.reduce.tasks>100</conf.num.reduce.tasks>
+				<!--每个标签推4本书，不配置则默认4-->
+				<conf.top.n>4</conf.top.n>
+				<conf.tag.n>10</conf.tag.n>
+				<conf.rn.flag>false</conf.rn.flag>
+			</configuration>
+			</leaf>
+			
+		</composite>
+	</composite>
+</config>

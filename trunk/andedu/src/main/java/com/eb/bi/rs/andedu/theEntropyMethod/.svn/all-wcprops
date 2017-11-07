@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/BI-recsys/!svn/ver/1972/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/theEntropyMethod
+END
+ScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/1972/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/theEntropyMethod/ScoreMapper.java
+END
+PeakMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/BI-recsys/!svn/ver/1972/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/theEntropyMethod/PeakMapper.java
+END
+ScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/1972/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/theEntropyMethod/ScoreReducer.java
+END
+SumMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/1972/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/theEntropyMethod/SumMapper.java
+END
+EntropyReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/1972/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/theEntropyMethod/EntropyReducer.java
+END
+PeakReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/1972/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/theEntropyMethod/PeakReducer.java
+END
+EntropyDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BI-recsys/!svn/ver/1972/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/theEntropyMethod/EntropyDriver.java
+END
+StandardizeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/1972/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/theEntropyMethod/StandardizeMapper.java
+END
+SumReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/BI-recsys/!svn/ver/1972/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/theEntropyMethod/SumReducer.java
+END

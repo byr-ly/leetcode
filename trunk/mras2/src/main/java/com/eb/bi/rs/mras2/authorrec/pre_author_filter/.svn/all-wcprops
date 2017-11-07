@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/BI-recsys/!svn/ver/1182/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/pre_author_filter
+END
+PreAuthorFiterDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/1181/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/pre_author_filter/PreAuthorFiterDriver.java
+END
+Author.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1153/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/pre_author_filter/Author.java
+END
+PreAuthorFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/1181/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/pre_author_filter/PreAuthorFilterMapper.java
+END
+PreAuthorFilterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/1182/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/pre_author_filter/PreAuthorFilterReducer.java
+END
+SortByScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/BI-recsys/!svn/ver/1155/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/pre_author_filter/SortByScore.java
+END

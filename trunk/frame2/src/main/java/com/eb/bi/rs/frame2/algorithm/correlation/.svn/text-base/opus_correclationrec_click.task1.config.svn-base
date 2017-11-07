@@ -1,0 +1,47 @@
+<config>
+	<composite name="click-correlationrec">
+		<leaf name="click-correlationrec-dataPrep">
+			<class>com.eb.bi.rs.opus.correlation.DataPrepDriver</class>
+      <configuration>
+      	<reducer.num>10</reducer.num>
+      	<hdfs.input.path>/user/eb/dump_data/recsys/dw_user_sdk_kick_6cm/</hdfs.input.path>
+				<hdfs.output.path1>/user/eb/recsys/job0004/middle/user_click_history_merge/</hdfs.output.path1>
+				<hdfs.output.path2>/user/eb/recsys/job0004/middle/opus_click_times/</hdfs.output.path2>
+			</configuration>
+		</leaf>
+		<leaf name="click-correlationrec-cooccurence">
+			<class>com.eb.bi.rs.opus.correlation.CooccurenceDriver</class>
+			<configuration>
+				<reducer.num>10</reducer.num>
+				<hdfs.input.path>/user/eb/recsys/job0004/middle/user_click_history_merge/</hdfs.input.path>
+				<hdfs.output.path>/user/eb/recsys/job0004/middle/user_click_cooccurence/</hdfs.output.path>
+			</configuration>
+		</leaf>
+		<leaf name="click-correlationrec-index">
+			<class>com.eb.bi.rs.opus.correlation.CalculateIndexDriver</class>
+			<configuration>
+				<reducer.num>10</reducer.num>
+				<!--支持度阀值-->
+				<support.threshold.value>0.0</support.threshold.value>
+				<hdfs.input.path>/user/eb/recsys/job0004/middle/user_click_cooccurence/</hdfs.input.path>
+				<hdfs.cache.path>/user/eb/recsys/job0004/middle/opus_click_times/</hdfs.cache.path>
+				<hdfs.output.path>/user/eb/recsys/job0004/middle/opus_association_click_index/</hdfs.output.path>
+				</configuration>
+		</leaf>
+		<leaf name="click-correlationrec-result">
+			<class>com.eb.bi.rs.opus.correlation.CorrelationRecResultDriver</class>
+			<configuration>
+				<!--cos阀值-->
+				<cos.threshold.value>0.0</cos.threshold.value>
+				<!--不平衡因子ir阀值-->
+				<ir.threshold.value>1000000</ir.threshold.value>
+				<rec.num>100</rec.num>
+				<reducer.num>10</reducer.num>
+				<hdfs.input.path>/user/eb/recsys/job0004/middle/opus_association_click_index/</hdfs.input.path>
+				<!--物品详细信息-->
+				<hdfs.cache.path>/user/eb/dump_data/recsys/dim_opus/</hdfs.cache.path>
+				<hdfs.output.path>/user/eb/recsys/job0004/output/opus_association_click_result/</hdfs.output.path>
+			</configuration>
+		</leaf>
+	</composite>
+</config>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/1079/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/filler
+END
+ToRecommFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/BI-recsys/!svn/ver/1079/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/filler/ToRecommFilterMapper.java
+END
+FillerMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1079/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/filler/FillerMapper.java
+END
+FamousAuthorBookFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/BI-recsys/!svn/ver/1079/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/filler/FamousAuthorBookFilterMapper.java
+END
+NoFillerUserFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/filler/NoFillerUserFilterMapper.java
+END
+DeepReadDepthFillerFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/BI-recsys/!svn/ver/1079/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/filler/DeepReadDepthFillerFilterMapper.java
+END
+FillerReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1038/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/filler/FillerReducer.java
+END
+FillerUserFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1079/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/filler/FillerUserFilterMapper.java
+END
+NoFillerUserFilterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/filler/NoFillerUserFilterReducer.java
+END

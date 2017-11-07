@@ -1,0 +1,41 @@
+<config>
+	<!-- -->
+	<composite name="proportion">
+		<!--??????????F1???-->
+		<composite name="proportion">
+
+            <!--1.1 ????-->
+            <leaf name="Recallrate-calculation">
+            <class>com.eb.bi.rs.frame2.evaluation.offline.basicindicators.OfflineCountDriver</class>
+            <configuration>
+                <!--????????????-->
+                <hdfs.data.retain.input.path>houmaozheng/evaluation/input/user_book_info/retain_user*</hdfs.data.retain.input.path>
+                <!--????????????-->
+                <hdfs.data.rec.input.path>houmaozheng/evaluation/input/user_book_info/rec_user*</hdfs.data.rec.input.path>
+                <!--????-->
+                <hdfs.data.output.path>houmaozheng/evaluation/middle/offline/statis_results_info</hdfs.data.output.path>
+                <!--?????,???: "\|" -->
+                <field.delimiter>\|</field.delimiter>
+                <!--reduce??,??? "1" -->
+                <mapred.reduce.tasks>1</mapred.reduce.tasks>
+            </configuration>
+            </leaf>
+
+            <!--1.2 ??????????F1???-->
+            <leaf name="Recallrate-calculation">
+            <class>com.eb.bi.rs.frame2.evaluation.offline.basicindicators.OfflineBasisDriver</class>
+            <configuration>
+                <!--????????????-->
+                <hdfs.data.input.path>houmaozheng/evaluation/middle/offline/statis_results_info</hdfs.data.input.path>
+                <!--????-->
+                <hdfs.data.output.path>houmaozheng/evaluation/output/offline/basis</hdfs.data.output.path>
+                <!--?????,???: "\|" -->
+                <field.delimiter>\|</field.delimiter>
+                <!--reduce??,??? "1" -->
+                <mapred.reduce.tasks>1</mapred.reduce.tasks>
+            </configuration>
+            </leaf>
+
+        </composite>
+	</composite>
+</config>

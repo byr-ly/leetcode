@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="algorithm-occurrence" />
+        <module name="algorithm-pca" />
+        <module name="andedu" />
+        <module name="anhui-moduledev" />
+        <module name="frame-common" />
+        <module name="frame-idoxframe" />
+        <module name="frame-recframe-base" />
+        <module name="frame-recframe-knowledgecal-usertagweight" />
+        <module name="frame-recframe-resultcal-offline-cachejoiner" />
+        <module name="frame-recframe-resultcal-offline-converter" />
+        <module name="frame-recframe-resultcal-offline-correlationer" />
+        <module name="frame-recframe-resultcal-offline-datareduction" />
+        <module name="frame-recframe-resultcal-offline-filter" />
+        <module name="frame-recframe-resultcal-offline-joiner" />
+        <module name="frame-recframe-resultcal-offline-selector" />
+        <module name="frame-recframe-resultcal-offline-sorter" />
+        <module name="frame-recframe-resultcal-offline-supplementer" />
+        <module name="frame-service-dataload-file2redis" />
+        <module name="frame-service-dataload-hdfs2local" />
+        <module name="frame-service-dataload-hdfs2redis" />
+        <module name="frame-service-dataload-local2hdfs" />
+        <module name="frame-service-dataload-ora2redis" />
+        <module name="frame-service-msgdispatch" />
+        <module name="frame2" />
+        <module name="hkmras-correlation-datapro" />
+        <module name="hkmras-guessyoulike-filler" />
+        <module name="mras-andnewsrec" />
+        <module name="mras-andnewsrecstorm" />
+        <module name="mras-authorrec-itemcf" />
+        <module name="mras-booklistrec" />
+        <module name="mras-bookrec-channelrec" />
+        <module name="mras-bookrec-corelationrec" />
+        <module name="mras-bookrec-correrecrealtimefilter" />
+        <module name="mras-bookrec-guessyoulike" />
+        <module name="mras-bookrec-itemcf-predictscore" />
+        <module name="mras-bookrec-itemcf-similarity" />
+        <module name="mras-bookrec-knowledgecal-bookmark" />
+        <module name="mras-bookrec-knowledgecal-tagmark" />
+        <module name="mras-bookrec-personalrec" />
+        <module name="mras-bookrec-qiangfarec" />
+        <module name="mras-bookrec-unifiedinterface" />
+        <module name="mras-correlationresultmerge" />
+        <module name="mras-generec-hadoop" />
+        <module name="mras-generec-storm" />
+        <module name="mras-propsrec-orderalsoorder" />
+        <module name="mras-realcollection-userbehavior" />
+        <module name="mras-seachrec-keyseach-offline" />
+        <module name="mras-seachrec-keyseach-online" />
+        <module name="mras-seachrec-relatedkey-offline" />
+        <module name="mras-seachrec-relatedkey-online" />
+        <module name="mras-unifyrec-attributeengin" />
+        <module name="mras-unifyrec-greylist" />
+        <module name="mras-unifyrec-realtimerec" />
+        <module name="mras-unifyrec-subversionstorm" />
+        <module name="mras-userbooksprepare" />
+        <module name="mras-voicebookrec-lastpage" />
+        <module name="mras2" />
+        <module name="mrasspark" />
+        <module name="opus" />
+        <module name="opusstorm" />
+        <module name="qhll-userapprec" />
+        <module name="result2hbase (1) (com.eb.bi.rs.frame.service.dataload)" />
+        <module name="result2hbase (2) (com.eb.bi.rs.result2hbase)" />
+        <module name="unifyrecsresult2hbase" />
+        <module name="voicebook" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="algorithm" target="1.5" />
+      <module name="algorithm-occurrence" target="1.5" />
+      <module name="algorithm-pca" target="1.6" />
+      <module name="andedu" target="1.6" />
+      <module name="anhui" target="1.5" />
+      <module name="anhui-moduledev" target="1.6" />
+      <module name="frame" target="1.5" />
+      <module name="frame-common" target="1.6" />
+      <module name="frame-idoxframe" target="1.5" />
+      <module name="frame-recframe" target="1.5" />
+      <module name="frame-recframe-base" target="1.6" />
+      <module name="frame-recframe-knowledgecal" target="1.5" />
+      <module name="frame-recframe-knowledgecal-usertagweight" target="1.6" />
+      <module name="frame-recframe-resultcal" target="1.5" />
+      <module name="frame-recframe-resultcal-offline" target="1.5" />
+      <module name="frame-recframe-resultcal-offline-cachejoiner" target="1.6" />
+      <module name="frame-recframe-resultcal-offline-converter" target="1.6" />
+      <module name="frame-recframe-resultcal-offline-correlationer" target="1.6" />
+      <module name="frame-recframe-resultcal-offline-datareduction" target="1.6" />
+      <module name="frame-recframe-resultcal-offline-filter" target="1.6" />
+      <module name="frame-recframe-resultcal-offline-joiner" target="1.6" />
+      <module name="frame-recframe-resultcal-offline-selector" target="1.6" />
+      <module name="frame-recframe-resultcal-offline-sorter" target="1.6" />
+      <module name="frame-recframe-resultcal-offline-supplementer" target="1.6" />
+      <module name="frame-service" target="1.5" />
+      <module name="frame-service-dataload" target="1.5" />
+      <module name="frame-service-dataload-file2redis" target="1.5" />
+      <module name="frame-service-dataload-hdfs2local" target="1.5" />
+      <module name="frame-service-dataload-hdfs2redis" target="1.5" />
+      <module name="frame-service-dataload-local2hdfs" target="1.5" />
+      <module name="frame-service-dataload-ora2redis" target="1.5" />
+      <module name="frame-service-msgdispatch" target="1.6" />
+      <module name="frame2" target="1.6" />
+      <module name="hkmras" target="1.5" />
+      <module name="hkmras-correlation-datapro" target="1.5" />
+      <module name="hkmras-guessyoulike-filler" target="1.5" />
+      <module name="mras" target="1.5" />
+      <module name="mras-andnewsrec" target="1.6" />
+      <module name="mras-andnewsrecstorm" target="1.6" />
+      <module name="mras-authorrec" target="1.5" />
+      <module name="mras-authorrec-itemcf" target="1.6" />
+      <module name="mras-booklistrec" target="1.6" />
+      <module name="mras-bookrec" target="1.5" />
+      <module name="mras-bookrec-channelrec" target="1.6" />
+      <module name="mras-bookrec-corelationrec" target="1.6" />
+      <module name="mras-bookrec-correrecrealtimefilter" target="1.6" />
+      <module name="mras-bookrec-guessyoulike" target="1.6" />
+      <module name="mras-bookrec-itemcf" target="1.5" />
+      <module name="mras-bookrec-itemcf-predictscore" target="1.6" />
+      <module name="mras-bookrec-itemcf-similarity" target="1.6" />
+      <module name="mras-bookrec-knowledgecal" target="1.5" />
+      <module name="mras-bookrec-knowledgecal-bookmark" target="1.6" />
+      <module name="mras-bookrec-knowledgecal-tagmark" target="1.6" />
+      <module name="mras-bookrec-personalrec" target="1.6" />
+      <module name="mras-bookrec-qiangfarec" target="1.6" />
+      <module name="mras-bookrec-unifiedinterface" target="1.6" />
+      <module name="mras-correlationresultmerge" target="1.6" />
+      <module name="mras-generec" target="1.6" />
+      <module name="mras-generec-hadoop" target="1.6" />
+      <module name="mras-generec-storm" target="1.6" />
+      <module name="mras-propsrec" target="1.5" />
+      <module name="mras-propsrec-orderalsoorder" target="1.6" />
+      <module name="mras-realcollection" target="1.5" />
+      <module name="mras-realcollection-userbehavior" target="1.6" />
+      <module name="mras-seachrec" target="1.5" />
+      <module name="mras-seachrec-keyseach" target="1.5" />
+      <module name="mras-seachrec-keyseach-offline" target="1.6" />
+      <module name="mras-seachrec-keyseach-online" target="1.6" />
+      <module name="mras-seachrec-relatedkey" target="1.5" />
+      <module name="mras-seachrec-relatedkey-offline" target="1.6" />
+      <module name="mras-seachrec-relatedkey-online" target="1.6" />
+      <module name="mras-unifyrec" target="1.5" />
+      <module name="mras-unifyrec-attributeengin" target="1.6" />
+      <module name="mras-unifyrec-greylist" target="1.5" />
+      <module name="mras-unifyrec-realtimerec" target="1.6" />
+      <module name="mras-unifyrec-subversionstorm" target="1.6" />
+      <module name="mras-userbooksprepare" target="1.6" />
+      <module name="mras-voicebookrec" target="1.5" />
+      <module name="mras-voicebookrec-lastpage" target="1.6" />
+      <module name="mras2" target="1.6" />
+      <module name="mrasspark" target="1.7" />
+      <module name="opus" target="1.6" />
+      <module name="opusstorm" target="1.6" />
+      <module name="qhll" target="1.5" />
+      <module name="qhll-userapprec" target="1.6" />
+      <module name="result2hbase (1) (com.eb.bi.rs.frame.service.dataload)" target="1.6" />
+      <module name="result2hbase (2) (com.eb.bi.rs.result2hbase)" target="1.6" />
+      <module name="rs" target="1.5" />
+      <module name="unifyrecsresult2hbase" target="1.6" />
+      <module name="voicebook" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

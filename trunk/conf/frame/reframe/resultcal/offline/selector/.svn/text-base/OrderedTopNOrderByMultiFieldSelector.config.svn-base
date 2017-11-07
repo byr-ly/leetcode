@@ -1,0 +1,45 @@
+<leaf name="">
+				<class>com.eb.bi.rs.frame.recframe.resultcal.offline.selector.mr.OrderedTopNOrderByMultiFieldDriver</class>
+				<configuration>
+					<!--字段分隔符，默认值是"|"-->
+					<field.delimiter></field.delimiter>
+					<!--键值字段索引号，默认值是"0"，可以配置多列，配置方式如"0,1"，列之间用逗号","分隔-->
+					<key.field.indexes></key.field.indexes>
+					<!--对于键值相同的一组记录，选取的记录数目，默认值是1-->
+					<top.number></top.number>
+					<!--如果选取的记录数小于该下限，则记录不输出-->
+					<low.bound></low.bound>
+					<!--排序模式，默认值是空，该配置项是必需的，形如"2:asc,6:desc",表示按第2列升序排列，按第6列降序排列-->
+					<order.mode></order.mode>
+					
+			 	<!--输出格式-->
+			 		<!--是否输出竖表，默认值是true-->
+					<is.vertical></is.vertical>
+					<!--如果输出竖表，是否需要加序列号，默认值是true，如果输出时横表，则不需要使用配置项（即使配置为true也不会起作用） -->
+					<with.sequence></with.sequence>
+					<!--输出时保留的列索引号，默认值是空，可以配置多列，配置方式如"0,1"，列之间用逗号","分隔-->
+					<!--不需要使用该配置项的情况：(1)如果输出竖表，且将每条记录的所有记录都输出，(2)如果输出是横表，且除键值列的所有列都需要累加到一起，-->	
+					<!--如果输出竖表，则需要配置成所有需要保留的列的所有值，如果是横表，则只需要配置需要累加到键值列的后面的列索引号， -->							
+					<reserve.field.indexes></reserve.field.indexes>
+					
+				<!--输入输出-->
+					<!--输入路径，可以配置多条路径，路径之间用逗号，分隔-->
+					<input.path></input.path>
+					<!--输出路径-->
+					<output.path></output.path>
+					
+				<!--MR-->
+					<!--默认值是1-->
+					<mapred.reduce.tasks>10</mapred.reduce.tasks>
+					<!--输入格式，默认是TextInputFormat，如果想要配置SequenceFileInputFormat，填写org.apache.hadoop.mapreduce.lib.input.SequenceFileInputFormat-->
+					<mapreduce.inputformat.class></mapreduce.inputformat.class>
+					<!--输出格式，默认是TextOutputFormat，如果想要配置SequenceFileOutputFormat，填写org.apache.hadoop.mapreduce.lib.output.SequenceFileOutputFormat-->
+					<mapreduce.outputformat.class></mapreduce.outputformat.class>
+					<!--输出时是否压缩，可选项是true，false-->
+					<mapred.output.compress></mapred.output.compress>
+					<!--如果压缩，压缩格式，如果要配置lzo，填写com.hadoop.compression.lzo.LzoCodec-->
+					<mapred.output.compression.codec></mapred.output.compression.codec>
+					<!--sequenceFile是记录压缩，还是块压缩，可选项是BLOCK,RECORD-->
+					<mapred.output.compression.type></mapred.output.compression.type>					
+				</configuration>
+</leaf>

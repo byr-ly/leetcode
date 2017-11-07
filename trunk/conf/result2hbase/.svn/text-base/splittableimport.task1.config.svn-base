@@ -1,0 +1,18 @@
+<config>
+        <composite name="personaltailor">
+                <leaf name="resultloader_tag">
+                        <class>com.eb.bi.rs.hdfs2hbase.SplitHbaseWriteTool</class>
+                        <configuration>
+                                <conf.input.path>tableimport/attribute_score_increment</conf.input.path>
+                                <conf.zk.host>10.1.69.170</conf.zk.host>
+                                <conf.zk.port>2182</conf.zk.port>
+                                <conf.hbase.table>engine_attribute_result</conf.hbase.table>
+                                <conf.num.reduce.tasks>5</conf.num.reduce.tasks>
+                                <conf.import.split>;</conf.import.split>
+                                <conf.import.express>rowkey;cf:c</conf.import.express>
+                                <conf.rowkey.last>3</conf.rowkey.last>
+                                <conf.sleep.ms>0.500000</conf.sleep.ms>
+                        </configuration>
+                </leaf>
+        </composite>
+</config>

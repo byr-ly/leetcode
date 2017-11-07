@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/authorsimilarity
+END
+AuthorSimMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/authorsimilarity/AuthorSimMapper.java
+END
+AuthorSimReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/authorsimilarity/AuthorSimReducer.java
+END
+AuthorSimDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/authorsimilarity/AuthorSimDriver.java
+END

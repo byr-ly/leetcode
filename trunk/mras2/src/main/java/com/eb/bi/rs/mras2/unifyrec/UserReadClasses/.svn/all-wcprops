@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/BI-recsys/!svn/ver/1512/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/unifyrec/UserReadClasses
+END
+UserReadClassesReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/1512/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/unifyrec/UserReadClasses/UserReadClassesReducer.java
+END
+UserReadClassesDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/1512/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/unifyrec/UserReadClasses/UserReadClassesDriver.java
+END
+UserReadClassesMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/1512/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/unifyrec/UserReadClasses/UserReadClassesMapper.java
+END

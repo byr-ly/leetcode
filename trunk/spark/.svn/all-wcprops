@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/BI-recsys/!svn/ver/1982/code/trunk/spark
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/BI-recsys/!svn/ver/1982/code/trunk/spark/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/BI-recsys/!svn/ver/1982/code/trunk/spark/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/BI-recsys/!svn/ver/1980/code/trunk/spark/pom.xml
+END

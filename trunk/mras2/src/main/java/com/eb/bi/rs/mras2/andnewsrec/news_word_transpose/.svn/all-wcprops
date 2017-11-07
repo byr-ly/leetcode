@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/BI-recsys/!svn/ver/1407/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/andnewsrec/news_word_transpose
+END
+NewsWordsTransposeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1327/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/andnewsrec/news_word_transpose/NewsWordsTransposeMapper.java
+END
+NewsWordsTransposeReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1219/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/andnewsrec/news_word_transpose/NewsWordsTransposeReducer.java
+END
+NewsWordsTransposeDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1407/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/andnewsrec/news_word_transpose/NewsWordsTransposeDriver.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/partition
+END
+UserPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/partition/UserPartitioner.java
+END
+UserPartitionerI.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/partition/UserPartitionerI.java
+END
+UserPartitionerN.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/partition/UserPartitionerN.java
+END

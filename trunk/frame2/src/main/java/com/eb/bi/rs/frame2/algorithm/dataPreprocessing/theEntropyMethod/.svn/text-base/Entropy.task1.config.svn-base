@@ -1,0 +1,31 @@
+<config>
+
+    <param name="entropy.reduce.num.peak">3</param>
+    <!-- 输入目录路径 -->
+    <param name="entropy.originalinfo">/user/ebupt/linwanying/product/entropy/originalinfo</param>
+    <!-- 最大最小值结果输出路径 -->
+    <param name="entropy.peak">/user/ebupt/linwanying/product/entropy/peak/</param>
+
+    <param name="entropy.reduce.num.standardize">1</param>
+    <!-- 数据归一化结果输出路径 -->
+    <param name="entropy.standardize">/user/ebupt/linwanying/product/entropy/standardize</param>
+
+    <param name="entropy.reduce.num.sum">3</param>
+    <!-- 用户行为指标和输出路径 -->
+    <param name="entropy.sum">/user/ebupt/linwanying/product/entropy/sum/</param>
+
+    <param name="entropy.reduce.num.entropy">3</param>
+    <!-- 用户行为指标熵值输出路径 -->
+    <param name="entropy.entropy">/user/ebupt/linwanying/product/entropy/entropy/</param>
+
+    <param name="entropy.reduce.num.score">3</param>
+    <!-- 用户行为最后得分输出路径 -->
+    <param name="entropy.score">/user/ebupt/linwanying/product/entropy/score/</param>
+    <!-- 用户行为个数，如用户|品牌|用户对品牌忠诚度|品牌流行度|用户对品牌偏好，则行为个数为3 -->
+    <param name="action_num">3</param>
+    <!-- 各个行为指标的归一化方式。1: (cur-min)/(max-min), 0: (max-cur)/(max-min) -->
+    <param name="standardize_type">1</param>
+    <!-- 分割符 -->
+    <param name="separator">|</param>
+
+</config>

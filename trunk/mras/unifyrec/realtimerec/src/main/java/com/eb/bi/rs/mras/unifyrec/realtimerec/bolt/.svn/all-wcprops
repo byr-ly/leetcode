@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/BI-recsys/!svn/ver/2131/code/trunk/mras/unifyrec/realtimerec/src/main/java/com/eb/bi/rs/mras/unifyrec/realtimerec/bolt
+END
+MergeBoltSimilar.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/2131/code/trunk/mras/unifyrec/realtimerec/src/main/java/com/eb/bi/rs/mras/unifyrec/realtimerec/bolt/MergeBoltSimilar.java
+END
+SimilarBolt.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1866/code/trunk/mras/unifyrec/realtimerec/src/main/java/com/eb/bi/rs/mras/unifyrec/realtimerec/bolt/SimilarBolt.java
+END
+RequestSpout.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1866/code/trunk/mras/unifyrec/realtimerec/src/main/java/com/eb/bi/rs/mras/unifyrec/realtimerec/bolt/RequestSpout.java
+END
+ReadFromHDFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/869/code/trunk/mras/unifyrec/realtimerec/src/main/java/com/eb/bi/rs/mras/unifyrec/realtimerec/bolt/ReadFromHDFS.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1987/code/trunk/mras/unifyrec/realtimerec/src/main/java/com/eb/bi/rs/mras/unifyrec/realtimerec/bolt/Constant.java
+END
+PrintHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/877/code/trunk/mras/unifyrec/realtimerec/src/main/java/com/eb/bi/rs/mras/unifyrec/realtimerec/bolt/PrintHelper.java
+END

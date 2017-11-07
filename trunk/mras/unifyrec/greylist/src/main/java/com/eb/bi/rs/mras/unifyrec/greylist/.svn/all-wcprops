@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/1515/code/trunk/mras/unifyrec/greylist/src/main/java/com/eb/bi/rs/mras/unifyrec/greylist
+END
+App.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/1475/code/trunk/mras/unifyrec/greylist/src/main/java/com/eb/bi/rs/mras/unifyrec/greylist/App.java
+END
+write_grey_list.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1496/code/trunk/mras/unifyrec/greylist/src/main/java/com/eb/bi/rs/mras/unifyrec/greylist/write_grey_list.task1.config
+END
+WriteGreyListMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1496/code/trunk/mras/unifyrec/greylist/src/main/java/com/eb/bi/rs/mras/unifyrec/greylist/WriteGreyListMapper.java
+END
+WriteGreyListReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1515/code/trunk/mras/unifyrec/greylist/src/main/java/com/eb/bi/rs/mras/unifyrec/greylist/WriteGreyListReducer.java
+END
+WriteGreyListDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1496/code/trunk/mras/unifyrec/greylist/src/main/java/com/eb/bi/rs/mras/unifyrec/greylist/WriteGreyListDriver.java
+END

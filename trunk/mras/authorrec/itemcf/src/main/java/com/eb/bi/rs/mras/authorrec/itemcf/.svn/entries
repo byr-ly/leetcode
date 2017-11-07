@@ -1,0 +1,140 @@
+10
+
+dir
+2155
+http://liyang@10.1.1.212/svn/BI-recsys/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf
+http://liyang@10.1.1.212/svn/BI-recsys
+
+
+
+2016-05-11T10:01:18.788288Z
+1262
+liyang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aff18cde-65bf-46cc-a571-9cca275ceb57
+
+module_test
+dir
+
+author_average_score
+dir
+
+collaborate
+dir
+
+commonuser
+dir
+
+driver
+dir
+
+authorscore
+dir
+
+App.java
+file
+
+
+
+
+2016-12-16T04:56:42.000000Z
+897f8fdbf3fbc6959f9a10c7a1ef794f
+2015-12-08T06:41:45.436737Z
+1021
+guohongbo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+197
+
+ObjectWritable
+dir
+
+read_author_filter
+dir
+
+author
+dir
+
+author_pre_score
+dir
+
+authortype
+dir
+
+display
+dir
+
+bookinfo
+dir
+
+readscore
+dir
+
+thread
+dir
+
+pre_author
+dir
+
+authorsimilarity
+dir
+
+partition
+dir
+
+recommend
+dir
+
+unrelated_author_filter
+dir
+
+order
+dir
+
+read
+dir
+
+filler
+dir
+
+pre_author_filter
+dir
+
+util
+dir
+
+user
+dir
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/BI-recsys/!svn/ver/2049/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/booklistrec/booklist_score
+END
+BookListScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/1504/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/booklistrec/booklist_score/BookListScoreMapper.java
+END
+BookListScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/2049/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/booklistrec/booklist_score/BookListScoreReducer.java
+END

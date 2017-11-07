@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/BI-recsys/!svn/ver/2014/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/charge/bolt
+END
+FailReasonBolt.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/2013/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/charge/bolt/FailReasonBolt.java
+END
+CityBolt.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/2013/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/charge/bolt/CityBolt.java
+END
+SplitBolt.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/2014/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/charge/bolt/SplitBolt.java
+END
+SummaryBolt.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/2013/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/charge/bolt/SummaryBolt.java
+END

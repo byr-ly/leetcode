@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/config
+END
+ConfData.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/config/ConfData.java
+END
+ConfRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/config/ConfRecord.java
+END
+PluginConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/config/PluginConfig.java
+END
+ConfRecordField.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/config/ConfRecordField.java
+END
+ConfigReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/config/ConfigReader.java
+END
+ConfDataList.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/config/ConfDataList.java
+END

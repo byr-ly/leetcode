@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/BI-recsys/!svn/ver/1694/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/booklistrec/sheet_filter_hbase
+END
+SheetFilterHbaseMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1590/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/booklistrec/sheet_filter_hbase/SheetFilterHbaseMapper.java
+END
+SheetFilterHbaseReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1694/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/booklistrec/sheet_filter_hbase/SheetFilterHbaseReducer.java
+END

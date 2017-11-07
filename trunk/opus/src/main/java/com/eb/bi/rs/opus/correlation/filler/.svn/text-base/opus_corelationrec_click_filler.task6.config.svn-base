@@ -1,0 +1,13 @@
+<config>
+        <composite name="click-correlationrec-filler">
+                <leaf name="click-correlationrec-filler">
+			<class>com.eb.bi.rs.opus.correlation.filler.CorrelationRecFillerDriver</class>
+                        <configuration>
+				<reducer.num>10</reducer.num>
+				<input.hdfs.path>/user/recsys/jobxxxx/middle/opus_appear_times/</input.hdfs.path>
+				<cache.hdfs.path>/user/recsys/common/opus_infos/</cache.hdfs.path>
+				<output.hdfs.path>/user/recsys/jobxxxx/output/opus_correlation_click_filler/</output.hdfs.path>
+                        </configuration>
+                </leaf>
+        </composite>
+</config>

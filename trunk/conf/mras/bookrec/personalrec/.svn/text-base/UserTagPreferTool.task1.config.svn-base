@@ -1,0 +1,22 @@
+<config>
+	<composite name="personaltailor">
+		<leaf name="usertagprefer">
+			<!--任务类，该类用于私人定制的“随心所欲看”栏目推书-->
+			<class>com.eb.bi.rs.mras.bookrec.personalrec.UserTagPreferTool</class>
+			<configuration>
+				<!--输入路径-->
+				<conf.input.path>personalrec/usertagdata/dat</conf.input.path>
+				<!--输出目录-->
+				<conf.output.path>personalrec/taghotbook</conf.output.path>
+				<!--reducer的个数，不配置则默认为1-->
+				<conf.num.reduce.tasks>1</conf.num.reduce.tasks>
+				<!--每个标签推4本书，不配置则默认4-->
+				<conf.top.n>4</conf.top.n>
+				<!--每个用户最多推10个标签，不配置则默认10-->
+				<conf.tag.n>10</conf.tag.n>
+				<!--是否输出标签顺序rn字段，不配置则默认为true-->
+				<conf.rn.flag>true</conf.rn.flag>
+			</configuration>
+		</leaf>
+	</composite>
+</config>

@@ -1,0 +1,25 @@
+<leaf name="">
+				<class>com.eb.bi.rs.frame.recframe.resultcal.offline.filter.mr.ItemFilterDriver</class>
+				<configuration>
+					<!--待过滤集字段分隔符，默认值是"|"-->
+					<to.filter.field.delimiter></to.filter.field.delimiter>
+					<!--待过滤集物品字段索引，默认值是"0",目前只能配置一列，后续优化为多列-->
+					<to.filter.item.field.index></to.filter.item.field.ndex>	
+					<!--过滤集字段分隔符，默认值是"|"-->
+					<filter.field.delimiter></filter.field.delimiter>
+					<!--过滤集物品字段索引，默认值是"0",目前只能配置一列，后续优化为多列-->
+					<filter.item.field.index></filter.item.field.index>	
+					<!--过滤模式，默认值是"exclude"，可选值是include/exclude-->
+					<filter.mode></filter.mode>									
+				<!--输入输出-->
+					<!--待过滤集输入路径，可以配置多条路径，路径之间用逗号"，"分隔-->
+					<to.filter.input.path></to.filter.input.path>
+					<!--过滤集输入路径，可以配置多条路径，路径之间用逗号"，"分隔-->
+					<filter.input.path></filter.input.path>
+					<!--输出路径-->
+					<output.path></output.path>					
+				<!--MR-->
+					<!--默认值是1-->
+					<mapred.reduce.tasks>10</mapred.reduce.tasks>					
+				</configuration>
+</leaf>

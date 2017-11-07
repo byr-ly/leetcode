@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/BI-recsys/!svn/ver/1362/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/load_allnews
+END
+LoadNewsMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/1343/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/load_allnews/LoadNewsMapper.java
+END
+SegMore.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/BI-recsys/!svn/ver/1362/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/load_allnews/SegMore.java
+END
+WordWeight.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/load_allnews/WordWeight.java
+END
+LoadNewsReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/1343/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/load_allnews/LoadNewsReducer.java
+END
+LoadNewsDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/load_allnews/LoadNewsDriver.java
+END
+NewsWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/1343/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/load_allnews/NewsWord.java
+END

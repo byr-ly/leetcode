@@ -1,0 +1,34 @@
+<config>
+	<param name="record_day"></param>
+	
+	<param name="neighbour_num">1</param>
+	
+	<param name="tagdict_max_split_size_job1">64</param>
+	<param name="tagdict_max_split_size_job2">1</param>
+	<param name="tagdict_max_split_size_job3">64</param>
+	
+	<param name="reduce_num_job1">1</param>
+	<param name="reduce_num_job2">4</param>
+	<param name="reduce_num_job3">4</param>
+	
+	<param name="k_v_separator">|</param>
+	<param name="id_id_separator">,</param>
+	<param name="id_num_separator">:</param>
+	<param name="out_Which">2</param>
+	<param name="top_num">3</param>
+	
+	<param name="input_file_path">/home/idox/tangkun/input/*</param>
+	<param name="output_file_path">/home/idox/tangkun/output/result</param>
+	
+	<param name="hadoop_ip">hdfs://10.1.69.179:9000</param>
+	
+	<param name="hdfs_work_path">/user/hadoop/tangkun</param>
+	
+	<param name="intput_hdfs_path">/user/hadoop/tangkun/input/hdfsdata</param>
+	
+	<param name="hdfs_middle_data_path">/user/hadoop/tangkun/middle</param>
+	
+	<param name="hdfs_matrix_path">/user/hadoop/tangkun/matrix</param>
+	
+	<param name="outtput_hdfs_path">/user/hadoop/tangkun/output</param>
+</config>

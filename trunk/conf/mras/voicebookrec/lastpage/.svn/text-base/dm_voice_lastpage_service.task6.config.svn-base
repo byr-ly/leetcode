@@ -1,0 +1,57 @@
+<config>
+	<!--本地图书信息-->
+
+	<param name="local_book_info_path">/home/recsys/data/recsys_data/voice_book/lastpage/input/voice_book_info</param>	
+	
+	<!--图书信息在hdfs的路径-->
+	<param name="hdfs_book_info_path">/user/recsys/lastpage/service/input/voice_bookinfo.txt</param>
+	
+	
+<!--order also order-->
+	<!--订购读书频次-->
+	<param name="order_book_frequency_path">/user/recsys/lastpage/cooccurrence/order/frequency</param>
+	<param name="order_column_book_frequency_path">/user/recsys/lastpage/service/order/columnfrequency</param>
+	
+	
+	<!--订购共现矩阵，共现矩阵计算模块的输出-->
+	<param name="order_book_cooccurrence_path">/user/recsys/lastpage/cooccurrence/order/proportion</param>
+	<param name="order_join_book_cooccurrence_path">/user/recsys/lastpage/service/order/joinproportion</param>	
+	
+	<param name="order_also_order_path">/user/recsys/lastpage/service/order/output</param>
+	<param name="local_order_also_order_path">/home/recsys/data/recsys_data/voice_book/lastpage/output/order_result</param>
+
+	<param name="order_job1_reduce_number">6</param>
+	<param name="order_job2_reduce_number">6</param>
+	<param name="order_job3_reduce_number">6</param>
+	
+	
+	<param name="order_recommend_number">10</param>
+	<param name="order_pow_number">2</param>	
+	
+<!--read also read-->
+	<param name="read_serial_book_path">/user/recsys/lastpage/service/read/serialbook</param>
+	
+	
+	<param name="read_job1_reduce_number">6</param>
+	<param name="read_job2_reduce_number">6</param>
+	<param name="read_job3_reduce_number">6</param>
+	<param name="read_job4_reduce_number">6</param>
+	
+	
+	<!--阅读读书频次-->
+	<param name="read_book_frequency_path">/user/recsys/lastpage/cooccurrence/read/frequency</param>	
+	<param name="read_column_book_frequency_path">/user/recsys/lastpage/service/read/columnfrequency</param>
+	
+	<!--阅读共现矩阵-->
+	<param name="read_book_cooccurrence_path">/user/recsys/lastpage/cooccurrence/read/proportion</param>
+	<param name="read_join_book_cooccurrence_path">/user/recsys/lastpage/service/read/joinproportion</param>
+	
+	
+	<param name="read_also_read_path">/user/recsys/lastpage/service/read/output</param>
+	<param name="local_read_also_read_path">/home/recsys/data/recsys_data/voice_book/lastpage/output/read_result</param>
+	
+	
+	<param name="read_recommend_serial_book_number">2</param>
+	<param name="read_recommend_number">10</param>
+	<param name="read_pow_number">2</param>	
+</config>

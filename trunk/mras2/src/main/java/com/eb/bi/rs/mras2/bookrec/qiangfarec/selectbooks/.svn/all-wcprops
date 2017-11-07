@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/BI-recsys/!svn/ver/1510/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/qiangfarec/selectbooks
+END
+Qiangfarec.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/1503/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/qiangfarec/selectbooks/Qiangfarec.java
+END
+SelectHighlyRecommendBooksMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/1503/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/qiangfarec/selectbooks/SelectHighlyRecommendBooksMapper.java
+END
+SelectBooksFromZoneMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1508/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/qiangfarec/selectbooks/SelectBooksFromZoneMapper.java
+END
+SelectHighlyRecommendBooksReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/1508/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/qiangfarec/selectbooks/SelectHighlyRecommendBooksReducer.java
+END
+SelectHighlyRecommendBooksDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/1510/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/qiangfarec/selectbooks/SelectHighlyRecommendBooksDriver.java
+END
+SelectBooksFromZoneDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1509/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/qiangfarec/selectbooks/SelectBooksFromZoneDriver.java
+END

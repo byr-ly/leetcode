@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/author_average_score
+END
+AuthorAveScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/BI-recsys/!svn/ver/1149/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/author_average_score/AuthorAveScoreMapper.java
+END
+AuthorAveScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/author_average_score/AuthorAveScoreReducer.java
+END
+AuthorAveScoreDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/author_average_score/AuthorAveScoreDriver.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/BI-recsys/!svn/ver/1976/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/hdfs2hbase/base
+END
+BaseMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/BI-recsys/!svn/ver/1976/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/hdfs2hbase/base/BaseMain.java
+END
+ComponentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/1976/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/hdfs2hbase/base/ComponentHelper.java
+END
+ToolLeaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/BI-recsys/!svn/ver/1976/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/hdfs2hbase/base/ToolLeaf.java
+END
+BaseDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/1976/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/hdfs2hbase/base/BaseDriver.java
+END
+JobComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/1976/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/hdfs2hbase/base/JobComponent.java
+END
+JobComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/1976/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/hdfs2hbase/base/JobComposite.java
+END

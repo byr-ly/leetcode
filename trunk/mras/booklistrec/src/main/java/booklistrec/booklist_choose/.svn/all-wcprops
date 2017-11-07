@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/BI-recsys/!svn/ver/1501/code/trunk/mras/booklistrec/src/main/java/booklistrec/booklist_choose
+END
+BookListChooseReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/1501/code/trunk/mras/booklistrec/src/main/java/booklistrec/booklist_choose/BookListChooseReducer.java
+END
+SheetScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/1485/code/trunk/mras/booklistrec/src/main/java/booklistrec/booklist_choose/SheetScore.java
+END
+BookListChooseMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/BI-recsys/!svn/ver/1485/code/trunk/mras/booklistrec/src/main/java/booklistrec/booklist_choose/BookListChooseMapper.java
+END
+SortByScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/1485/code/trunk/mras/booklistrec/src/main/java/booklistrec/booklist_choose/SortByScore.java
+END

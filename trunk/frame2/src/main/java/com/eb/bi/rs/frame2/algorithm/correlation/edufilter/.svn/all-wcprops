@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/1995/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/correlation/edufilter
+END
+EduCorrelationFilterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1995/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/correlation/edufilter/EduCorrelationFilterReducer.java
+END
+EduCorrelationFilterDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/1995/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/correlation/edufilter/EduCorrelationFilterDriver.java
+END
+EduCorrelationFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/1995/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/correlation/edufilter/EduCorrelationFilterMapper.java
+END

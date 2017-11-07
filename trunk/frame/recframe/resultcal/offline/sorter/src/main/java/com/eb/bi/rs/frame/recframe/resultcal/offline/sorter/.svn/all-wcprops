@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/BI-recsys/!svn/ver/1499/code/trunk/frame/recframe/resultcal/offline/sorter/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/sorter
+END
+App.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/1499/code/trunk/frame/recframe/resultcal/offline/sorter/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/sorter/App.java
+END
+SortReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/BI-recsys/!svn/ver/1499/code/trunk/frame/recframe/resultcal/offline/sorter/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/sorter/SortReducer.java
+END
+SortDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/BI-recsys/!svn/ver/1499/code/trunk/frame/recframe/resultcal/offline/sorter/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/sorter/SortDriver.java
+END
+CompositeKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/BI-recsys/!svn/ver/1499/code/trunk/frame/recframe/resultcal/offline/sorter/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/sorter/CompositeKey.java
+END
+SortMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/BI-recsys/!svn/ver/1499/code/trunk/frame/recframe/resultcal/offline/sorter/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/sorter/SortMapper.java
+END

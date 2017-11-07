@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr
+END
+OrderedTopNSelectorReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/OrderedTopNSelectorReducer.java
+END
+OrderedTopNOrderByMultiFieldMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/OrderedTopNOrderByMultiFieldMapper.java
+END
+OrderedTopNSelectorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/OrderedTopNSelectorDriver.java
+END
+UnorderedTopNSelectorReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/UnorderedTopNSelectorReducer.java
+END
+UnorderedTopNSelectorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/UnorderedTopNSelectorDriver.java
+END
+OrderedTopNSelectorCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/OrderedTopNSelectorCombiner.java
+END
+OrderedTopNOrderByMultiFieldReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/OrderedTopNOrderByMultiFieldReducer.java
+END
+OrderedTopNOrderByMultiFieldDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/OrderedTopNOrderByMultiFieldDriver.java
+END
+UnorderedTopNSelectorCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/UnorderedTopNSelectorCombiner.java
+END
+RandomTopSelectorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/RandomTopSelectorMapper.java
+END
+OrderedTopNOrderByMultiFieldCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/OrderedTopNOrderByMultiFieldCombiner.java
+END
+RandomTopSelectorReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/RandomTopSelectorReducer.java
+END
+RandomTopSelectorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/RandomTopSelectorDriver.java
+END
+RandomSelectorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/RandomSelectorMapper.java
+END
+RandomSelectorReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/RandomSelectorReducer.java
+END
+OrderedTopNSelectorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/OrderedTopNSelectorMapper.java
+END
+RandomSelectorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/RandomSelectorDriver.java
+END
+UnorderedTopNSelectorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/mr/UnorderedTopNSelectorMapper.java
+END

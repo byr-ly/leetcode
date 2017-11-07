@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/1364/code/trunk/mras/unifyrec/attributeengin/src/main/java/com/eb/bi/rs/mras/unifyrec/attributeengin/UserPrefGenerator
+END
+UserPrefGeneratorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/BI-recsys/!svn/ver/1364/code/trunk/mras/unifyrec/attributeengin/src/main/java/com/eb/bi/rs/mras/unifyrec/attributeengin/UserPrefGenerator/UserPrefGeneratorMapper.java
+END
+UserPrefGeneratorReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/BI-recsys/!svn/ver/1364/code/trunk/mras/unifyrec/attributeengin/src/main/java/com/eb/bi/rs/mras/unifyrec/attributeengin/UserPrefGenerator/UserPrefGeneratorReducer.java
+END
+UserPrefGeneratorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/BI-recsys/!svn/ver/1364/code/trunk/mras/unifyrec/attributeengin/src/main/java/com/eb/bi/rs/mras/unifyrec/attributeengin/UserPrefGenerator/UserPrefGeneratorDriver.java
+END
+UserPrefVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/BI-recsys/!svn/ver/1364/code/trunk/mras/unifyrec/attributeengin/src/main/java/com/eb/bi/rs/mras/unifyrec/attributeengin/UserPrefGenerator/UserPrefVector.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/1051/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/readscore
+END
+ReadAuthorScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/1051/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/readscore/ReadAuthorScoreMapper.java
+END
+ReadAuthorScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/1051/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/readscore/ReadAuthorScoreReducer.java
+END

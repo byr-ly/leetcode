@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BI-recsys/!svn/ver/860/code/trunk/mras/bookrec/unifiedinterface/src/main/java/org/mras/bookrec/unifiedinterface
+END
+TopologyStarter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/774/code/trunk/mras/bookrec/unifiedinterface/src/main/java/org/mras/bookrec/unifiedinterface/TopologyStarter.java
+END
+RequestSpout.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/859/code/trunk/mras/bookrec/unifiedinterface/src/main/java/org/mras/bookrec/unifiedinterface/RequestSpout.java
+END
+RecRepoBookInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/745/code/trunk/mras/bookrec/unifiedinterface/src/main/java/org/mras/bookrec/unifiedinterface/RecRepoBookInfo.java
+END
+HandleBolt.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/860/code/trunk/mras/bookrec/unifiedinterface/src/main/java/org/mras/bookrec/unifiedinterface/HandleBolt.java
+END
+PrintHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/745/code/trunk/mras/bookrec/unifiedinterface/src/main/java/org/mras/bookrec/unifiedinterface/PrintHelper.java
+END

@@ -1,0 +1,49 @@
+<config>
+        <composite name="click-correlationrec">
+                <leaf name="click-correlationrec-dataPrep">
+			<class>com.eb.bi.rs.opus.correlation.DataPrepDriver</class>
+                        <configuration>
+				<reducer.num>10</reducer.num>
+				<input.hdfs.path>/user/recsys/jobxxxx/input/user_click_history/</input.hdfs.path>
+				<output.hdfs.path>/user/recsys/jobxxxx/middle/user_click_history_merge/</output.hdfs.path>
+                        </configuration>
+                </leaf>
+		<leaf name="click-correlationrec-cooccurence">
+			<class>com.eb.bi.rs.opus.correlation.CooccurenceDriver</class>
+                        <configuration>
+				<reducer.num>10</reducer.num>
+				<input.hdfs.path>/user/recsys/jobxxxx/middle/user_click_history_merge/</input.hdfs.path>
+				<output.hdfs.path>/user/recsys/jobxxxx/middle/user_click_cooccurence/</output.hdfs.path>
+                        </configuration>
+                </leaf>
+		<leaf name="click-correlationrec-appear-times">
+			<class>com.eb.bi.rs.opus.correlation.AppearTimesDriver</class>
+                        <configuration>
+				<reducer.num>10</reducer.num>
+				<input.hdfs.path>/user/recsys/jobxxxx/input/user_click_history/</input.hdfs.path>
+				<output.hdfs.path>/user/recsys/jobxxxx/middle/opus_click_times/</output.hdfs.path>
+                        </configuration>
+                </leaf>
+		<leaf name="click-correlationrec-index">
+			<class>com.eb.bi.rs.opus.correlation.CalculateIndexDriver</class>
+                        <configuration>
+				<reducer.num>10</reducer.num>
+				<input.hdfs.path>/user/recsys/jobxxxx/middle/user_click_cooccurence/</input.hdfs.path>
+				<cache.hdfs.path>/user/recsys/jobxxxx/middle/opus_click_times/</cache.hdfs.path>
+				<output.hdfs.path>/user/recsys/jobxxxx/middle/opus_association_click_index/</output.hdfs.path>
+                        </configuration>
+                </leaf>
+		<leaf name="click-correlationrec-result">
+			<class>com.eb.bi.rs.opus.correlation.CorrelationRecResultDriver</class>
+                        <configuration>
+				<support.threshold.value>10</support.threshold.value>
+				<cos.threshold.value>10</cos.threshold.value>
+				<ir.threshold.value>10</ir.threshold.value>
+				<reducer.num>10</reducer.num>
+				<input.hdfs.path>/user/recsys/jobxxxx/middle/opus_association_click_index/</input.hdfs.path>
+				<cache.hdfs.path>/user/recsys/jobxxxx/input/opus_info/</input.hdfs.path>
+				<output.hdfs.path>/user/recsys/jobxxxx/output/opus_association_click_result/</output.hdfs.path>
+                        </configuration>
+                </leaf>
+        </composite>
+</config>

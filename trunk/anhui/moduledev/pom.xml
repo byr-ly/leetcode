@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+
+<project 
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" 
+	xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    
+  <modelVersion>4.0.0</modelVersion>
+  
+  
+  <parent>
+    <groupId>com.eb.bi.rs.anhui</groupId>
+    <artifactId>anhui</artifactId>
+    <version>1.0-SNAPSHOT</version>
+  </parent>
+  
+  
+  <groupId>com.eb.bi.rs.anhui.moduledev</groupId>
+  <artifactId>anhui-moduledev</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>jar</packaging>   
+  <name>moduledev</name>
+  <url>http://maven.apache.org</url>
+  
+  
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <dependencies>
+     <dependency>
+            <groupId>jdk.tools</groupId>
+            <artifactId>jdk.tools</artifactId>
+            <version>1.8</version>
+            <scope>system</scope>
+            <systemPath>${JAVA_HOME}/lib/tools.jar</systemPath>
+     </dependency>
+      <dependency>
+          <groupId>com.eb.bi.rs.frame2</groupId>
+          <artifactId>frame2</artifactId>
+          <version>1.0-SNAPSHOT</version>
+      </dependency>
+        <dependency>
+            <groupId>org.apache.hadoop</groupId>
+            <artifactId>hadoop-common</artifactId>
+            <version>2.6.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.hadoop</groupId>
+            <artifactId>hadoop-mapreduce-client-core</artifactId>
+            <version>2.6.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.hadoop</groupId>
+            <artifactId>hadoop-mapreduce-client-jobclient</artifactId>
+            <version>2.6.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.hadoop</groupId>
+            <artifactId>hadoop-datajoin</artifactId>
+            <version>2.6.2</version>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>3.8.1</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
+        </dependency>
+        <dependency>
+            <groupId>dom4j</groupId>
+            <artifactId>dom4j</artifactId>
+            <version>1.6.1</version>
+        </dependency>
+  </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+	 <groupId>org.apache.maven.plugins</groupId>
+	 <artifactId>maven-compiler-plugin</artifactId>
+	 <version>2.1</version>
+	 <configuration>
+	   <source>1.6</source>
+	   <target>1.6</target>
+	 </configuration>
+	 </plugin>
+      <plugin>
+        <artifactId>maven-assembly-plugin</artifactId>
+          <configuration>
+            <descriptorRefs>
+              <descriptorRef>jar-with-dependencies</descriptorRef>
+            </descriptorRefs>
+          </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>

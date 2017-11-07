@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/2059/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/dataPreprocessing/theEntropyMethod
+END
+ScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/2059/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/dataPreprocessing/theEntropyMethod/ScoreMapper.java
+END
+PeakMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/2016/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/dataPreprocessing/theEntropyMethod/PeakMapper.java
+END
+ScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/BI-recsys/!svn/ver/2041/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/dataPreprocessing/theEntropyMethod/ScoreReducer.java
+END
+Entropy.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/BI-recsys/!svn/ver/2017/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/dataPreprocessing/theEntropyMethod/Entropy.task1.config
+END
+SumMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/2016/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/dataPreprocessing/theEntropyMethod/SumMapper.java
+END
+EntropyReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/2059/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/dataPreprocessing/theEntropyMethod/EntropyReducer.java
+END
+PeakReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/2016/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/dataPreprocessing/theEntropyMethod/PeakReducer.java
+END
+EntropyDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/2059/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/dataPreprocessing/theEntropyMethod/EntropyDriver.java
+END
+StandardizeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/2017/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/dataPreprocessing/theEntropyMethod/StandardizeMapper.java
+END
+SumReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/2016/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/algorithm/dataPreprocessing/theEntropyMethod/SumReducer.java
+END

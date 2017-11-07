@@ -1,0 +1,92 @@
+10
+
+dir
+2155
+http://liyang@10.1.1.212/svn/BI-recsys/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu
+http://liyang@10.1.1.212/svn/BI-recsys
+
+
+
+2017-09-04T02:37:32.359687Z
+2132
+haochunyu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aff18cde-65bf-46cc-a571-9cca275ceb57
+
+App.java
+file
+
+
+
+
+2017-06-01T01:21:22.000000Z
+e61689e7ba04822833428b5460a1c7e3
+2017-05-10T10:43:56.007381Z
+1916
+guohongbo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+182
+
+combination
+dir
+
+theEntropyMethod
+dir
+
+inforec
+dir
+
+synthesize
+dir
+
+individuation
+dir
+
+predictScore
+dir
+
+itemcf
+dir
+
+rescorrelationsplit
+dir
+
+appsort
+dir
+
+hdfs2hbase
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/BI-recsys/!svn/ver/321/code/trunk/frame/recframe/resultcal/offline/supplementer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/supplementer
+END
+App.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/BI-recsys/!svn/ver/234/code/trunk/frame/recframe/resultcal/offline/supplementer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/supplementer/App.java
+END
+Supplement1ToberecResultMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/BI-recsys/!svn/ver/208/code/trunk/frame/recframe/resultcal/offline/supplementer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/supplementer/Supplement1ToberecResultMapper.java
+END
+SupplementReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/BI-recsys/!svn/ver/294/code/trunk/frame/recframe/resultcal/offline/supplementer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/supplementer/SupplementReducer.java
+END
+RecommendResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/BI-recsys/!svn/ver/321/code/trunk/frame/recframe/resultcal/offline/supplementer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/supplementer/RecommendResult.java
+END
+SupplementDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/BI-recsys/!svn/ver/282/code/trunk/frame/recframe/resultcal/offline/supplementer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/supplementer/SupplementDriver.java
+END
+Supplement2BlackListMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/BI-recsys/!svn/ver/231/code/trunk/frame/recframe/resultcal/offline/supplementer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/supplementer/Supplement2BlackListMapper.java
+END

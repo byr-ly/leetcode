@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/dna2hbase
+END
+DnaResult2HbaseReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/dna2hbase/DnaResult2HbaseReducer.java
+END
+DnaChaptCnt2HbaseMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/dna2hbase/DnaChaptCnt2HbaseMapper.java
+END
+DnaResult2HbaseDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/dna2hbase/DnaResult2HbaseDriver.java
+END
+DnaResult2HbaseTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/dna2hbase/DnaResult2HbaseTool.java
+END
+DnaChaptCnt2HbaseReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/dna2hbase/DnaChaptCnt2HbaseReducer.java
+END
+DnaChaptCnt2HbaseDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/dna2hbase/DnaChaptCnt2HbaseDriver.java
+END
+DnaChaptCnt2HbaseTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/dna2hbase/DnaChaptCnt2HbaseTool.java
+END
+DnaResult2HbaseMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/dna2hbase/DnaResult2HbaseMapper.java
+END
+DnaResult2HbaseTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/dna2hbase/DnaResult2HbaseTable.java
+END

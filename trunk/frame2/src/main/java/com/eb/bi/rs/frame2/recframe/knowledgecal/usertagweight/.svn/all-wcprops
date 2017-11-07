@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BI-recsys/!svn/ver/1179/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/knowledgecal/usertagweight
+END
+UserLabelComputeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/knowledgecal/usertagweight/UserLabelComputeMapper.java
+END
+UserLabelComputeReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1176/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/knowledgecal/usertagweight/UserLabelComputeReducer.java
+END
+UserLabelComputeDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/1179/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/knowledgecal/usertagweight/UserLabelComputeDriver.java
+END

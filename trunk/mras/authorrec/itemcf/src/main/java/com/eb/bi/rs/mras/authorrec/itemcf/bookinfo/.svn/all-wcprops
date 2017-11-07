@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/BI-recsys/!svn/ver/1065/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/bookinfo
+END
+AuthorBookCountReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/bookinfo/AuthorBookCountReducer.java
+END
+AuthorBookAllCountMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/1046/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/bookinfo/AuthorBookAllCountMapper.java
+END
+BookInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/bookinfo/BookInfo.java
+END
+AuthorBookOnShelfCountMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/BI-recsys/!svn/ver/1046/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/bookinfo/AuthorBookOnShelfCountMapper.java
+END
+AuthorClassifyTableMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BI-recsys/!svn/ver/1065/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/bookinfo/AuthorClassifyTableMapper.java
+END
+AuthorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1028/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/bookinfo/AuthorInfo.java
+END

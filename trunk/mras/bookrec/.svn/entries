@@ -1,0 +1,105 @@
+10
+
+dir
+2155
+http://liyang@10.1.1.212/svn/BI-recsys/code/trunk/mras/bookrec
+http://liyang@10.1.1.212/svn/BI-recsys
+
+
+
+2017-06-16T07:20:26.121950Z
+2003
+yangningning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aff18cde-65bf-46cc-a571-9cca275ceb57
+
+knowledgecal
+dir
+
+mras-bookrec-correrecrealtimefilter
+dir
+
+browsealso
+dir
+
+qiangfarec
+dir
+
+voicebook
+dir
+
+channelrec
+dir
+
+mras-bookrec.iml
+file
+0
+
+
+add
+
+unifiedinterface
+dir
+
+itemcf
+dir
+
+guessyoulike
+dir
+
+corelationrec
+dir
+
+pom.xml
+file
+
+
+
+
+2016-12-16T04:56:39.000000Z
+5589f1ead21fe879602b3477e85bcd17
+2016-06-02T07:00:15.387748Z
+1349
+liuchang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1107
+
+correrecrealtimefilter
+dir
+
+personalrec
+dir
+

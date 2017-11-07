@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/BI-recsys/!svn/ver/861/code/trunk/frame/idoxframe/src/main/java/com/eb/bi/rs/frame/idoxframe/pluginutil
+END
+PluginParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/851/code/trunk/frame/idoxframe/src/main/java/com/eb/bi/rs/frame/idoxframe/pluginutil/PluginParam.java
+END
+PluginExitCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/851/code/trunk/frame/idoxframe/src/main/java/com/eb/bi/rs/frame/idoxframe/pluginutil/PluginExitCode.java
+END
+PluginConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/851/code/trunk/frame/idoxframe/src/main/java/com/eb/bi/rs/frame/idoxframe/pluginutil/PluginConfig.java
+END
+PluginUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/BI-recsys/!svn/ver/861/code/trunk/frame/idoxframe/src/main/java/com/eb/bi/rs/frame/idoxframe/pluginutil/PluginUtil.java
+END
+PluginResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/851/code/trunk/frame/idoxframe/src/main/java/com/eb/bi/rs/frame/idoxframe/pluginutil/PluginResult.java
+END

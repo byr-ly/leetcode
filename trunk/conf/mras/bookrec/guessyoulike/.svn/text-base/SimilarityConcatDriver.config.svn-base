@@ -1,0 +1,13 @@
+<leaf name="simconcat">
+    <class>com.eb.bi.rs.mras.bookrec.guessyoulike.SimilarityConcatDriver</class>
+    <configuration>
+    	<!--输入路径，多种相似度的输入路径以逗号分隔-->
+        <conf.input.path>guessyoulike/sim1,guessyoulike/sim2</conf.input.path>
+        <!--输出路径，结果为sequencefile，key为null，value为bookA|bookB|sim1,sim2...-->
+        <conf.output.path>guessyoulike/simconcat</conf.output.path>
+        <!--reducer个数，默认为1-->
+        <conf.num.reduce.tasks>1</conf.num.reduce.tasks>
+        <!--相似度的维度，表示有多少种相似度，默认为1-->
+        <conf.similarity.dimension>2</conf.similarity.dimension>
+    </configuration>
+</leaf>

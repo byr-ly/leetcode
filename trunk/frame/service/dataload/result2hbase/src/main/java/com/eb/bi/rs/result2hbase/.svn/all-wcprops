@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/2056/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase
+END
+ComponentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/ComponentHelper.java
+END
+ToolLeaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/ToolLeaf.java
+END
+FriendClientLoginInfoTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/FriendClientLoginInfoTool.java
+END
+PersonalTailorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/PersonalTailorDriver.java
+END
+LoadUserReadHistory2.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1961/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/LoadUserReadHistory2.java
+END
+PluginParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/PluginParam.java
+END
+FriendClientLoginInfoMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/FriendClientLoginInfoMapper.java
+END
+OnlineDayTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/OnlineDayTool.java
+END
+PersonalResultTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/PersonalResultTool.java
+END
+PluginExitCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/PluginExitCode.java
+END
+PluginConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/PluginConfig.java
+END
+FriendClientLoginInfoReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/FriendClientLoginInfoReducer.java
+END
+BaseDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/BaseDriver.java
+END
+PersonalResultMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/PersonalResultMapper.java
+END
+PersonalResultTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/PersonalResultTable.java
+END
+PersonalResultReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/PersonalResultReducer.java
+END
+LoadUserReadHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/2056/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/LoadUserReadHistory.java
+END
+PluginUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/PluginUtil.java
+END
+JobComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/JobComposite.java
+END
+JobComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/JobComponent.java
+END
+PluginResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/853/code/trunk/frame/service/dataload/result2hbase/src/main/java/com/eb/bi/rs/result2hbase/PluginResult.java
+END

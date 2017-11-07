@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/BI-recsys/!svn/ver/2014/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/db_oracle
+END
+DBConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/2014/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/db_oracle/DBConstant.java
+END
+JDBCUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/1808/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/db_oracle/JDBCUtil.java
+END
+DB.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/BI-recsys/!svn/ver/1860/code/trunk/opusstorm/src/main/java/com/eb/bi/rs/largeScreen/db_oracle/DB.java
+END

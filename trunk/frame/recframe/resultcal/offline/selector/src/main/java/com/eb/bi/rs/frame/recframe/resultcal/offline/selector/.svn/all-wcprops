@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/611/code/trunk/frame/recframe/resultcal/offline/selector/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/selector
+END
+RandomSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/BI-recsys/!svn/ver/247/code/trunk/frame/recframe/resultcal/offline/selector/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/selector/RandomSelector.java
+END
+RandomTopSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/BI-recsys/!svn/ver/247/code/trunk/frame/recframe/resultcal/offline/selector/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/selector/RandomTopSelector.java
+END
+OrderedTopNSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/BI-recsys/!svn/ver/247/code/trunk/frame/recframe/resultcal/offline/selector/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/selector/OrderedTopNSelector.java
+END
+UnorderedTopNSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/BI-recsys/!svn/ver/247/code/trunk/frame/recframe/resultcal/offline/selector/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/selector/UnorderedTopNSelector.java
+END
+SelectorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/BI-recsys/!svn/ver/247/code/trunk/frame/recframe/resultcal/offline/selector/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/selector/SelectorBase.java
+END
+OrderedTopNOrderByMultiFieldSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/BI-recsys/!svn/ver/247/code/trunk/frame/recframe/resultcal/offline/selector/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/selector/OrderedTopNOrderByMultiFieldSelector.java
+END

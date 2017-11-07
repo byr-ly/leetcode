@@ -1,0 +1,27 @@
+<leaf name="">
+				<class>com.eb.bi.rs.frame.recframe.resultcal.offline.joiner.mr.Many2ManyJoinerDriver</class>
+				<configuration>
+					<!--small side字段分隔符，默认值是"|"-->
+					<small.side.field.delimiter></small.side.field.delimiter>
+					<!--small side键值字段索引号，默认值是"0"，目前只能配置一列，后续优化为多列-->
+					<small.side.key.field.index></small.side.key.field.index>		
+					<!--large side字段分隔符，默认值是"|"-->
+					<large.side.field.delimiter></.large.side.field.delimiter>
+					<!--large side键值字段索引号，默认值是"0"，目前只能配置一列，后续优化为多列-->
+					<large.side.key.field.index></large.side.key.field.index>					
+					<!--join结果字段分隔符，默认值是"|"-->
+					<join.result.field.delimiter></join.result.field.delimiter>
+					<!--join结果中small side输入中的字段是否排在large side前面，默认值是true-->
+					<join.result.small.side.first></join.result.small.side.first>					
+				<!--输入输出-->
+					<!--small side 输入路径，可以配置多条路径，路径之间用逗号"，"分隔-->
+					<small.side.input.path></small.side.input.path>
+					<!--large side 输入路径，可以配置多条路径，路径之间用逗号"，"分隔-->
+					<large.side.input.path></large.side.input.path>
+					<!--输出路径-->
+					<output.path></output.path>					
+				<!--MR-->
+					<!--默认值是1-->
+					<mapred.reduce.tasks>10</mapred.reduce.tasks>					
+				</configuration>
+</leaf>

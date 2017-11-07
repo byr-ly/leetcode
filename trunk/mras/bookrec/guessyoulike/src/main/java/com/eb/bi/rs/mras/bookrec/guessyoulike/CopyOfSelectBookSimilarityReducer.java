@@ -1,0 +1,43 @@
+package com.eb.bi.rs.mras.bookrec.guessyoulike;
+
+import java.io.IOException;
+import java.util.ArrayList;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.io.NullWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Reducer;
+
+
+import com.eb.bi.rs.mras.bookrec.guessyoulike.util.MinHeapSortUtil;
+import com.eb.bi.rs.mras.bookrec.guessyoulike.util.StringDoublePair;
+
+
+
+public class CopyOfSelectBookSimilarityReducer extends Reducer<Text, StringDoublePair, NullWritable, Text>{
+	private int selectNumber;
+	private String similarityIndex;
+	@Override
+	protected void reduce(Text key, Iterable<StringDoublePair> values, Context context) throws IOException ,InterruptedException {
+
+		
+		ArrayList<StringDoublePair> list = new ArrayList<StringDoublePair>();
+		for(StringDoublePair pair : values){
+			list.add(new StringDoublePair(pair));
+		}
+		ArrayList<StringDoublePair> topList = MinHeapSortUtil.getTopNArray(list, selectNumber);
+		for(StringDoublePair pair : topList){
+			//图书A|图书B|来源|相似度
+			context.write(NullWritable.get(), new Text(key.toString() + "|" + pair.getFirst() + "|" + similarityIndex + "|" + pair.getSecond()));
+		}
+	}
+	
+	
+	
+	@Override
+	protected void setup(Context context) throws java.io.IOException ,InterruptedException {
+		Configuration conf = context.getConfiguration();
+		selectNumber = conf.getInt("select.number", 1);
+		similarityIndex = conf.get("similarity.index", "1");
+	}
+}

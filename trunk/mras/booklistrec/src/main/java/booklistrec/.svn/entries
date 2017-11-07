@@ -1,0 +1,80 @@
+10
+
+dir
+2155
+http://liyang@10.1.1.212/svn/BI-recsys/code/trunk/mras/booklistrec/src/main/java/booklistrec
+http://liyang@10.1.1.212/svn/BI-recsys
+
+
+
+2016-07-20T03:53:20.630500Z
+1501
+liyang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aff18cde-65bf-46cc-a571-9cca275ceb57
+
+booklist_book
+dir
+
+booklist_score
+dir
+
+booklist_desc
+dir
+
+booklist_choose
+dir
+
+BookListRecomDriver.java
+file
+
+
+
+
+2016-12-16T04:56:35.000000Z
+0509d79bc74f2d78ea920295b9c55178
+2016-07-15T04:50:00.261147Z
+1489
+liyang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12147
+
+booklist_filter
+dir
+
+booklist_sort
+dir
+

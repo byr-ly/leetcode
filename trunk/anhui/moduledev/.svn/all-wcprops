@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/BI-recsys/!svn/ver/1766/code/trunk/anhui/moduledev
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/BI-recsys/!svn/ver/1751/code/trunk/anhui/moduledev/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/BI-recsys/!svn/ver/1702/code/trunk/anhui/moduledev/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/BI-recsys/!svn/ver/1724/code/trunk/anhui/moduledev/pom.xml
+END

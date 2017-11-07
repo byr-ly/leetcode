@@ -1,0 +1,16 @@
+<config>
+        <composite name="personaltailor">
+                <leaf name="resultloader_tag">
+                        <class>com.eb.bi.rs.hdfs2hbase.ImportDataProTool</class>
+                        <configuration>
+                                <conf.input.path>base_score</conf.input.path>
+                                <conf.output.path>base_score_out</conf.output.path>                               
+                                <conf.num.reduce.tasks>2</conf.num.reduce.tasks>
+                                <conf.data.split>\|</conf.data.split>
+                                <conf.rowkey.indexs>0,1</conf.rowkey.indexs>
+                                <conf.rowkey.split>_</conf.rowkey.split>
+                                <conf.rowkey.data.split>;</conf.rowkey.data.split>
+                        </configuration>
+                </leaf>
+        </composite>
+</config>

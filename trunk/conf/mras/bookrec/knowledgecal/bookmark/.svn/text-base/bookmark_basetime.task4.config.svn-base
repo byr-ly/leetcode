@@ -1,0 +1,20 @@
+<config>
+	<composite name="userbookmark_basetime">
+		<leaf name="userbookmark_basetime">
+			<class>com.eb.bi.rs.mras.bookrec.knowledgecal.bookmark.basetime.BaseTimeDriver</class>
+				<configuration>
+				<hdfs.input.path.1>/user/recsys/markrelation/bookmark/userbookscore/userbookscore</hdfs.input.path.1>
+				
+				<hdfs.input.path.2>/user/recsys/markrelation/bookmark/input/userbooklastday</hdfs.input.path.2>
+				
+				<hdfs.output.path>/user/recsys/markrelation/bookmark/newuserbookmark</hdfs.output.path>
+				
+				<hdfs.app.conf.h1>12</hdfs.app.conf.h1>
+				<hdfs.app.conf.M>60</hdfs.app.conf.M>
+				
+				<hadoop.reduce.num>200</hadoop.reduce.num>
+				<hadoop.map.maxsplitsizejob>64</hadoop.map.maxsplitsizejob>
+				</configuration>
+		</leaf>
+	</composite>
+</config>

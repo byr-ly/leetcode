@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<param name="worker_num">5</param>
+	<param name="spout_num">3</param>
+	<param name="bolt_num">100</param>
+	
+
+	
+	<param name="max_spout_pending">10000</param>
+	
+	
+	<param name="input_redis">192.168.20.103::6380</param>
+	<param name="output_redis">192.168.20.103::6381</param>
+	
+
+	
+	<param name="order_type">8</param>
+	<param name="read_type">9</param>
+    
+    	
+	<param name="hbase.zookeeper.quorum">eb179,eb178,eb177</param>
+	<param name="hbase.zookeeper.property.clientPort">2181</param>
+	<param name="user_read_history">user_read_history</param>
+	
+	
+	
+	<param name="result_expire_time">60</param>
+	
+	<param name="rec_num">10</param>	
+	
+	<param name="result_key_prefix">filter_resp</param>
+	
+	
+	
+	<input_data name="RequestSpout" type="Redis" link="10.1.70.4::3030::filter_req" loadCommand="rpop" meta="userdata"/>
+	<record name="userdata" parseType="Xml" fieldDelimiter="|" recordDelimiter="\n">
+	       <field name="user" nullable="true" size="6" type="string"/>
+	       <field name="word" nullable="true" size="6" type="string"/>
+	       <field name="type" nullable="true" size="6" type="string"/>
+	</record>
+</config>

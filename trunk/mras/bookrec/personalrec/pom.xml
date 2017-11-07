@@ -1,0 +1,140 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.eb.bi.rs.mras.bookrec</groupId>
+		<artifactId>mras-bookrec</artifactId>
+		<version>1.0-SNAPSHOT</version>
+	</parent>
+
+	<groupId>com.eb.bi.rs.mras.bookrec.personalrec</groupId>
+	<artifactId>mras-bookrec-personalrec</artifactId>
+	<packaging>jar</packaging>
+	<version>1.0-SNAPSHOT</version>
+	<name>personalrec</name>
+	<url>http://maven.apache.org</url>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.hadoop</groupId>
+			<artifactId>hadoop-core</artifactId>
+			<version>1.0.4</version>
+		</dependency>
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.16</version>
+		</dependency>
+		<dependency>
+			<groupId>dom4j</groupId>
+			<artifactId>dom4j</artifactId>
+			<version>1.6.1</version>
+		</dependency>
+		<dependency>
+			<groupId>com.eb.bi.rs.frame.common</groupId>
+			<artifactId>frame-common</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.eb.bi.rs.frame.recframe.base</groupId>
+			<artifactId>frame-recframe-base</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.eb.bi.rs.frame.recframe.resultcal.offline.supplementer</groupId>
+			<artifactId>frame-recframe-resultcal-offline-supplementer</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.eb.bi.rs.frame.recframe.resultcal.offline.filter</groupId>
+			<artifactId>frame-recframe-resultcal-offline-filter</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.eb.bi.rs.frame.recframe.resultcal.offline.selector</groupId>
+			<artifactId>frame-recframe-resultcal-offline-selector</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.eb.bi.rs.frame.recframe.resultcal.offline.correlationer</groupId>
+			<artifactId>frame-recframe-resultcal-offline-correlationer</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.eb.bi.rs.frame.recframe.resultcal.offline.joiner</groupId>
+			<artifactId>frame-recframe-resultcal-offline-joiner</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.eb.bi.rs.frame.recframe.resultcal.offline.cachejoiner</groupId>
+			<artifactId>frame-recframe-resultcal-offline-cachejoiner</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.eb.bi.rs.frame.recframe.resultcal.offline.converter</groupId>
+			<artifactId>frame-recframe-resultcal-offline-converter</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.apache.hbase</groupId>
+			<artifactId>hbase</artifactId>
+			<version>0.94.11</version>
+		</dependency>
+		
+		<!--dependency>
+			<groupId>com.ebupt.hbase.dao</groupId>
+			<artifactId>hbase-dao</artifactId>
+			<version>1.0</version>
+		</dependency-->
+		
+	</dependencies>
+	<build>
+		<plugins>
+		
+		<plugin>
+		  <groupId>org.apache.maven.plugins</groupId>
+		  <artifactId>maven-compiler-plugin</artifactId>
+		  <version>2.1</version>
+		  <configuration>
+		    <source>1.6</source>
+		    <target>1.6</target>
+		  </configuration>
+		</plugin>
+		
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<configuration>
+					<archive>
+						<manifest>
+							<mainClass></mainClass>
+						</manifest>
+					</archive>
+					<descriptorRefs>
+						<descriptorRef>jar-with-dependencies</descriptorRef>
+					</descriptorRefs>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

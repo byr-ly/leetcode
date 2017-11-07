@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/occurrence/algorithm-occurrence.iml" filepath="$PROJECT_DIR$/algorithm/occurrence/algorithm-occurrence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/pca/algorithm-pca.iml" filepath="$PROJECT_DIR$/algorithm/pca/algorithm-pca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andedu/andedu.iml" filepath="$PROJECT_DIR$/andedu/andedu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anhui/anhui.iml" filepath="$PROJECT_DIR$/anhui/anhui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anhui/moduledev/anhui-moduledev.iml" filepath="$PROJECT_DIR$/anhui/moduledev/anhui-moduledev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/frame.iml" filepath="$PROJECT_DIR$/frame/frame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/common/frame-common.iml" filepath="$PROJECT_DIR$/frame/common/frame-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/idoxframe/frame-idoxframe.iml" filepath="$PROJECT_DIR$/frame/idoxframe/frame-idoxframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/frame-recframe.iml" filepath="$PROJECT_DIR$/frame/recframe/frame-recframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/base/frame-recframe-base.iml" filepath="$PROJECT_DIR$/frame/recframe/base/frame-recframe-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/knowledgecal/frame-recframe-knowledgecal.iml" filepath="$PROJECT_DIR$/frame/recframe/knowledgecal/frame-recframe-knowledgecal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/knowledgecal/usertagweight/frame-recframe-knowledgecal-usertagweight.iml" filepath="$PROJECT_DIR$/frame/recframe/knowledgecal/usertagweight/frame-recframe-knowledgecal-usertagweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/resultcal/frame-recframe-resultcal.iml" filepath="$PROJECT_DIR$/frame/recframe/resultcal/frame-recframe-resultcal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/resultcal/offline/frame-recframe-resultcal-offline.iml" filepath="$PROJECT_DIR$/frame/recframe/resultcal/offline/frame-recframe-resultcal-offline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/resultcal/offline/cachejoiner/frame-recframe-resultcal-offline-cachejoiner.iml" filepath="$PROJECT_DIR$/frame/recframe/resultcal/offline/cachejoiner/frame-recframe-resultcal-offline-cachejoiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/resultcal/offline/converter/frame-recframe-resultcal-offline-converter.iml" filepath="$PROJECT_DIR$/frame/recframe/resultcal/offline/converter/frame-recframe-resultcal-offline-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/resultcal/offline/correlationer/frame-recframe-resultcal-offline-correlationer.iml" filepath="$PROJECT_DIR$/frame/recframe/resultcal/offline/correlationer/frame-recframe-resultcal-offline-correlationer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/resultcal/offline/datareduction/frame-recframe-resultcal-offline-datareduction.iml" filepath="$PROJECT_DIR$/frame/recframe/resultcal/offline/datareduction/frame-recframe-resultcal-offline-datareduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/resultcal/offline/filter/frame-recframe-resultcal-offline-filter.iml" filepath="$PROJECT_DIR$/frame/recframe/resultcal/offline/filter/frame-recframe-resultcal-offline-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/resultcal/offline/joiner/frame-recframe-resultcal-offline-joiner.iml" filepath="$PROJECT_DIR$/frame/recframe/resultcal/offline/joiner/frame-recframe-resultcal-offline-joiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/resultcal/offline/selector/frame-recframe-resultcal-offline-selector.iml" filepath="$PROJECT_DIR$/frame/recframe/resultcal/offline/selector/frame-recframe-resultcal-offline-selector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/resultcal/offline/sorter/frame-recframe-resultcal-offline-sorter.iml" filepath="$PROJECT_DIR$/frame/recframe/resultcal/offline/sorter/frame-recframe-resultcal-offline-sorter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/recframe/resultcal/offline/supplementer/frame-recframe-resultcal-offline-supplementer.iml" filepath="$PROJECT_DIR$/frame/recframe/resultcal/offline/supplementer/frame-recframe-resultcal-offline-supplementer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/service/frame-service.iml" filepath="$PROJECT_DIR$/frame/service/frame-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/service/dataload/frame-service-dataload.iml" filepath="$PROJECT_DIR$/frame/service/dataload/frame-service-dataload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/service/dataload/file2redis/frame-service-dataload-file2redis.iml" filepath="$PROJECT_DIR$/frame/service/dataload/file2redis/frame-service-dataload-file2redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/service/dataload/hdfs2local/frame-service-dataload-hdfs2local.iml" filepath="$PROJECT_DIR$/frame/service/dataload/hdfs2local/frame-service-dataload-hdfs2local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/service/dataload/hdfs2redis/frame-service-dataload-hdfs2redis.iml" filepath="$PROJECT_DIR$/frame/service/dataload/hdfs2redis/frame-service-dataload-hdfs2redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/service/dataload/local2hdfs/frame-service-dataload-local2hdfs.iml" filepath="$PROJECT_DIR$/frame/service/dataload/local2hdfs/frame-service-dataload-local2hdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/service/dataload/ora2redis/frame-service-dataload-ora2redis.iml" filepath="$PROJECT_DIR$/frame/service/dataload/ora2redis/frame-service-dataload-ora2redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/service/msgdispatch/frame-service-msgdispatch.iml" filepath="$PROJECT_DIR$/frame/service/msgdispatch/frame-service-msgdispatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame2/frame2.iml" filepath="$PROJECT_DIR$/frame2/frame2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/hkmras/hkmras.iml" filepath="$PROJECT_DIR$/mras/hkmras/hkmras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/hkmras/hkmras-correlation-datapro/hkmras-correlation-datapro.iml" filepath="$PROJECT_DIR$/mras/hkmras/hkmras-correlation-datapro/hkmras-correlation-datapro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/hkmras/hkmras-guessyoulike-filler/hkmras-guessyoulike-filler.iml" filepath="$PROJECT_DIR$/mras/hkmras/hkmras-guessyoulike-filler/hkmras-guessyoulike-filler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/mras.iml" filepath="$PROJECT_DIR$/mras/mras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/andnewsrec/mras-andnewsrec.iml" filepath="$PROJECT_DIR$/mras/andnewsrec/mras-andnewsrec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/andnewsrecstorm/mras-andnewsrecstorm.iml" filepath="$PROJECT_DIR$/mras/andnewsrecstorm/mras-andnewsrecstorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/authorrec/mras-authorrec.iml" filepath="$PROJECT_DIR$/mras/authorrec/mras-authorrec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/authorrec/itemcf/mras-authorrec-itemcf.iml" filepath="$PROJECT_DIR$/mras/authorrec/itemcf/mras-authorrec-itemcf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/booklistrec/mras-booklistrec.iml" filepath="$PROJECT_DIR$/mras/booklistrec/mras-booklistrec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/mras-bookrec.iml" filepath="$PROJECT_DIR$/mras/bookrec/mras-bookrec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/channelrec/mras-bookrec-channelrec.iml" filepath="$PROJECT_DIR$/mras/bookrec/channelrec/mras-bookrec-channelrec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/corelationrec/mras-bookrec-corelationrec.iml" filepath="$PROJECT_DIR$/mras/bookrec/corelationrec/mras-bookrec-corelationrec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/correrecrealtimefilter/mras-bookrec-correrecrealtimefilter.iml" filepath="$PROJECT_DIR$/mras/bookrec/correrecrealtimefilter/mras-bookrec-correrecrealtimefilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/guessyoulike/mras-bookrec-guessyoulike.iml" filepath="$PROJECT_DIR$/mras/bookrec/guessyoulike/mras-bookrec-guessyoulike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/itemcf/mras-bookrec-itemcf.iml" filepath="$PROJECT_DIR$/mras/bookrec/itemcf/mras-bookrec-itemcf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/itemcf/predictscore/mras-bookrec-itemcf-predictscore.iml" filepath="$PROJECT_DIR$/mras/bookrec/itemcf/predictscore/mras-bookrec-itemcf-predictscore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/itemcf/similarity/mras-bookrec-itemcf-similarity.iml" filepath="$PROJECT_DIR$/mras/bookrec/itemcf/similarity/mras-bookrec-itemcf-similarity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/knowledgecal/mras-bookrec-knowledgecal.iml" filepath="$PROJECT_DIR$/mras/bookrec/knowledgecal/mras-bookrec-knowledgecal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/knowledgecal/bookmark/mras-bookrec-knowledgecal-bookmark.iml" filepath="$PROJECT_DIR$/mras/bookrec/knowledgecal/bookmark/mras-bookrec-knowledgecal-bookmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/knowledgecal/tagmark/mras-bookrec-knowledgecal-tagmark.iml" filepath="$PROJECT_DIR$/mras/bookrec/knowledgecal/tagmark/mras-bookrec-knowledgecal-tagmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/personalrec/mras-bookrec-personalrec.iml" filepath="$PROJECT_DIR$/mras/bookrec/personalrec/mras-bookrec-personalrec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/qiangfarec/mras-bookrec-qiangfarec.iml" filepath="$PROJECT_DIR$/mras/bookrec/qiangfarec/mras-bookrec-qiangfarec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/unifiedinterface/mras-bookrec-unifiedinterface.iml" filepath="$PROJECT_DIR$/mras/bookrec/unifiedinterface/mras-bookrec-unifiedinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/unifyrec/correlationresultmerge/mras-correlationresultmerge.iml" filepath="$PROJECT_DIR$/mras/unifyrec/correlationresultmerge/mras-correlationresultmerge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/generec/mras-generec.iml" filepath="$PROJECT_DIR$/mras/generec/mras-generec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/generec/hadoop/mras-generec-hadoop.iml" filepath="$PROJECT_DIR$/mras/generec/hadoop/mras-generec-hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/generec/storm/mras-generec-storm.iml" filepath="$PROJECT_DIR$/mras/generec/storm/mras-generec-storm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/propsrec/mras-propsrec.iml" filepath="$PROJECT_DIR$/mras/propsrec/mras-propsrec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/propsrec/orderalsoorder/mras-propsrec-orderalsoorder.iml" filepath="$PROJECT_DIR$/mras/propsrec/orderalsoorder/mras-propsrec-orderalsoorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/realcollection/mras-realcollection.iml" filepath="$PROJECT_DIR$/mras/realcollection/mras-realcollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/realcollection/userbehavior/mras-realcollection-userbehavior.iml" filepath="$PROJECT_DIR$/mras/realcollection/userbehavior/mras-realcollection-userbehavior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/seachrec/mras-seachrec.iml" filepath="$PROJECT_DIR$/mras/seachrec/mras-seachrec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/seachrec/keyseach/mras-seachrec-keyseach.iml" filepath="$PROJECT_DIR$/mras/seachrec/keyseach/mras-seachrec-keyseach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/seachrec/keyseach/offline/mras-seachrec-keyseach-offline.iml" filepath="$PROJECT_DIR$/mras/seachrec/keyseach/offline/mras-seachrec-keyseach-offline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/seachrec/keyseach/online/mras-seachrec-keyseach-online.iml" filepath="$PROJECT_DIR$/mras/seachrec/keyseach/online/mras-seachrec-keyseach-online.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/seachrec/relatedkey/mras-seachrec-relatedkey.iml" filepath="$PROJECT_DIR$/mras/seachrec/relatedkey/mras-seachrec-relatedkey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/seachrec/relatedkey/offline/mras-seachrec-relatedkey-offline.iml" filepath="$PROJECT_DIR$/mras/seachrec/relatedkey/offline/mras-seachrec-relatedkey-offline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/seachrec/relatedkey/online/mras-seachrec-relatedkey-online.iml" filepath="$PROJECT_DIR$/mras/seachrec/relatedkey/online/mras-seachrec-relatedkey-online.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/unifyrec/mras-unifyrec.iml" filepath="$PROJECT_DIR$/mras/unifyrec/mras-unifyrec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/unifyrec/attributeengin/mras-unifyrec-attributeengin.iml" filepath="$PROJECT_DIR$/mras/unifyrec/attributeengin/mras-unifyrec-attributeengin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/unifyrec/greylist/mras-unifyrec-greylist.iml" filepath="$PROJECT_DIR$/mras/unifyrec/greylist/mras-unifyrec-greylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/unifyrec/realtimerec/mras-unifyrec-realtimerec.iml" filepath="$PROJECT_DIR$/mras/unifyrec/realtimerec/mras-unifyrec-realtimerec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/unifyrec/subversionstorm/mras-unifyrec-subversionstorm.iml" filepath="$PROJECT_DIR$/mras/unifyrec/subversionstorm/mras-unifyrec-subversionstorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/unifyrec/userbooksprepare/mras-userbooksprepare.iml" filepath="$PROJECT_DIR$/mras/unifyrec/userbooksprepare/mras-userbooksprepare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/voicebookrec/mras-voicebookrec.iml" filepath="$PROJECT_DIR$/mras/voicebookrec/mras-voicebookrec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/voicebookrec/lastpage/mras-voicebookrec-lastpage.iml" filepath="$PROJECT_DIR$/mras/voicebookrec/lastpage/mras-voicebookrec-lastpage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras2/mras2.iml" filepath="$PROJECT_DIR$/mras2/mras2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mrasspark/mrasspark.iml" filepath="$PROJECT_DIR$/mrasspark/mrasspark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opus/opus.iml" filepath="$PROJECT_DIR$/opus/opus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opusstorm/opusstorm.iml" filepath="$PROJECT_DIR$/opusstorm/opusstorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qhll/qhll.iml" filepath="$PROJECT_DIR$/qhll/qhll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qhll/userapprec/qhll-userapprec.iml" filepath="$PROJECT_DIR$/qhll/userapprec/qhll-userapprec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/service/dataload/result2hbase/result2hbase (1) (com.eb.bi.rs.frame.service.dataload).iml" filepath="$PROJECT_DIR$/frame/service/dataload/result2hbase/result2hbase (1) (com.eb.bi.rs.frame.service.dataload).iml" />
+      <module fileurl="file://$PROJECT_DIR$/result2hbase/result2hbase (2) (com.eb.bi.rs.result2hbase).iml" filepath="$PROJECT_DIR$/result2hbase/result2hbase (2) (com.eb.bi.rs.result2hbase).iml" />
+      <module fileurl="file://$PROJECT_DIR$/rs.iml" filepath="$PROJECT_DIR$/rs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame/service/dataload/unifyrecsresult2hbase/unifyrecsresult2hbase.iml" filepath="$PROJECT_DIR$/frame/service/dataload/unifyrecsresult2hbase/unifyrecsresult2hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mras/bookrec/voicebook/voicebook.iml" filepath="$PROJECT_DIR$/mras/bookrec/voicebook/voicebook.iml" />
+    </modules>
+  </component>
+</project>

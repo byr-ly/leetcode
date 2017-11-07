@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/BI-recsys/!svn/ver/1699/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/base
+END
+BaseMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/BI-recsys/!svn/ver/1603/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/base/BaseMain.java
+END
+ComponentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/base/ComponentHelper.java
+END
+ToolLeaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/base/ToolLeaf.java
+END
+BaseDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/base/BaseDriver.java
+END
+DriverExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/BI-recsys/!svn/ver/1699/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/base/DriverExample.java
+END
+TestLeaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/base/TestLeaf.java
+END
+ArgsBaseMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/1699/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/base/ArgsBaseMain.java
+END
+DriverExampleConfigFile
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1699/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/base/DriverExampleConfigFile
+END
+JobComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/base/JobComponent.java
+END
+JobComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/base/JobComposite.java
+END
+TestTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/base/TestTool.java
+END
+TestClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/base/TestClient.java
+END

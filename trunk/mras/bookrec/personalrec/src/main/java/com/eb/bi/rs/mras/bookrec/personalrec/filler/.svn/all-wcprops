@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/BI-recsys/!svn/ver/526/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/filler
+END
+HotbookFillerDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/524/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/filler/HotbookFillerDriver.java
+END
+BookFillerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/524/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/filler/BookFillerManager.java
+END
+BookSelectDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/524/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/filler/BookSelectDriver.java
+END
+BookStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/524/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/filler/BookStore.java
+END
+NewBookFillerMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/524/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/filler/NewBookFillerMapper.java
+END
+HotbookFillerMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/524/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/filler/HotbookFillerMapper.java
+END
+PieceFillerNandHDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BI-recsys/!svn/ver/524/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/filler/PieceFillerNandHDriver.java
+END
+BookStores.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/524/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/filler/BookStores.java
+END
+PieceFillerTagDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/526/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/filler/PieceFillerTagDriver.java
+END
+NewBookFillerReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/524/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/filler/NewBookFillerReducer.java
+END
+HotbookFillerReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/524/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/filler/HotbookFillerReducer.java
+END
+NewBookFillerDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/524/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/filler/NewBookFillerDriver.java
+END

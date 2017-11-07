@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/622/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis
+END
+LoaderBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/621/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/LoaderBase.java
+END
+ListLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/622/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/ListLoader.java
+END
+CopyOfSetLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/BI-recsys/!svn/ver/543/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/CopyOfSetLoader.java
+END
+LineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/543/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/LineParser.java
+END
+CopyOfLongBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/BI-recsys/!svn/ver/543/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/CopyOfLongBean.java
+END
+CopyOfFile2Redis.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/543/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/CopyOfFile2Redis.java
+END
+HashLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/621/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/HashLoader.java
+END
+CopyOfStringLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/BI-recsys/!svn/ver/543/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/CopyOfStringLoader.java
+END
+FileFilterForHead.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/BI-recsys/!svn/ver/7/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/FileFilterForHead.java
+END
+SetLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/621/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/SetLoader.java
+END
+CopyOfListLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/543/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/CopyOfListLoader.java
+END
+LongBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/7/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/LongBean.java
+END
+File2Redis.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/543/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/File2Redis.java
+END
+CopyOfHashLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/543/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/CopyOfHashLoader.java
+END
+StringLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/BI-recsys/!svn/ver/621/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/StringLoader.java
+END
+LoaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/BI-recsys/!svn/ver/543/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/LoaderFactory.java
+END
+CopyOfFileFilterForHead.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/BI-recsys/!svn/ver/543/code/trunk/frame/service/dataload/file2redis/src/main/java/com/eb/bi/rs/frame/service/dataload/file2redis/CopyOfFileFilterForHead.java
+END

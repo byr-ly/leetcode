@@ -1,0 +1,141 @@
+10
+
+dir
+2155
+http://liyang@10.1.1.212/svn/BI-recsys/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/unifyrec
+http://liyang@10.1.1.212/svn/BI-recsys
+
+
+
+2017-08-17T00:43:30.148560Z
+2090
+songhongmei
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aff18cde-65bf-46cc-a571-9cca275ceb57
+
+PrefPointsSearch
+dir
+
+UserClassPref
+dir
+
+UserPrefAverage
+dir
+
+UserReadClasses
+dir
+
+BookPrefEngineWeek.java
+file
+
+
+
+
+2016-12-16T04:56:45.000000Z
+397a49374df5f52eb21ccf5162d78f92
+2016-11-24T02:34:42.288138Z
+1734
+liujie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45691
+
+ForceRecClassPref
+dir
+
+userbooksprepare
+dir
+
+UserReadHistory
+dir
+
+similarcategory
+dir
+
+correlationresultmerge
+dir
+
+UserPrefGenerator
+dir
+
+greylist
+dir
+
+PrefRecResultMerge
+dir
+
+UserBookScoreTools
+dir
+
+SeparatePrefRecResult
+dir
+
+BookPrefEngineDay.java
+file
+
+
+
+
+2016-12-16T04:56:45.000000Z
+239997c5ef6a523066b1a826b656d983
+2016-11-24T02:34:42.288138Z
+1734
+liujie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43656
+
+ComprehensivePrefRecResult
+dir
+

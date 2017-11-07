@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/624/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec
+END
+BookTagSet2TagBookRcdDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/263/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/BookTagSet2TagBookRcdDriver.java
+END
+UserCurrentInfoMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/296/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/UserCurrentInfoMapper.java
+END
+UserInfoUpdateReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/296/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/UserInfoUpdateReducer.java
+END
+UserTagPreferWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/217/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/UserTagPreferWritable.java
+END
+ClassPriorityComputeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/242/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/ClassPriorityComputeMapper.java
+END
+PersonalTailorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/347/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/PersonalTailorDriver.java
+END
+UserTagPreferTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/334/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/UserTagPreferTool.java
+END
+ClassPriorityComputeReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/242/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/ClassPriorityComputeReducer.java
+END
+PersonalResultTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/373/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/PersonalResultTool.java
+END
+OnlineDayTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/624/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/OnlineDayTool.java
+END
+ClassPriorityComputeDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/265/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/ClassPriorityComputeDriver.java
+END
+UserHistoryInfoMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/296/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/UserHistoryInfoMapper.java
+END
+UserTagPreferMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/502/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/UserTagPreferMapper.java
+END
+UserInfoWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/296/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/UserInfoWritable.java
+END
+PersonalResultMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/350/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/PersonalResultMapper.java
+END
+UserTagPreferReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/502/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/UserTagPreferReducer.java
+END
+BookTagSet2TagBookRcdMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/263/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/BookTagSet2TagBookRcdMapper.java
+END
+PersonalResultTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/350/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/PersonalResultTable.java
+END
+UserInfoUpdateTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/298/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/UserInfoUpdateTool.java
+END
+PersonalResultReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/350/code/trunk/mras/bookrec/personalrec/src/main/java/com/eb/bi/rs/mras/bookrec/personalrec/PersonalResultReducer.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/BI-recsys/!svn/ver/1644/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation
+END
+CalculateIndexReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/1644/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/CalculateIndexReducer.java
+END
+CalculateIndexDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/1615/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/CalculateIndexDriver.java
+END
+CooccurenceReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/1594/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/CooccurenceReducer.java
+END
+CooccurenceDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/BI-recsys/!svn/ver/1594/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/CooccurenceDriver.java
+END
+DataPrepMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/BI-recsys/!svn/ver/1612/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/DataPrepMapper.java
+END
+DataPrepReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/BI-recsys/!svn/ver/1594/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/DataPrepReducer.java
+END
+opus_corelationrec_click.task5.config.bak
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/1594/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/opus_corelationrec_click.task5.config.bak
+END
+Correlationrec.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/BI-recsys/!svn/ver/1594/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/Correlationrec.java
+END
+DataPrepDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/BI-recsys/!svn/ver/1613/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/DataPrepDriver.java
+END
+opus_corelationrec_click.task5.config
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/1594/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/opus_corelationrec_click.task5.config
+END
+CorrelationRecResultMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/1614/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/CorrelationRecResultMapper.java
+END
+AppearTimesMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/BI-recsys/!svn/ver/1615/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/AppearTimesMapper.java
+END
+CorrelationRecResultReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/1644/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/CorrelationRecResultReducer.java
+END
+AppearTimesReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/1615/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/AppearTimesReducer.java
+END
+CorrelationRecResultDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/1644/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/CorrelationRecResultDriver.java
+END
+AppearTimesDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/BI-recsys/!svn/ver/1594/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/AppearTimesDriver.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/BI-recsys/!svn/ver/1594/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/Constant.java
+END
+CalculateIndexMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/1594/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/CalculateIndexMapper.java
+END
+CooccurenceMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/BI-recsys/!svn/ver/1594/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/correlation/CooccurenceMapper.java
+END

@@ -1,0 +1,18 @@
+<config>
+        <composite name="personaltailor">
+                <leaf name="resultloader_tag">
+                        <class>com.eb.bi.rs.hbase2hdfs.HbaseReadTool</class>
+                        <configuration>
+                                <conf.output.path>tableexport/user_realtime_books</conf.output.path>
+                                <conf.zk.host>10.1.69.170</conf.zk.host>
+                                <conf.zk.port>2182</conf.zk.port>
+                                <conf.hbase.table>user_realtime_books</conf.hbase.table>
+                                <conf.num.reduce.tasks>0</conf.num.reduce.tasks>
+                                <conf.export.split>\|</conf.export.split>
+                                <conf.export.express>rowkey|cf:bookId|cf:test</conf.export.express>
+                                <!--all or yestorday-->
+                                <conf.export.time>all</conf.export.time>
+                        </configuration>
+                </leaf>
+        </composite>
+</config>

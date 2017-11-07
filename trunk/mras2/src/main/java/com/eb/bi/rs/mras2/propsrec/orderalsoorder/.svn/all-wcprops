@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/BI-recsys/!svn/ver/1202/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/propsrec/orderalsoorder
+END
+App.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/BI-recsys/!svn/ver/1158/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/propsrec/orderalsoorder/App.java
+END
+OrderalsoorderDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/1202/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/propsrec/orderalsoorder/OrderalsoorderDriver.java
+END
+GettopNMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/1158/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/propsrec/orderalsoorder/GettopNMapper.java
+END
+GettopNReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/BI-recsys/!svn/ver/1158/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/propsrec/orderalsoorder/GettopNReducer.java
+END

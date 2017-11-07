@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector
+END
+OrderedTopNOrderByMultiFieldSelector.config
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/OrderedTopNOrderByMultiFieldSelector.config
+END
+RandomSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/RandomSelector.java
+END
+RandomSelectorDriver.config
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/RandomSelectorDriver.config
+END
+RandomTopSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/RandomTopSelector.java
+END
+RandomTopSelectorDriver.config
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/RandomTopSelectorDriver.config
+END
+OrderedTopNSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/OrderedTopNSelector.java
+END
+OrderedTopNSelectorDriver.config
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/OrderedTopNSelectorDriver.config
+END
+UnorderedTopNSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/UnorderedTopNSelector.java
+END
+SelectorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/SelectorBase.java
+END
+OrderedTopNOrderByMultiFieldSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/OrderedTopNOrderByMultiFieldSelector.java
+END
+UnorderedTopNSelector.config
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/selector/UnorderedTopNSelector.config
+END

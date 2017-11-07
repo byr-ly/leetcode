@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/get_infos_num
+END
+GetInfosNumMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/get_infos_num/GetInfosNumMapper.java
+END
+GetInfosNumReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/get_infos_num/GetInfosNumReducer.java
+END

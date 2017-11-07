@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/2070/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/onlinePredictingDataPrep/uservecorPrep
+END
+User_PrefMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/BI-recsys/!svn/ver/2066/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/onlinePredictingDataPrep/uservecorPrep/User_PrefMapper.java
+END
+User_PrefGeneratorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/BI-recsys/!svn/ver/2070/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/onlinePredictingDataPrep/uservecorPrep/User_PrefGeneratorMapper.java
+END
+User_BaseInfoMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/BI-recsys/!svn/ver/2070/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/onlinePredictingDataPrep/uservecorPrep/User_BaseInfoMapper.java
+END
+User_PrefAverageMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/BI-recsys/!svn/ver/2070/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/onlinePredictingDataPrep/uservecorPrep/User_PrefAverageMapper.java
+END
+UserVectorReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/2070/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/onlinePredictingDataPrep/uservecorPrep/UserVectorReducer.java
+END
+PersonalizedBookVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/BI-recsys/!svn/ver/2066/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/onlinePredictingDataPrep/uservecorPrep/PersonalizedBookVector.java
+END

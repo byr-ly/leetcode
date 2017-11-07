@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/7/code/trunk/frame/service/msgdispatch/src/main/java/com/eb/bi/rs/frame/service/msgdispatch
+END
+EmptyServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/7/code/trunk/frame/service/msgdispatch/src/main/java/com/eb/bi/rs/frame/service/msgdispatch/EmptyServlet.java
+END
+SampleConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/7/code/trunk/frame/service/msgdispatch/src/main/java/com/eb/bi/rs/frame/service/msgdispatch/SampleConfig.java
+END
+JsonResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/7/code/trunk/frame/service/msgdispatch/src/main/java/com/eb/bi/rs/frame/service/msgdispatch/JsonResponse.java
+END
+SampleResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/7/code/trunk/frame/service/msgdispatch/src/main/java/com/eb/bi/rs/frame/service/msgdispatch/SampleResource.java
+END
+RedisPoolAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/7/code/trunk/frame/service/msgdispatch/src/main/java/com/eb/bi/rs/frame/service/msgdispatch/RedisPoolAPI.java
+END
+MsgDispatchServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/7/code/trunk/frame/service/msgdispatch/src/main/java/com/eb/bi/rs/frame/service/msgdispatch/MsgDispatchServer.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/BI-recsys/!svn/ver/2036/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/generec/domain
+END
+BookSeriesInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/2036/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/generec/domain/BookSeriesInfo.java
+END
+BookInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/2036/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/generec/domain/BookInfo.java
+END
+BookGeneClassInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/BI-recsys/!svn/ver/2036/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/generec/domain/BookGeneClassInfo.java
+END
+SortByScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/2036/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/generec/domain/SortByScore.java
+END

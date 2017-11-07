@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+    <param name="worker_num">5</param>
+    <param name="spout_num">5</param>
+    <param name="bolt_num">20</param>
+    <param name="acker_num">0</param>
+    <param name="max_spout_pending">1000</param>
+
+    <param name="resp_redis">192.168.20.103::6381</param>
+    <param name="response_table">unified_resp</param>
+    <param name="resp_expire_time">60</param>
+    <param name="userid_redis">192.168.20.103::6381::unified_userids</param>    
+
+    <param name="hbase.zookeeper.quorum">ZJHZ-RTS-NN1,ZJHZ-RTS-NN2,ZJHZ-RTS-DN1,ZJHZ-RTS-DN2,ZJHZ-RTS-DN3</param>
+    <param name="hbase.zookeeper.property.clientPort">2181</param>
+
+    <param name="topN">100</param>
+
+    <param name="same_author_count">2</param>
+   
+    <param name="lingdaoBookScores">403509448,0|449738107,0|410435077,0|407996181,0|407194161,0|800301835,0|410093285,0|407782511,0|405503478,0|352753286,0|449755173,0|449619659,0|449879587,0|449620315,0|401631490,0|402725985,0|411504841,0|411499621,0|450445752,0|449621415,0|449621237,0|411491423,0|411491440,0|449621138,0|403780926,0|449621098,0|449699219,0|449755312,0|412448589,0|411491416,0|411504835,0|403443506,0|449755172,0|449754722,0|449755074,0|449754799,0|412448603,0|449755016,0|449754978,0|449779528,0|388078400,0|446725895,0|449621030,0|411503522,0|449880047,0|411950084,0|449951205,0|449620927,0|411503549,0|411497311,0|449620880,0|411497305,0|449620820,0|403780899,0|449620538,0|411497287,0|401682005,0|449621566,0|449699374,0|449620078,0|449619789,0|411499593,0|449619714,0|449307534,0|448966907,0|413200445,0|356803904,0|403924575,0|386902394,0|402282081,0|450302716,0|451208729,0|351915737,0|351916664,0|411967090,0|411637942,0|442467512,0|442467509,0|442467511,0|442467523,0|348231131,0|450866097,0|346694184,0|448205148,0|440300896,0|363380164,0|363401360,0|412814114,0|380420277,0|401012023,0</param>
+ 
+    <param name="specialUserId1">13958080393</param>
+    <param name="specialUserId2">18658279889</param>
+
+    <param name="baseScorePer">0.2</param>
+    <param name="editScorePer">1</param>
+    <param name="prefScorePer">2</param>
+    <param name="similarScorePer">1</param>
+    <param name="editScore">0.2</param>
+
+    <param name="orderFactor">0.05</param>		
+   
+    <param name="interval">120000</param>
+ 
+    <param name="engine_attribute_result">engine_attribute_result</param>
+    <param name="realpub_user_behavior">realpub_user_behavior</param>
+    <param name="user_read_history">user_read_history</param>
+    <param name="unify_base_score">unify_base_score</param>
+    <param name="unify_edit_score">unify_edit_score</param>
+    <param name="unify_book_filler">unify_book_filler</param>
+    <param name="unify_book_blacklist">unify_book_blacklist</param>
+    <param name="unified_rec_rep">unified_rec_rep</param>
+    <param name="unify_grey_list">unify_grey_list</param>
+    <param name="unify_black_list">unify_black_list</param>		
+    <param name="user_behavior">order,read,pv</param>
+    <param name="realpub_user_delete_info">realpub_user_delete_info</param>
+
+    <param name="hour_base">4</param>
+    <param name="hour_similar">4</param>
+    
+    <param name="isWrite">true</param>
+    <param name="isGetTop">false</param>
+    <param name="increaseScore">0.05</param>
+    <param name="sampleNumber">100</param>
+    <param name="weight">0.1</param>
+    <param name="history_weight">0.3</param>
+    <param name="recent_weight">0.8</param>
+    <param name="realtime_weight">1.0</param>
+    <param name="pv_score">2</param>
+    <param name="read_score">4</param>
+    <param name="order_score">5</param>
+    <param name="pv_half_time">2</param>
+    <param name="read_half_time">8</param>
+    <param name="order_half_time">12</param>
+    <param name="userRealTableName">realpub_user_behavior</param>
+    <param name="userRecentTableName">newunifyrec_user_book_6months</param>
+    <param name="userHisTableName">newunifyrec_user_read_history</param>
+    <param name="correlationTableName">newunifyrec_correlation_similarity</param>
+    <param name="contentTableName">newunifyrec_content_similarity</param>
+    <param name="similarityScoreTable">newunifyrec_user_similarity_score</param>
+
+    <input_data name="request-spout" type="Redis" link="192.168.20.103::6380::unified_req" loadCommand="rpop" meta="userdata"/>
+    <record name="userdata" parseType="Url" fieldDelimiter="|" recordDelimiter="\n">
+         <field name="userid" nullable="true" size="6" type="string"/>
+         <field name="edition_id" nullable="true" size="6" type="string"/>
+    </record>
+
+</config>

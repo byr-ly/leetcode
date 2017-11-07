@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/pre_author_filter
+END
+PreAuthorFiterDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/pre_author_filter/PreAuthorFiterDriver.java
+END
+Author.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1148/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/pre_author_filter/Author.java
+END
+PreAuthorFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/pre_author_filter/PreAuthorFilterMapper.java
+END
+PreAuthorFilterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/pre_author_filter/PreAuthorFilterReducer.java
+END
+SortByScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/authorrec/itemcf/src/main/java/com/eb/bi/rs/mras/authorrec/itemcf/pre_author_filter/SortByScore.java
+END

@@ -1,0 +1,21 @@
+<config>
+	<composite name="click-correlationrec-filler">
+		<leaf name="click-correlationrec-filler">
+			<class>com.eb.bi.rs.opus.correlation.filler.CorrelationRecFillerDriver</class>
+    	<configuration>
+				<reducer.num>10</reducer.num>
+				<!--每条补白所含物品个数-->
+				<rec.num>500</rec.num>
+				<!--补白关键字的索引。如按类别补白，则表示类别字段的索引-->
+				<type.index>2</type.index>
+				<filler.subject>fillerSubject</filler.subject>
+				<!--输入路径-->
+				<hdfs.input.path>/user/eb/recsys/job0004/middle/opus_click_times/</hdfs.input.path>
+				<!--物品详细信息-->
+				<hdfs.cache.path>/user/eb/dump_data/recsys/dim_opus/</hdfs.cache.path>
+				<!--输出路径-->
+				<hdfs.output.path>/user/eb/recsys/job0004/output/opus_correlation_click_filler/</hdfs.output.path>
+    	</configuration>
+  	</leaf>
+	</composite>
+</config>

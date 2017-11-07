@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/BI-recsys/!svn/ver/604/code/trunk/conf/mras/bookrec/personalrec
+END
+UserInfoUpdateTool.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/BI-recsys/!svn/ver/300/code/trunk/conf/mras/bookrec/personalrec/UserInfoUpdateTool.task1.config
+END
+personalrec_hot.task41.config
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/BI-recsys/!svn/ver/604/code/trunk/conf/mras/bookrec/personalrec/personalrec_hot.task41.config
+END
+personalrec_new.task42.config
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/BI-recsys/!svn/ver/601/code/trunk/conf/mras/bookrec/personalrec/personalrec_new.task42.config
+END
+UserTagPreferTool.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/BI-recsys/!svn/ver/334/code/trunk/conf/mras/bookrec/personalrec/UserTagPreferTool.task1.config
+END
+personalrec_tag.task43.config
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/BI-recsys/!svn/ver/601/code/trunk/conf/mras/bookrec/personalrec/personalrec_tag.task43.config
+END
+OnlineDayTool.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/BI-recsys/!svn/ver/388/code/trunk/conf/mras/bookrec/personalrec/OnlineDayTool.task1.config
+END
+PersonalResultTool.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/BI-recsys/!svn/ver/350/code/trunk/conf/mras/bookrec/personalrec/PersonalResultTool.task1.config
+END
+personalrec_filler.task7.config
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/BI-recsys/!svn/ver/602/code/trunk/conf/mras/bookrec/personalrec/personalrec_filler.task7.config
+END
+ClassPriority.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/BI-recsys/!svn/ver/326/code/trunk/conf/mras/bookrec/personalrec/ClassPriority.task1.config
+END

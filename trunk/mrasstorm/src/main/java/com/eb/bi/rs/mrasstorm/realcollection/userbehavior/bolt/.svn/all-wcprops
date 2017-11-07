@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/BI-recsys/!svn/ver/2037/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/realcollection/userbehavior/bolt
+END
+HBaseBolt.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/2037/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/realcollection/userbehavior/bolt/HBaseBolt.java
+END
+PageviewSplitBolt.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/2037/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/realcollection/userbehavior/bolt/PageviewSplitBolt.java
+END
+OrderSplitBolt.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/2037/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/realcollection/userbehavior/bolt/OrderSplitBolt.java
+END

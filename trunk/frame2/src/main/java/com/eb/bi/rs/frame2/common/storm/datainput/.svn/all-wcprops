@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/BI-recsys/!svn/ver/1832/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/datainput
+END
+UrlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/datainput/UrlParser.java
+END
+XmlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/datainput/XmlTest.java
+END
+InputMsgManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/datainput/InputMsgManager.java
+END
+LoaderBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/datainput/LoaderBase.java
+END
+ParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/BI-recsys/!svn/ver/1582/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/datainput/ParserFactory.java
+END
+FileLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/datainput/FileLoader.java
+END
+RedisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/datainput/RedisTest.java
+END
+ParserBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/datainput/ParserBase.java
+END
+DataRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/BI-recsys/!svn/ver/1832/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/datainput/DataRecord.java
+END
+DataField.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/datainput/DataField.java
+END
+RedisLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/datainput/RedisLoader.java
+END
+XmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/datainput/XmlParser.java
+END
+LoaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/BI-recsys/!svn/ver/1580/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/common/storm/datainput/LoaderFactory.java
+END

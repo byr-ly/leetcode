@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/hdfs2local
+END
+Hdfs2Local.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/hdfs2local/Hdfs2Local.java
+END
+hdfs2local.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/hdfs2local/hdfs2local.task1.config
+END

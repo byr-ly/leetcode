@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/BI-recsys/!svn/ver/1591/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/generec/pref_normalized
+END
+PrefNormalizedMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/1591/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/generec/pref_normalized/PrefNormalizedMapper.java
+END
+PrefNormalizedReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/BI-recsys/!svn/ver/1591/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/generec/pref_normalized/PrefNormalizedReducer.java
+END

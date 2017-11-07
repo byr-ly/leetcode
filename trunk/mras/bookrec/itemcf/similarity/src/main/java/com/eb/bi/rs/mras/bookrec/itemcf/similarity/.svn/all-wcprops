@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/549/code/trunk/mras/bookrec/itemcf/similarity/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/similarity
+END
+UserScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/150/code/trunk/mras/bookrec/itemcf/similarity/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/similarity/UserScoreMapper.java
+END
+PopWeightReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/150/code/trunk/mras/bookrec/itemcf/similarity/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/similarity/PopWeightReducer.java
+END
+SimilarityReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BI-recsys/!svn/ver/150/code/trunk/mras/bookrec/itemcf/similarity/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/similarity/SimilarityReducer.java
+END
+SimilarityWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/BI-recsys/!svn/ver/150/code/trunk/mras/bookrec/itemcf/similarity/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/similarity/SimilarityWritable.java
+END
+SimilarityDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/150/code/trunk/mras/bookrec/itemcf/similarity/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/similarity/SimilarityDriver.java
+END
+UserScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/150/code/trunk/mras/bookrec/itemcf/similarity/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/similarity/UserScoreReducer.java
+END
+ScoreWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/BI-recsys/!svn/ver/150/code/trunk/mras/bookrec/itemcf/similarity/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/similarity/ScoreWritable.java
+END
+TenthNumMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/150/code/trunk/mras/bookrec/itemcf/similarity/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/similarity/TenthNumMapper.java
+END
+FilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/150/code/trunk/mras/bookrec/itemcf/similarity/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/similarity/FilterMapper.java
+END
+PopWeightMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/150/code/trunk/mras/bookrec/itemcf/similarity/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/similarity/PopWeightMapper.java
+END
+SimilarityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/150/code/trunk/mras/bookrec/itemcf/similarity/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/similarity/SimilarityMapper.java
+END
+TenthNumReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/549/code/trunk/mras/bookrec/itemcf/similarity/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/similarity/TenthNumReducer.java
+END
+PopBookMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/BI-recsys/!svn/ver/151/code/trunk/mras/bookrec/itemcf/similarity/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/similarity/PopBookMapper.java
+END

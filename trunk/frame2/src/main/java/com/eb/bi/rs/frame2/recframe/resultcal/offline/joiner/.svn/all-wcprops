@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/joiner
+END
+JoinerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/joiner/JoinerBase.java
+END
+Many2ManyJoiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/joiner/Many2ManyJoiner.java
+END
+Many2ManyJoiner.config
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/joiner/Many2ManyJoiner.config
+END

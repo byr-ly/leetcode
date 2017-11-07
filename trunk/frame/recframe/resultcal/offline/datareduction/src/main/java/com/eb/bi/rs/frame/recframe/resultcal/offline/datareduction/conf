@@ -1,0 +1,28 @@
+<config>
+	<!-- -->
+	<composite name="personaltailor">
+		<!--1 数据编辑-->
+		<composite name="datareduction">
+			<!--1.1 数据编辑-->
+			<leaf name="common-datareduction">
+			<class>com.eb.bi.rs.frame.common.datareduction.DataReductionDriver</class>
+			<configuration>
+				<!--输入路径-->
+				<hdfs.data.input.path></hdfs.data.input.path>
+				<!--输出路径-->
+				<hdfs.data.output.path></hdfs.data.output.path>
+				<!--输入数据字段分隔符，默认值是"\|"-->
+				<field.delimiter>\|</field.delimiter>
+				<!--mr个数，默认值为 1-->
+				<mapred.reduce.tasks>1</mapred.reduce.tasks>
+				<!--输出数据字段个数，默认值为 0-->
+				<output.data.num>4</output.data.num>
+				<!--所需数据在输入数据中的字段位置,以及输出字段顺序，默认值为“”则输出为空，分隔符默认为“,”-->
+				<data.pos.edit>1,3,5,7</data.pos.edit>
+				<!--data.pos.edit配置分隔符，默认值是","-->
+				<field.delimiter.1>,</field.delimiter.1>
+			</configuration>
+			</leaf>
+		</composite>
+	</composite>
+</config>

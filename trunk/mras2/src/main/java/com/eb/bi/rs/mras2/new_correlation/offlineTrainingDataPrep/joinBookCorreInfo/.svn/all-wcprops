@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/2062/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/offlineTrainingDataPrep/joinBookCorreInfo
+END
+getUBinfoMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/BI-recsys/!svn/ver/2062/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/offlineTrainingDataPrep/joinBookCorreInfo/getUBinfoMapper.java
+END
+jointFinalReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/BI-recsys/!svn/ver/2062/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/offlineTrainingDataPrep/joinBookCorreInfo/jointFinalReducer.java
+END
+getBookCorreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/BI-recsys/!svn/ver/2062/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/new_correlation/offlineTrainingDataPrep/joinBookCorreInfo/getBookCorreMapper.java
+END

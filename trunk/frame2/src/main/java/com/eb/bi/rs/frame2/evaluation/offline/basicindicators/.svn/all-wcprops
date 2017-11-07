@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/1818/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/evaluation/offline/basicindicators
+END
+OfflineBasisDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1803/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/evaluation/offline/basicindicators/OfflineBasisDriver.java
+END
+basic-indicators-calculation.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/BI-recsys/!svn/ver/1799/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/evaluation/offline/basicindicators/basic-indicators-calculation.task1.config
+END
+UserRetainInfoMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1793/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/evaluation/offline/basicindicators/UserRetainInfoMapper.java
+END
+OfflineCountDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1803/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/evaluation/offline/basicindicators/OfflineCountDriver.java
+END
+OfflineBasisMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1803/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/evaluation/offline/basicindicators/OfflineBasisMapper.java
+END
+UserRecInfoMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1818/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/evaluation/offline/basicindicators/UserRecInfoMapper.java
+END
+UserCountInfoReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1793/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/evaluation/offline/basicindicators/UserCountInfoReducer.java
+END

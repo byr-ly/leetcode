@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/BI-recsys/!svn/ver/1203/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike
+END
+CalculationOfRelationAddMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CalculationOfRelationAddMapper.java
+END
+UserRecBookPrefViaPropertyOnRecRcdSideMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/UserRecBookPrefViaPropertyOnRecRcdSideMapper.java
+END
+UserMaxPrefsDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/UserMaxPrefsDriver.java
+END
+CalculationOfRelationAddReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CalculationOfRelationAddReducer.java
+END
+SourceConcatDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SourceConcatDriver.java
+END
+SelectMergeBookSourceReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SelectMergeBookSourceReducer.java
+END
+SelectBookSimilarityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/1170/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SelectBookSimilarityMapper.java
+END
+BookInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/BookInfo.java
+END
+CalculationOfRelationJoinMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CalculationOfRelationJoinMapper.java
+END
+PreferenceMatchDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/PreferenceMatchDriver.java
+END
+SelectMergeBookSourceDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SelectMergeBookSourceDriver.java
+END
+CalculationOfRelationInCacheDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CalculationOfRelationInCacheDriver.java
+END
+FormatConvertSimDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/FormatConvertSimDriver.java
+END
+CalculationOfRelationUserDataMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CalculationOfRelationUserDataMapper.java
+END
+UserRecBookPrefViaPropertyReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1170/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/UserRecBookPrefViaPropertyReducer.java
+END
+SelectBookSimilarityCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SelectBookSimilarityCombiner.java
+END
+SelectTop4UnifiedInterfaceMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1203/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SelectTop4UnifiedInterfaceMapper.java
+END
+UserRecBookPrefViaPropertyDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/UserRecBookPrefViaPropertyDriver.java
+END
+CopyOfSelectBookSimilarityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CopyOfSelectBookSimilarityMapper.java
+END
+SelectFinalRecResultMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SelectFinalRecResultMapper.java
+END
+Join4UserBookPrefFinalScoreOnUserMaxPrefsMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/Join4UserBookPrefFinalScoreOnUserMaxPrefsMapper.java
+END
+GuessYouLike.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/GuessYouLike.java
+END
+UserMaxPrefsMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/UserMaxPrefsMapper.java
+END
+Join4UserBookPrefFinalScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/Join4UserBookPrefFinalScoreReducer.java
+END
+SimilarityConcatDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SimilarityConcatDriver.java
+END
+SelectFinalRecResultReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SelectFinalRecResultReducer.java
+END
+SourceConcatMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SourceConcatMapper.java
+END
+FormatConvertUserDataDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/FormatConvertUserDataDriver.java
+END
+UserMaxPrefsReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/UserMaxPrefsReducer.java
+END
+SelectMergeBookSourceMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SelectMergeBookSourceMapper.java
+END
+CalculationOfRelationInCacheMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CalculationOfRelationInCacheMapper.java
+END
+SelectFinalRecResultCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SelectFinalRecResultCombiner.java
+END
+SourceConcatReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SourceConcatReducer.java
+END
+UserMaxPrefsCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/UserMaxPrefsCombiner.java
+END
+Join4UserBookPrefFinalScoreOnRecRcdMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/Join4UserBookPrefFinalScoreOnRecRcdMapper.java
+END
+CalculationOfRelationInCacheReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CalculationOfRelationInCacheReducer.java
+END
+SelectBookSimilarityReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SelectBookSimilarityReducer.java
+END
+CalculationOfRelationJoinReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CalculationOfRelationJoinReducer.java
+END
+SelectBookSimilarityDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/1203/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SelectBookSimilarityDriver.java
+END
+CalculationOfRelationJoinDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1201/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CalculationOfRelationJoinDriver.java
+END
+GuessYouLikeManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/GuessYouLikeManagerTest.java
+END
+SimilarityConcatMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SimilarityConcatMapper.java
+END
+SelectTop4UnifiedInterfaceReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1170/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SelectTop4UnifiedInterfaceReducer.java
+END
+SelectTop4UnifiedInterfaceDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1203/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SelectTop4UnifiedInterfaceDriver.java
+END
+SimilarityConcatReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SimilarityConcatReducer.java
+END
+CalculationOfRelationSimDataMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CalculationOfRelationSimDataMapper.java
+END
+CopyOfSelectBookSimilarityReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CopyOfSelectBookSimilarityReducer.java
+END
+Join4UserBookPrefFinalScoreDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/Join4UserBookPrefFinalScoreDriver.java
+END
+CalculationOfRelationDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CalculationOfRelationDriver.java
+END
+CalculationOfRelationMultReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CalculationOfRelationMultReducer.java
+END
+CopyOfSelectBookSimilarityDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/CopyOfSelectBookSimilarityDriver.java
+END
+UserRecBookPrefViaPropertyOnUserPropertyPrefSideMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/UserRecBookPrefViaPropertyOnUserPropertyPrefSideMapper.java
+END
+SelectFinalRecResultDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/SelectFinalRecResultDriver.java
+END

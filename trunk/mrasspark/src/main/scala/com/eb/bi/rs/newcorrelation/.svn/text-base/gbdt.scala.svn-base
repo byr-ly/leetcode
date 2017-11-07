@@ -1,0 +1,102 @@
+package com.eb.bi.rs.newcorrelation
+
+import org.apache.log4j.{Level, Logger}
+import org.apache.spark.mllib.evaluation.BinaryClassificationMetrics
+import org.apache.spark.mllib.tree.GradientBoostedTrees
+import org.apache.spark.mllib.tree.configuration.BoostingStrategy
+import org.apache.spark.mllib.util.MLUtils
+import org.apache.spark.{SparkConf, SparkContext}
+
+/**
+  * Created by linwanying on 2017/7/6.
+  */
+object gbdt {
+  Logger.getLogger("org").setLevel(Level.ERROR)
+
+  def main(args: Array[String]): Unit = {
+    val conf = new SparkConf().setAppName("gbdt_correlationrec")
+    conf.set("spark.serializer","org.apache.spark.serializer.KryoSerializer")
+//    conf.set("spark.executor.extraJavaOptions", "-XX:ReservedCodeCacheSize=100M -XX:MaxMetaspaceSize=256m -XX:CompressedClassSpaceSize=256m")
+    conf.set("spark.speculation", "true")
+    conf.set("spark.speculation.interval", "100")
+    conf.set("spark.speculation.quantile", "0.75")
+    conf.set("spark.speculation.multiplier", "1.6")
+    conf.set("spark.network.timeout", "600")
+//    conf.set("spark.shuffle.memoryFraction", "0.3")
+//    conf.set("spark.executor.memory", "2G")
+//    conf.set("spark.executor.cores", "3")
+
+    val sc = new SparkContext(conf)
+    // $example on$
+    // Load and parse the data file.
+//    val data = MLUtils.loadLibSVMFile(sc, "/user/recsys/correlationrec/input")
+    val data = MLUtils.loadLibSVMFile(sc, "/user/recsys/newcorrelationrec/offline/output/libsvmout/part-m-all")
+
+    // Split the data into training and test sets (30% held out for testing)
+    val splits = data.randomSplit(Array(0.7, 0.3))
+    val (trainingData, testData) = (splits(0), splits(1))
+
+    // Train a GradientBoostedTrees model.
+    // The defaultParams for Regression use SquaredError by default.
+//    for (maxIter <- 15 until(25, 5)) {
+//      for (maxDepth <- 15 until(21, 1)) {
+        val boostingStrategy = BoostingStrategy.defaultParams("Regression")
+        boostingStrategy.setNumIterations(15)
+        boostingStrategy.treeStrategy.setMaxDepth(15)
+        //    boostingStrategy.treeStrategy.setCategoricalFeaturesInfo(Map[Int, Int]())
+        // Empty categoricalFeaturesInfo indicates all features are continuous.
+        //    val boostingStrategy.treeStrategy.categoricalFeaturesInfo = Map[Int, Int]()
+
+        val model = GradientBoostedTrees.train(trainingData, boostingStrategy)
+
+        // Evaluate model on test instances and compute test error
+        val labelsAndPredictions = testData.map { point =>
+          val prediction = model.predict(point.features)
+          (prediction, point.label)
+        }
+        val metricsScaled = new BinaryClassificationMetrics(labelsAndPredictions)
+//        metricsScaled.roc()
+        val roc = metricsScaled.areaUnderROC()
+        val pr = metricsScaled.areaUnderPR()
+        val testMSE = labelsAndPredictions.map { case (v, p) => math.pow(v - p, 2) }.mean()
+        val accuracy = labelsAndPredictions.map { point =>
+          val prob = {
+            if ((point._1 >= 0.5 && point._2 == 1) || (point._1 < 0.5 && point._2 == 0)) 1 else 0
+          }
+          prob
+        }.mean()
+        val predict0 = labelsAndPredictions.map{ point => if (point._1 < 0.5) 1 else 0}.sum()
+        val all0 = labelsAndPredictions.map{ point => if (point._2 == 0) 1 else 0}.mean()
+        println("NumIterations = " + 15)
+        println("MaxDepth = " + 15)
+        println("Test Mean Squared Error = " + testMSE)
+        println("accuracy = " + accuracy)
+        println("accuracy of all 0 = " + all0)
+        println("number of predict 0 = " + predict0)
+        println("number of test data = " + testData.count())
+        println("areaUnderROC = " + roc)
+        println("areaUnderPR = " + pr)
+        println()
+//      }
+//    }
+
+    delete("hdfs://ebcloud1", "/user/recsys/newcorrelationrec/myGradientBoostingRegressionModel")
+    // Save and load model
+    model.save(sc, "/user/recsys/newcorrelationrec/myGradientBoostingRegressionModel")
+    println("save model to: hdfs://ebcloud1/user/recsys/newcorrelationrec/myGradientBoostingRegressionModel")
+//    val sameModel = GradientBoostedTreesModel.load(sc, "")
+  }
+
+  def delete(master:String, path:String): Unit = {
+    println("Begin delete!--" + master + path)
+    val output = new org.apache.hadoop.fs.Path(master + path)
+    val hdfs = org.apache.hadoop.fs.FileSystem.get(
+      new java.net.URI(master), new org.apache.hadoop.conf.Configuration())
+    // 删除输出目录
+    if (hdfs.exists(output)) {
+      hdfs.delete(output, true)
+      println("delete!--" + master + path)
+    }
+  }
+
+}

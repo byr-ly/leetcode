@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/get_idf_value
+END
+FilterChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/get_idf_value/FilterChar.java
+END
+GetIdfValueMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/get_idf_value/GetIdfValueMapper.java
+END
+GetIdfValueReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/get_idf_value/GetIdfValueReducer.java
+END
+SegWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/get_idf_value/SegWord.java
+END

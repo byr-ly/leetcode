@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/BI-recsys/!svn/ver/349/code/trunk/frame/common/src/main/java/com/eb/bi/rs/frame/common/hadoop/fileopt
+END
+PutMergeToHdfs.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/40/code/trunk/frame/common/src/main/java/com/eb/bi/rs/frame/common/hadoop/fileopt/PutMergeToHdfs.java
+END
+PutToHdfs.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/349/code/trunk/frame/common/src/main/java/com/eb/bi/rs/frame/common/hadoop/fileopt/PutToHdfs.java
+END
+GetFromHdfs.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/BI-recsys/!svn/ver/349/code/trunk/frame/common/src/main/java/com/eb/bi/rs/frame/common/hadoop/fileopt/GetFromHdfs.java
+END
+GetMergeFromHdfs.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/40/code/trunk/frame/common/src/main/java/com/eb/bi/rs/frame/common/hadoop/fileopt/GetMergeFromHdfs.java
+END

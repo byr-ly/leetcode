@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/util
+END
+Similar.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/util/Similar.java
+END
+TextPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/util/TextPair.java
+END
+Similars.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/util/Similars.java
+END
+MinHeapSortUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/util/MinHeapSortUtil.java
+END
+StringDoublePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/1110/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/bookrec/guessyoulike/util/StringDoublePair.java
+END

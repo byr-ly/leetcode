@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/1458/code/trunk/mras/bookrec/corelationrec/src/main/java/com/eb/bi/rs/mras/bookrec/corelationrec
+END
+OrderCorelationRecDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BI-recsys/!svn/ver/1406/code/trunk/mras/bookrec/corelationrec/src/main/java/com/eb/bi/rs/mras/bookrec/corelationrec/OrderCorelationRecDriver.java
+END
+ReadCorelationRecDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/1406/code/trunk/mras/bookrec/corelationrec/src/main/java/com/eb/bi/rs/mras/bookrec/corelationrec/ReadCorelationRecDriver.java
+END
+CooccurenceDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/370/code/trunk/mras/bookrec/corelationrec/src/main/java/com/eb/bi/rs/mras/bookrec/corelationrec/CooccurenceDriver.java
+END
+BrowseCorelationRecDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/BI-recsys/!svn/ver/1406/code/trunk/mras/bookrec/corelationrec/src/main/java/com/eb/bi/rs/mras/bookrec/corelationrec/BrowseCorelationRecDriver.java
+END
+OrderCorelationResultFilterDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/BI-recsys/!svn/ver/1382/code/trunk/mras/bookrec/corelationrec/src/main/java/com/eb/bi/rs/mras/bookrec/corelationrec/OrderCorelationResultFilterDriver.java
+END

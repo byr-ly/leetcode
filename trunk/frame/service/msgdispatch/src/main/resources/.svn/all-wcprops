@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/BI-recsys/!svn/ver/7/code/trunk/frame/service/msgdispatch/src/main/resources
+END
+redis.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/BI-recsys/!svn/ver/7/code/trunk/frame/service/msgdispatch/src/main/resources/redis.properties
+END
+jetty.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/BI-recsys/!svn/ver/7/code/trunk/frame/service/msgdispatch/src/main/resources/jetty.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/BI-recsys/!svn/ver/7/code/trunk/frame/service/msgdispatch/src/main/resources/log4j.properties
+END

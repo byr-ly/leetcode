@@ -1,0 +1,1 @@
+说明：按jobid存放每个job的配置文件、运行patch等，与idox的job运行目录结构相同。

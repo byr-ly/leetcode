@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+    <param name="num_reduce_tasks">100</param>
+    <param name="split_minsize">268435456</param>
+    <param name="reduce_mem">2560</param>
+
+    <!-- caculate mean socres -->
+    <param name="user_opus_score_output">recsys/itemcf/similarity/animation/user_animation_score_output</param>
+    <param name="opus_mean_score_path">recsys/itemcf/predict/animation/animation_mean_score</param>
+    
+    <!-- caculate top like opus -->
+    <param name="if_select_useropuscore">true</param>
+    <param name="top_useropuscore_num">20</param>
+    <param name="select_user_opus_score_path">recsys/itemcf/predict/animation/select_user_animation_score</param>
+    
+    <!-- calculate top similar opus -->
+    <param name="min_similarity">0</param>
+    <param name="top_similarity_num">100</param>
+    <param name="opus_similarity_path">recsys/itemcf/similarity/animation/animation_similariry_output</param>
+    <param name="select_opus_similarity_path">recsys/itemcf/predict/animation/select_animation_similarity</param>
+    
+    <!-- join useropuscore with opusimilarity matrix-->
+    <param name="score_similarity_join_path">recsys/itemcf/predict/animation/score_similarity_join</param>
+    
+    <!-- predict user opus score -->
+    <param name="predict_score_path">recsys/itemcf/predict/animation/predict_score</param>
+    
+    <!-- filter history -->
+    <param name="predict_score_filter_path">recsys/itemcf/predict/animation/predict_score_filter</param>
+    
+    <!-- caculate top predict opus of user -->
+    <param name="predict_result_path">recsys/itemcf/predict/animation/predict_result</param>
+    
+</config>

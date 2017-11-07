@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/1197/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter/mr
+END
+ItemFilterDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter/mr/ItemFilterDriver.java
+END
+GroupItemFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter/mr/GroupItemFilterMapper.java
+END
+GroupItem2FilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter/mr/GroupItem2FilterMapper.java
+END
+ItemFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter/mr/ItemFilterMapper.java
+END
+GroupItemFilterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter/mr/GroupItemFilterReducer.java
+END
+Item2FilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1109/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter/mr/Item2FilterMapper.java
+END
+GroupItemFilterDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/1197/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter/mr/GroupItemFilterDriver.java
+END
+ItemFilterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/filter/mr/ItemFilterReducer.java
+END

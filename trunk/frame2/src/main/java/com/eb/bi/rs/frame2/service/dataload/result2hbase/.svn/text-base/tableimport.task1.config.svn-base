@@ -1,0 +1,16 @@
+<config>
+        <composite name="personaltailor">
+                <leaf name="resultloader_tag">
+                        <class>com.eb.bi.rs.hdfs2hbase.HbaseWriteTool</class>
+                        <configuration>
+                                <conf.input.path>tableimport</conf.input.path>
+                                <conf.zk.host>10.1.69.170</conf.zk.host>
+                                <conf.zk.port>2182</conf.zk.port>
+                                <conf.hbase.table>user_realtime_books</conf.hbase.table>
+                                <conf.num.reduce.tasks>2</conf.num.reduce.tasks>
+                                <conf.import.split>\|</conf.import.split>
+                                <conf.import.express>cf:c1|rowkey|cf:c2|cf:c3|cf:c4</conf.import.express>
+                        </configuration>
+                </leaf>
+        </composite>
+</config>

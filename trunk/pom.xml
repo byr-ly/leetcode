@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.eb.bi.rs</groupId>
+  <artifactId>rs</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <name>rs</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <modules>
+    <module>frame</module>
+    <module>mras</module>
+    <module>qhll</module>
+    <module>algorithm</module>
+    <module>result2hbase</module>
+    <module>frame2</module>
+    <module>mras2</module>
+    <module>opus</module>
+    <module>opusstorm</module>
+    <module>anhui</module>
+    <module>andedu</module>
+    <module>mrasspark</module>
+  </modules>
+</project>

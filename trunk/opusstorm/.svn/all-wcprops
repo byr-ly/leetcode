@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/BI-recsys/!svn/ver/2014/code/trunk/opusstorm
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/BI-recsys/!svn/ver/1966/code/trunk/opusstorm/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/BI-recsys/!svn/ver/1729/code/trunk/opusstorm/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/BI-recsys/!svn/ver/1809/code/trunk/opusstorm/pom.xml
+END

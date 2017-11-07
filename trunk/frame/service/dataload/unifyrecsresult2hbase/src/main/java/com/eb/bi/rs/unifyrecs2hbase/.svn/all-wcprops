@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase
+END
+PersonalTailorTagMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalTailorTagMapper.java
+END
+UnifiedRecRepDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/UnifiedRecRepDriver.java
+END
+PersonalGuessYouLikeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalGuessYouLikeMapper.java
+END
+PersonalTailorTagReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalTailorTagReducer.java
+END
+PersonalTailorNewTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalTailorNewTool.java
+END
+PersonalGuessYouLikeReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalGuessYouLikeReducer.java
+END
+PersonalTailorTagDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalTailorTagDriver.java
+END
+PersonalTailorHotTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalTailorHotTool.java
+END
+PersonalGuessYouLikeDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalGuessYouLikeDriver.java
+END
+Result2HbaseTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/Result2HbaseTable.java
+END
+PersonalTailorNewMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalTailorNewMapper.java
+END
+PersonalTailorHotMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalTailorHotMapper.java
+END
+FamousRecomTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/FamousRecomTool.java
+END
+PersonalTailorNewReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalTailorNewReducer.java
+END
+UnifiedRecRepTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/UnifiedRecRepTool.java
+END
+PersonalTailorHotReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalTailorHotReducer.java
+END
+PersonalTailorNewDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalTailorNewDriver.java
+END
+PersonalTailorHotDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalTailorHotDriver.java
+END
+FamousRecomMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/FamousRecomMapper.java
+END
+PersonalTailorTagTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalTailorTagTool.java
+END
+UnifiedRecRepMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/UnifiedRecRepMapper.java
+END
+PersonalGuessYouLikeTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/PersonalGuessYouLikeTool.java
+END
+FamousRecomReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/FamousRecomReducer.java
+END
+FamousRecomDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/FamousRecomDriver.java
+END
+UnifiedRecRepReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/BI-recsys/!svn/ver/856/code/trunk/frame/service/dataload/unifyrecsresult2hbase/src/main/java/com/eb/bi/rs/unifyrecs2hbase/UnifiedRecRepReducer.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/BI-recsys/!svn/ver/1458/code/trunk/mras/bookrec/corelationrec/src/main/java/com/eb/bi/rs/mras/bookrec/corelationrec/RealTimeFillerDataPrepare
+END
+RealTimeFillerDataPrepareReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/BI-recsys/!svn/ver/1427/code/trunk/mras/bookrec/corelationrec/src/main/java/com/eb/bi/rs/mras/bookrec/corelationrec/RealTimeFillerDataPrepare/RealTimeFillerDataPrepareReducer.java
+END
+RealTimeFillerDataPrepareDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/BI-recsys/!svn/ver/1448/code/trunk/mras/bookrec/corelationrec/src/main/java/com/eb/bi/rs/mras/bookrec/corelationrec/RealTimeFillerDataPrepare/RealTimeFillerDataPrepareDriver.java
+END
+RealTimeFillerFreeBookPrepareReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/BI-recsys/!svn/ver/1458/code/trunk/mras/bookrec/corelationrec/src/main/java/com/eb/bi/rs/mras/bookrec/corelationrec/RealTimeFillerDataPrepare/RealTimeFillerFreeBookPrepareReducer.java
+END
+RealTimeFillerDataPrepareMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/BI-recsys/!svn/ver/1427/code/trunk/mras/bookrec/corelationrec/src/main/java/com/eb/bi/rs/mras/bookrec/corelationrec/RealTimeFillerDataPrepare/RealTimeFillerDataPrepareMapper.java
+END

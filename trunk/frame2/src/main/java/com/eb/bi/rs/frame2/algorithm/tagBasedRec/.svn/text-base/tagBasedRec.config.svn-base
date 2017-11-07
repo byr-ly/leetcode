@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<!-- number of reduce -->
+	<param name="reduce_num">1</param>
+	<!-- Input Data Path: item|user -->
+  	<param name="user_item_input">zhengyaolin/diffusion/user_item</param>
+	<!-- Input Data Path: item|tag -->
+  	<param name="item_tag_input">zhengyaolin/diffusion/item_tag</param>
+	<!-- Input Data Path: user|item|score -->
+  	<param name="user_item_orig">zhengyaolin/diffusion/user_item_orig</param>
+	<!-- Output Data Path: including tmp result -->
+  	<param name="resource_diffusion_output">zhengyaolin/diffusion/result</param>
+	<!-- Integrate coefficient of two diffusions -->
+  	<param name="lambda">0.5</param>
+	<!-- boolean: true if output ratings -->
+	<param name="rating">false</param>
+	<!-- boolean: true if filtering historical behavior -->
+  	<param name="filter">true</param>
+	<!-- int: recomment topN items -->
+  	<param name="topN">100</param>
+
+</config>

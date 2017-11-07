@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/BI-recsys/!svn/ver/836/code/trunk/frame/service/dataload/dna2hbase
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/BI-recsys/!svn/ver/783/code/trunk/frame/service/dataload/dna2hbase/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/BI-recsys/!svn/ver/798/code/trunk/frame/service/dataload/dna2hbase/pom.xml
+END

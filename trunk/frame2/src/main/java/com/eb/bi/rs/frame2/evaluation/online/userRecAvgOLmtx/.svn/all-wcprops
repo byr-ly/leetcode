@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/1859/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/evaluation/online/userRecAvgOLmtx
+END
+userRecNuoMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1859/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/evaluation/online/userRecAvgOLmtx/userRecNuoMapper.java
+END
+userRecNurMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1859/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/evaluation/online/userRecAvgOLmtx/userRecNurMapper.java
+END
+userRecNucMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1859/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/evaluation/online/userRecAvgOLmtx/userRecNucMapper.java
+END
+userRecAvgOLMtxReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/1859/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/evaluation/online/userRecAvgOLmtx/userRecAvgOLMtxReducer.java
+END
+userRecAvgOLMtxDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1859/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/evaluation/online/userRecAvgOLmtx/userRecAvgOLMtxDriver.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/BI-recsys/!svn/ver/2036/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/generec/bolt
+END
+MergeBoltSimilar.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/2036/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/generec/bolt/MergeBoltSimilar.java
+END
+SimilarBolt.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BI-recsys/!svn/ver/2036/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/generec/bolt/SimilarBolt.java
+END
+RequestSpout.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/2036/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/generec/bolt/RequestSpout.java
+END
+PrintHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BI-recsys/!svn/ver/2036/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/generec/bolt/PrintHelper.java
+END
+ActionBolt.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/2036/code/trunk/mrasstorm/src/main/java/com/eb/bi/rs/mrasstorm/generec/bolt/ActionBolt.java
+END

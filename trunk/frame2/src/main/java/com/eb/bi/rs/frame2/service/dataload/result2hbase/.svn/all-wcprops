@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/BI-recsys/!svn/ver/1962/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase
+END
+tableexport.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/tableexport.task1.config
+END
+LoadUserReadHistory.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/LoadUserReadHistory.task1.config
+END
+splittableimport.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/splittableimport.task1.config
+END
+FriendClientLoginInfoTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1602/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/FriendClientLoginInfoTool.java
+END
+PersonalTailorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1602/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/PersonalTailorDriver.java
+END
+LoadUserReadHistory2.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1962/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/LoadUserReadHistory2.java
+END
+FriendClientLoginInfoMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/FriendClientLoginInfoMapper.java
+END
+OnlineDayTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/BI-recsys/!svn/ver/1602/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/OnlineDayTool.java
+END
+PersonalResultTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/1602/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/PersonalResultTool.java
+END
+FriendClientLoginInfoReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/FriendClientLoginInfoReducer.java
+END
+OnlineDayTool.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/OnlineDayTool.task1.config
+END
+PersonalResultTool.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/PersonalResultTool.task1.config
+END
+PersonalResultMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1176/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/PersonalResultMapper.java
+END
+tableimport.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/tableimport.task1.config
+END
+PersonalResultTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/PersonalResultTable.java
+END
+PersonalResultReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/PersonalResultReducer.java
+END
+LoadUserReadHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1602/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/result2hbase/LoadUserReadHistory.java
+END

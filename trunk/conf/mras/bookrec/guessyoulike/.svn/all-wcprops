@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/BI-recsys/!svn/ver/609/code/trunk/conf/mras/bookrec/guessyoulike
+END
+guessyoulike.task11.config
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/BI-recsys/!svn/ver/601/code/trunk/conf/mras/bookrec/guessyoulike/guessyoulike.task11.config
+END
+Join4UserBookPrefFinalScoreDriver.config
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/BI-recsys/!svn/ver/432/code/trunk/conf/mras/bookrec/guessyoulike/Join4UserBookPrefFinalScoreDriver.config
+END
+guessyoulike.task12.config
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/BI-recsys/!svn/ver/601/code/trunk/conf/mras/bookrec/guessyoulike/guessyoulike.task12.config
+END
+geussyoulike_piecefiller.task3.config
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/BI-recsys/!svn/ver/609/code/trunk/conf/mras/bookrec/guessyoulike/geussyoulike_piecefiller.task3.config
+END
+UserMaxPrefsDriver.config
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/BI-recsys/!svn/ver/418/code/trunk/conf/mras/bookrec/guessyoulike/UserMaxPrefsDriver.config
+END
+UserRecBookPrefViaPropertyDriver.config
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/BI-recsys/!svn/ver/493/code/trunk/conf/mras/bookrec/guessyoulike/UserRecBookPrefViaPropertyDriver.config
+END
+SourceConcatDriver.config
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/BI-recsys/!svn/ver/502/code/trunk/conf/mras/bookrec/guessyoulike/SourceConcatDriver.config
+END
+PreferenceMatchDriver.config
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/BI-recsys/!svn/ver/502/code/trunk/conf/mras/bookrec/guessyoulike/PreferenceMatchDriver.config
+END
+SelectMergeBookSourceDriver.config
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/BI-recsys/!svn/ver/413/code/trunk/conf/mras/bookrec/guessyoulike/SelectMergeBookSourceDriver.config
+END
+CalculationOfRelationInCacheDriver.config
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/BI-recsys/!svn/ver/428/code/trunk/conf/mras/bookrec/guessyoulike/CalculationOfRelationInCacheDriver.config
+END
+guessyoulike_newfiller.task17.config
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/BI-recsys/!svn/ver/604/code/trunk/conf/mras/bookrec/guessyoulike/guessyoulike_newfiller.task17.config
+END
+guessyoulike_newfiller.task18.config
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/BI-recsys/!svn/ver/601/code/trunk/conf/mras/bookrec/guessyoulike/guessyoulike_newfiller.task18.config
+END
+SimilarityConcatDriver.config
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/BI-recsys/!svn/ver/502/code/trunk/conf/mras/bookrec/guessyoulike/SimilarityConcatDriver.config
+END
+guessyoulike_newfiller.task19.config
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/BI-recsys/!svn/ver/604/code/trunk/conf/mras/bookrec/guessyoulike/guessyoulike_newfiller.task19.config
+END

@@ -1,0 +1,21 @@
+﻿<config>
+	<composite name="guessyoulike">
+		<leaf name="CalculationOfRelationInCacheDriver">
+			<class>com.eb.bi.rs.mras.bookrec.guessyoulike.CalculationOfRelationInCacheDriver</class>
+			<configuration>
+				<hdfs.input.path>/user/idox/tangkun/geussyoulike/input/data*</hdfs.input.path>
+				<hdfs.output.path>/user/idox/tangkun/geussyoulike/output</hdfs.output.path>
+				<hdfs.cache.path>/user/idox/tangkun/geussyoulike/cache</hdfs.cache.path>
+				
+				
+				<hadoop.reduce.num>1</hadoop.reduce.num>
+				<hadoop.map.maxsplitsizejob>64</hadoop.map.maxsplitsizejob>
+				
+				
+				<hadoop.io.k_v_separator>|</hadoop.io.k_v_separator>
+				<Appconf.data.field.separator>|</Appconf.data.field.separator>
+				<Appconf.data.inner.separator>,</Appconf.data.inner.separator>
+			</configuration>
+		</leaf>
+	</composite>
+</config>

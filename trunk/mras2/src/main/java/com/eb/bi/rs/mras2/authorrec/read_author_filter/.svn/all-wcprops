@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/BI-recsys/!svn/ver/1182/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/read_author_filter
+END
+ReadAuthorFilterDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1181/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/read_author_filter/ReadAuthorFilterDriver.java
+END
+ReadAuthorFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1153/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/read_author_filter/ReadAuthorFilterMapper.java
+END
+ReadAuthorFilterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1182/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/read_author_filter/ReadAuthorFilterReducer.java
+END

@@ -1,0 +1,37 @@
+<config>
+	<composite name="personaltailor_filler">
+		<leaf name="personaltailor_PieceFillerNandHDriver">
+			<class>com.eb.bi.rs.mras.bookrec.personalrec.filler.PieceFillerNandHDriver</class>
+			<configuration>
+				<hdfs.input.path>/user/recsys/personaltailor_filler/input/new/*</hdfs.input.path>
+				<hdfs.output.path>/user/recsys/personaltailor_filler/new_output</hdfs.output.path>
+				<Appconf.piecefiller.recommendnum>12</Appconf.piecefiller.recommendnum>
+				<Appconf.piecefiller.randomnum>500</Appconf.piecefiller.randomnum>
+				<hadoop.map.maxsplitsizejob>64</hadoop.map.maxsplitsizejob>
+			</configuration>
+		</leaf>
+		
+		<leaf name="personaltailor_PieceFillerNandHDriver">
+			<class>com.eb.bi.rs.mras.bookrec.personalrec.filler.PieceFillerNandHDriver</class>
+			<configuration>
+				<hdfs.input.path>/user/recsys/personaltailor_filler/input/hot/*</hdfs.input.path>
+				<hdfs.output.path>/user/recsys/personaltailor_filler/hot_output</hdfs.output.path>
+				<Appconf.piecefiller.recommendnum>12</Appconf.piecefiller.recommendnum>
+				<Appconf.piecefiller.randomnum>500</Appconf.piecefiller.randomnum>
+				<hadoop.map.maxsplitsizejob>64</hadoop.map.maxsplitsizejob>
+			</configuration>
+		</leaf>
+		
+		<leaf name="personaltailor_PieceFillerTagDriver">
+			<class>com.eb.bi.rs.mras.bookrec.personalrec.filler.PieceFillerTagDriver</class>
+			<configuration>
+				<hdfs.input.path>/user/recsys/personaltailor_filler/input/booktag/*</hdfs.input.path>
+				<hdfs.cache.path>/user/recsys/personaltailor_filler/input/tag/tag</hdfs.cache.path>
+				<hdfs.output.path>/user/recsys/personaltailor_filler/tag_output</hdfs.output.path>
+				<hadoop.map.maxsplitsizejob>64</hadoop.map.maxsplitsizejob>
+				<Appconf.piecefiller.recommendnum>4</Appconf.piecefiller.recommendnum>
+				<Appconf.piecefiller.randomnum>500</Appconf.piecefiller.randomnum>
+			</configuration>
+		</leaf>
+	</composite>
+</config>

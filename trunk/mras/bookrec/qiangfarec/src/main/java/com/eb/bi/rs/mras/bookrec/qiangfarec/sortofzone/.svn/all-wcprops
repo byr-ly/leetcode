@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/1492/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/sortofzone
+END
+UserAreaBookTopFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/BI-recsys/!svn/ver/1300/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/sortofzone/UserAreaBookTopFilterMapper.java
+END
+UserHistoryBookMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/BI-recsys/!svn/ver/1326/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/sortofzone/UserHistoryBookMapper.java
+END
+AreaBookEditPointsDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/1326/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/sortofzone/AreaBookEditPointsDriver.java
+END
+BookInfoQiangfaMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/BI-recsys/!svn/ver/1425/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/sortofzone/BookInfoQiangfaMapper.java
+END
+BookInfoEditPointsReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/1300/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/sortofzone/BookInfoEditPointsReducer.java
+END
+UserBookTotalscoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/1492/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/sortofzone/UserBookTotalscoreReducer.java
+END
+SortOfZoneDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/1300/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/sortofzone/SortOfZoneDriver.java
+END
+UserAreaBookTopFilterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/BI-recsys/!svn/ver/1465/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/sortofzone/UserAreaBookTopFilterReducer.java
+END
+UserBookTotalscoreDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/1326/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/sortofzone/UserBookTotalscoreDriver.java
+END
+UserAreaBookTopFilterDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/BI-recsys/!svn/ver/1326/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/sortofzone/UserAreaBookTopFilterDriver.java
+END
+UserAreaBookTopNMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/BI-recsys/!svn/ver/1326/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/sortofzone/UserAreaBookTopNMapper.java
+END
+BookInfoMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1300/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/sortofzone/BookInfoMapper.java
+END
+UserBookPrefersocreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/1326/code/trunk/mras/bookrec/qiangfarec/src/main/java/com/eb/bi/rs/mras/bookrec/qiangfarec/sortofzone/UserBookPrefersocreMapper.java
+END

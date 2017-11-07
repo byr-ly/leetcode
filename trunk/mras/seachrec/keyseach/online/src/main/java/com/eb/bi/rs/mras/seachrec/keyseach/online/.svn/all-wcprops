@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/149/code/trunk/mras/seachrec/keyseach/online/src/main/java/com/eb/bi/rs/mras/seachrec/keyseach/online
+END
+BookPrefData.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/7/code/trunk/mras/seachrec/keyseach/online/src/main/java/com/eb/bi/rs/mras/seachrec/keyseach/online/BookPrefData.java
+END
+StormTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/99/code/trunk/mras/seachrec/keyseach/online/src/main/java/com/eb/bi/rs/mras/seachrec/keyseach/online/StormTest.java
+END
+WeightCompute.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/106/code/trunk/mras/seachrec/keyseach/online/src/main/java/com/eb/bi/rs/mras/seachrec/keyseach/online/WeightCompute.java
+END
+DataList.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/7/code/trunk/mras/seachrec/keyseach/online/src/main/java/com/eb/bi/rs/mras/seachrec/keyseach/online/DataList.java
+END
+PrefManage.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/106/code/trunk/mras/seachrec/keyseach/online/src/main/java/com/eb/bi/rs/mras/seachrec/keyseach/online/PrefManage.java
+END
+SearchRecomTopology.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BI-recsys/!svn/ver/149/code/trunk/mras/seachrec/keyseach/online/src/main/java/com/eb/bi/rs/mras/seachrec/keyseach/online/SearchRecomTopology.java
+END
+PrefCompute.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/106/code/trunk/mras/seachrec/keyseach/online/src/main/java/com/eb/bi/rs/mras/seachrec/keyseach/online/PrefCompute.java
+END
+MsgPretreat.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/106/code/trunk/mras/seachrec/keyseach/online/src/main/java/com/eb/bi/rs/mras/seachrec/keyseach/online/MsgPretreat.java
+END
+ResultProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/106/code/trunk/mras/seachrec/keyseach/online/src/main/java/com/eb/bi/rs/mras/seachrec/keyseach/online/ResultProcess.java
+END

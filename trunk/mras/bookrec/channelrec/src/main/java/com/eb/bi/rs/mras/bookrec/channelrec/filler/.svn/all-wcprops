@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/1467/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec/filler
+END
+ChannelRecFillerMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/1467/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec/filler/ChannelRecFillerMapper.java
+END
+ChannelRecFillerReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BI-recsys/!svn/ver/1442/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec/filler/ChannelRecFillerReducer.java
+END
+ChannelRecFillerDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/1428/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec/filler/ChannelRecFillerDriver.java
+END

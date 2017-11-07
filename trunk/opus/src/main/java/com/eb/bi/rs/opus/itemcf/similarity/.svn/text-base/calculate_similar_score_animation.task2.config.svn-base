@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+    <param name="user_opus_score_output">recsys/itemcf/similarity/animation/user_animation_score_output</param>
+    <param name="opus_similariry_output">recsys/itemcf/similarity/animation/animation_similariry_output</param>
+    <param name="opus_module_output">recsys/itemcf/similarity/animation/animation_module_output</param>
+    
+</config>

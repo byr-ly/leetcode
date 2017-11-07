@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/BI-recsys/!svn/ver/2004/code/trunk/mras/generec/storm/src/main/java/com/eb/bi/rs/mras/generec/storm/bolt
+END
+MergeBoltSimilar.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/2004/code/trunk/mras/generec/storm/src/main/java/com/eb/bi/rs/mras/generec/storm/bolt/MergeBoltSimilar.java
+END
+SimilarBolt.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/1552/code/trunk/mras/generec/storm/src/main/java/com/eb/bi/rs/mras/generec/storm/bolt/SimilarBolt.java
+END
+RequestSpout.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1546/code/trunk/mras/generec/storm/src/main/java/com/eb/bi/rs/mras/generec/storm/bolt/RequestSpout.java
+END
+PrintHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/1484/code/trunk/mras/generec/storm/src/main/java/com/eb/bi/rs/mras/generec/storm/bolt/PrintHelper.java
+END
+ActionBolt.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/1989/code/trunk/mras/generec/storm/src/main/java/com/eb/bi/rs/mras/generec/storm/bolt/ActionBolt.java
+END

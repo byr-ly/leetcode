@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/1454/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/basetime
+END
+BaseTimeReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/BI-recsys/!svn/ver/1086/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/basetime/BaseTimeReducer.java
+END
+AddLastDayReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/BI-recsys/!svn/ver/1454/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/basetime/AddLastDayReducer.java
+END
+BaseTimeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/BI-recsys/!svn/ver/591/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/basetime/BaseTimeManager.java
+END
+BaseTimeDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/BI-recsys/!svn/ver/1454/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/basetime/BaseTimeDriver.java
+END
+BookFinalScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/BI-recsys/!svn/ver/1454/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/basetime/BookFinalScoreMapper.java
+END
+UesrBookMarkMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/BI-recsys/!svn/ver/597/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/basetime/UesrBookMarkMapper.java
+END
+UserBookRecordMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/BI-recsys/!svn/ver/599/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/basetime/UserBookRecordMapper.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/BI-recsys/!svn/ver/1182/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/commonuser
+END
+CommonUserReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/BI-recsys/!svn/ver/1182/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/commonuser/CommonUserReducer.java
+END
+CommonUserDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/1181/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/commonuser/CommonUserDriver.java
+END
+CommomUserMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/1181/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/authorrec/commonuser/CommomUserMapper.java
+END

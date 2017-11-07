@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/BI-recsys/!svn/ver/846/code/trunk/algorithm/pca/src/main/java/com/eb/bi/rs/algorithm/pac/data
+END
+PCADataRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/846/code/trunk/algorithm/pca/src/main/java/com/eb/bi/rs/algorithm/pac/data/PCADataRow.java
+END
+CmreadBook.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/846/code/trunk/algorithm/pca/src/main/java/com/eb/bi/rs/algorithm/pac/data/CmreadBook.java
+END
+PCADataGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BI-recsys/!svn/ver/846/code/trunk/algorithm/pca/src/main/java/com/eb/bi/rs/algorithm/pac/data/PCADataGroup.java
+END
+PCAData.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/BI-recsys/!svn/ver/846/code/trunk/algorithm/pca/src/main/java/com/eb/bi/rs/algorithm/pac/data/PCAData.java
+END
+PCADataRowComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/BI-recsys/!svn/ver/846/code/trunk/algorithm/pca/src/main/java/com/eb/bi/rs/algorithm/pac/data/PCADataRowComparator.java
+END
+CmreadBookRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/846/code/trunk/algorithm/pca/src/main/java/com/eb/bi/rs/algorithm/pac/data/CmreadBookRow.java
+END

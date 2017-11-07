@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/BI-recsys/!svn/ver/1327/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/compare_result
+END
+CompareResultReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1327/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/compare_result/CompareResultReducer.java
+END
+CompareResultDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/compare_result/CompareResultDriver.java
+END
+CompareResultMapperYesterday.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/compare_result/CompareResultMapperYesterday.java
+END
+CompareResultMapperToday.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/BI-recsys/!svn/ver/1256/code/trunk/mras/andnewsrec/src/main/java/com/eb/bi/rs/mras/andnewsrec/compare_result/CompareResultMapperToday.java
+END

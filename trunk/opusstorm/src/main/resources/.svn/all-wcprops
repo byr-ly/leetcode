@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/BI-recsys/!svn/ver/2014/code/trunk/opusstorm/src/main/resources
+END
+table.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/BI-recsys/!svn/ver/2014/code/trunk/opusstorm/src/main/resources/table.properties
+END
+hbase-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/BI-recsys/!svn/ver/1729/code/trunk/opusstorm/src/main/resources/hbase-site.xml
+END
+hdfs-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/BI-recsys/!svn/ver/1729/code/trunk/opusstorm/src/main/resources/hdfs-site.xml
+END

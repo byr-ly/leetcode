@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity
+END
+UserItemMeanScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/UserItemMeanScoreMapper.java
+END
+TextPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/TextPair.java
+END
+ItemAvgMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/ItemAvgMapper.java
+END
+CosineSimilarityReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/CosineSimilarityReducer.java
+END
+CaculateSimilarityDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/CaculateSimilarityDriver.java
+END
+UserItemMeanScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/UserItemMeanScoreReducer.java
+END
+ScoreWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/ScoreWritable.java
+END
+EuclideanSimilarityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/EuclideanSimilarityMapper.java
+END
+ItemAvgReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/ItemAvgReducer.java
+END
+PearsonSimilarityWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/PearsonSimilarityWritable.java
+END
+ItemModuleMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/ItemModuleMapper.java
+END
+EuclideanSimilarityReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/EuclideanSimilarityReducer.java
+END
+ItemModuleReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/ItemModuleReducer.java
+END
+calculate_similar_score.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/calculate_similar_score.task1.config
+END
+UserScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/UserScoreMapper.java
+END
+UserMeanScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/UserMeanScoreMapper.java
+END
+CosineSimilarityWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/CosineSimilarityWritable.java
+END
+PearsonSimilarityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/PearsonSimilarityMapper.java
+END
+UserScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/UserScoreReducer.java
+END
+PearsonSimilarityReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/PearsonSimilarityReducer.java
+END
+GenerateNewUserItemScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/GenerateNewUserItemScoreReducer.java
+END
+CosineSimilarityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/CosineSimilarityMapper.java
+END
+UserItemScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/BI-recsys/!svn/ver/2006/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/itemcf/similarity/UserItemScoreMapper.java
+END

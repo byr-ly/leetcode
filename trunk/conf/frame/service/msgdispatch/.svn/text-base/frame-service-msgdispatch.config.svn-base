@@ -1,0 +1,16 @@
+#
+jetty.port=8080
+#
+redis.pool.maxActive=8
+#
+redis.pool.maxIdle=8
+#
+redis.pool.maxWait=-1
+#
+redis.pool.testOnBorrow=false
+#
+redis.pool.testOnReturn=false
+#IP
+redis.ip=10.1.70.4
+#Port
+redis.port=3033

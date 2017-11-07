@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+	<param name="num_reduce_tasks">2</param>
+	
+	<!-- caculate mean socres -->
+    <param name="user_opus_score_output">itemcf/similarity/user_opus_score_output</param>
+    <param name="opus_mean_score_outputpath">itemcf/predict/opus_mean_score</param>
+    
+    <!-- caculate top like opus -->
+    <param name="top_useropuscore_num">20</param>
+    <param name="select_user_opus_score_path">itemcf/predict/select_user_opus_score</param>
+    
+    <!-- calculate top similar opus -->
+    <param name="min_similarity">0</param>
+    <param name="top_similarity_num">20</param>
+    <param name="opus_similarity_path">itemcf/similarity/opus_similariry_output</param>
+    <param name="select_opus_similarity_path">itemcf/predict/select_opus_similarity</param>
+    
+    <!-- join useropuscore with opusimilarity matrix-->
+    <param name="score_similarity_join_path">itemcf/predict/score_similarity_join</param>
+    
+    <!-- predict user opus score -->
+    <param name="predict_score_path">itemcf/predict/predict_score</param>
+    
+    <!-- filter history -->
+    <param name="predict_score_filter_path">itemcf/predict/predict_score_filter</param>
+    
+    <!-- caculate top predict opus of user -->
+    <param name="predict_result_path">itemcf/predict/predict_result</param>
+    
+    
+</config>

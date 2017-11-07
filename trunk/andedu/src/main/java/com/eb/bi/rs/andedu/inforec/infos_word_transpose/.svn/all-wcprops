@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/infos_word_transpose
+END
+InfosWordsTransposeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/infos_word_transpose/InfosWordsTransposeMapper.java
+END
+InfosWordsTransposeReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/infos_word_transpose/InfosWordsTransposeReducer.java
+END
+InfosWordsTransposeDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/2103/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/inforec/infos_word_transpose/InfosWordsTransposeDriver.java
+END

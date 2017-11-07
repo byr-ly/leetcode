@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+	<param name="reduce_num">1</param>
+	
+	<!-- if consider average, true or false -->
+	<param name="is_change">true</param>
+	
+	<!-- calculate the similarity of items, cos or pearson or euclidean-->
+	<param name="simi_method">cos</param>
+	<!-- cosine similarity, 1 or 2-->
+	<param name="cos_method">1</param>
+	<!-- if puish active users, true or false-->
+	<param name="if_punish_active_users">true</param>
+	<!-- if norm, true or false -->
+	<param name="if_norm">true</param>
+	
+	<!-- input -->
+    <param name="user_item_score_output">productization/itemcf/similarity/user_item_score_output</param>
+		
+	<!-- output -->
+    <param name="user_item_avg_output">productization/itemcf/similarity/user_item_avg_output</param>
+    <param name="item_avg_output">productization/itemcf/similarity/item_avg_output</param>
+    <param name="change_user_item_score_output">productization/itemcf/similarity/change_user_item_score_output</param>
+    <param name="item_similariry_output">productization/itemcf/similarity/item_similariry_output</param>
+    <param name="item_module_output">productization/itemcf/similarity/item_module_output</param>
+    
+</config>

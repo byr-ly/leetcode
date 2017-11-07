@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/592/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore
+END
+JoinScoreAndSimilarityReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/BI-recsys/!svn/ver/586/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/JoinScoreAndSimilarityReducer.java
+END
+TextPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BI-recsys/!svn/ver/586/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/TextPair.java
+END
+PredictScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/588/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/PredictScoreReducer.java
+END
+JoinScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/BI-recsys/!svn/ver/586/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/JoinScoreMapper.java
+END
+FilterPredictScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/BI-recsys/!svn/ver/589/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/FilterPredictScoreMapper.java
+END
+BookMeanScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/BI-recsys/!svn/ver/581/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/BookMeanScoreReducer.java
+END
+TopUserBooksMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/585/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/TopUserBooksMapper.java
+END
+PredictDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BI-recsys/!svn/ver/592/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/PredictDriver.java
+END
+TopUserBooksReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/592/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/TopUserBooksReducer.java
+END
+JoinSimilarityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/BI-recsys/!svn/ver/586/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/JoinSimilarityMapper.java
+END
+FilterHistoryMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/589/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/FilterHistoryMapper.java
+END
+TopUserPredictBooksMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/BI-recsys/!svn/ver/590/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/TopUserPredictBooksMapper.java
+END
+TopUserPredictBooksReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/BI-recsys/!svn/ver/590/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/TopUserPredictBooksReducer.java
+END
+TopSimilarBooksMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/BI-recsys/!svn/ver/584/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/TopSimilarBooksMapper.java
+END
+TopSimilarBooksReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/BI-recsys/!svn/ver/592/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/TopSimilarBooksReducer.java
+END
+PredictScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BI-recsys/!svn/ver/587/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/PredictScoreMapper.java
+END
+FilterPredictHistoryReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/BI-recsys/!svn/ver/589/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/FilterPredictHistoryReducer.java
+END
+BookMeanScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/579/code/trunk/mras/bookrec/itemcf/predictscore/src/main/java/com/eb/bi/rs/mras/bookrec/itemcf/predictscore/BookMeanScoreMapper.java
+END

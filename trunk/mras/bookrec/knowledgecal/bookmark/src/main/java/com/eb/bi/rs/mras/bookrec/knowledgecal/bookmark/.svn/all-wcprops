@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1454/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark
+END
+UserBookSpointReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/BI-recsys/!svn/ver/394/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/UserBookSpointReducer.java
+END
+NewUserhisMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/BI-recsys/!svn/ver/1087/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/NewUserhisMapper.java
+END
+BookScroeDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/387/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/BookScroeDriver.java
+END
+NewUserhisReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/BI-recsys/!svn/ver/1088/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/NewUserhisReducer.java
+END
+Bookinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BI-recsys/!svn/ver/352/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/Bookinfo.java
+END
+BookTypeReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/352/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/BookTypeReducer.java
+END
+BookChapterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/BI-recsys/!svn/ver/161/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/BookChapterMapper.java
+END
+CountReadnumMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/BI-recsys/!svn/ver/353/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/CountReadnumMapper.java
+END
+BookChargetypeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/BI-recsys/!svn/ver/161/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/BookChargetypeMapper.java
+END
+BookChapterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/BI-recsys/!svn/ver/161/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/BookChapterReducer.java
+END
+CountReadnumReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/BI-recsys/!svn/ver/353/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/CountReadnumReducer.java
+END
+BookTotalChMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/BI-recsys/!svn/ver/161/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/BookTotalChMapper.java
+END
+App.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/154/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/App.java
+END
+BooktypeInputMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/BI-recsys/!svn/ver/352/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/BooktypeInputMapper.java
+END
+UserHisMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/BI-recsys/!svn/ver/352/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/UserHisMapper.java
+END
+BooksInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BI-recsys/!svn/ver/352/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/BooksInfo.java
+END
+UserBookSpointMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/BI-recsys/!svn/ver/161/code/trunk/mras/bookrec/knowledgecal/bookmark/src/main/java/com/eb/bi/rs/mras/bookrec/knowledgecal/bookmark/UserBookSpointMapper.java
+END

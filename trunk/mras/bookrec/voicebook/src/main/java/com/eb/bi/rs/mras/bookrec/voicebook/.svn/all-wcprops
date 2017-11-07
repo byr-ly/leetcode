@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/1350/code/trunk/mras/bookrec/voicebook/src/main/java/com/eb/bi/rs/mras/bookrec/voicebook
+END
+App.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/1350/code/trunk/mras/bookrec/voicebook/src/main/java/com/eb/bi/rs/mras/bookrec/voicebook/App.java
+END
+JoinClassFrequencyReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/BI-recsys/!svn/ver/1350/code/trunk/mras/bookrec/voicebook/src/main/java/com/eb/bi/rs/mras/bookrec/voicebook/JoinClassFrequencyReducer.java
+END
+JoinFrequncyMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1350/code/trunk/mras/bookrec/voicebook/src/main/java/com/eb/bi/rs/mras/bookrec/voicebook/JoinFrequncyMapper.java
+END
+CooccurenceDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1350/code/trunk/mras/bookrec/voicebook/src/main/java/com/eb/bi/rs/mras/bookrec/voicebook/CooccurenceDriver.java
+END
+ListenBookFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BI-recsys/!svn/ver/1350/code/trunk/mras/bookrec/voicebook/src/main/java/com/eb/bi/rs/mras/bookrec/voicebook/ListenBookFilterMapper.java
+END
+ListenCorelationRecDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/BI-recsys/!svn/ver/1350/code/trunk/mras/bookrec/voicebook/src/main/java/com/eb/bi/rs/mras/bookrec/voicebook/ListenCorelationRecDriver.java
+END
+IndicatorFilterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1350/code/trunk/mras/bookrec/voicebook/src/main/java/com/eb/bi/rs/mras/bookrec/voicebook/IndicatorFilterMapper.java
+END
+ListenCorelationBookRecMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/1350/code/trunk/mras/bookrec/voicebook/src/main/java/com/eb/bi/rs/mras/bookrec/voicebook/ListenCorelationBookRecMapper.java
+END
+JoinClassMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/1350/code/trunk/mras/bookrec/voicebook/src/main/java/com/eb/bi/rs/mras/bookrec/voicebook/JoinClassMapper.java
+END
+ListenCorelationBookRecReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BI-recsys/!svn/ver/1350/code/trunk/mras/bookrec/voicebook/src/main/java/com/eb/bi/rs/mras/bookrec/voicebook/ListenCorelationBookRecReducer.java
+END

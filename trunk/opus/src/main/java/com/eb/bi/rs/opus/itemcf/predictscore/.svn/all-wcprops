@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/BI-recsys/!svn/ver/1690/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore
+END
+TopSimilarOpusMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/BI-recsys/!svn/ver/1558/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/TopSimilarOpusMapper.java
+END
+JoinScoreAndSimilarityReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/1571/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/JoinScoreAndSimilarityReducer.java
+END
+TextPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/BI-recsys/!svn/ver/1571/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/TextPair.java
+END
+PredictScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/1577/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/PredictScoreReducer.java
+END
+JoinScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/1571/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/JoinScoreMapper.java
+END
+FilterPredictScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/1571/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/FilterPredictScoreMapper.java
+END
+predict_opus_score.task2.config
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/1578/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/predict_opus_score.task2.config
+END
+TopSimilarOpusReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/BI-recsys/!svn/ver/1623/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/TopSimilarOpusReducer.java
+END
+PredictDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/1690/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/PredictDriver.java
+END
+JoinSimilarityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/BI-recsys/!svn/ver/1571/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/JoinSimilarityMapper.java
+END
+FilterHistoryMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/1680/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/FilterHistoryMapper.java
+END
+TopUserOpusMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/BI-recsys/!svn/ver/1558/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/TopUserOpusMapper.java
+END
+TopUserOpusReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/1680/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/TopUserOpusReducer.java
+END
+OpusMeanScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/1558/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/OpusMeanScoreMapper.java
+END
+TopUserPredictOpusMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/1571/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/TopUserPredictOpusMapper.java
+END
+TestDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/1558/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/TestDriver.java
+END
+PredictScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BI-recsys/!svn/ver/1571/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/PredictScoreMapper.java
+END
+FilterPredictHistoryReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/BI-recsys/!svn/ver/1680/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/FilterPredictHistoryReducer.java
+END
+OpusMeanScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/BI-recsys/!svn/ver/1680/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/OpusMeanScoreReducer.java
+END
+TopUserPredictOpusReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1690/code/trunk/opus/src/main/java/com/eb/bi/rs/opus/itemcf/predictscore/TopUserPredictOpusReducer.java
+END

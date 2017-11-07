@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/BI-recsys/!svn/ver/1482/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec
+END
+ChannelScoreDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1479/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec/ChannelScoreDriver.java
+END
+GetChannelBooksReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/BI-recsys/!svn/ver/1457/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec/GetChannelBooksReducer.java
+END
+Channelrec.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BI-recsys/!svn/ver/1297/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec/Channelrec.java
+END
+GetChannelBooksDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1428/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec/GetChannelBooksDriver.java
+END
+FilterBooksMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1482/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec/FilterBooksMapper.java
+END
+NewBooksScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1428/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec/NewBooksScoreMapper.java
+END
+ChannelScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1439/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec/ChannelScoreMapper.java
+END
+GetChannelBooksMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1481/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec/GetChannelBooksMapper.java
+END
+OldBooksScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1428/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec/OldBooksScoreMapper.java
+END
+ChannelScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1480/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/channelrec/ChannelScoreReducer.java
+END

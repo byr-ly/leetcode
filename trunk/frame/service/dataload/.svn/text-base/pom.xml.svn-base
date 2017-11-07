@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.eb.bi.rs.frame.service</groupId>
+    <artifactId>frame-service</artifactId>
+    <version>1.0-SNAPSHOT</version>
+  </parent>
+  <groupId>com.eb.bi.rs.frame.service.dataload</groupId>
+  <artifactId>frame-service-dataload</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>frame service dataload</name>
+  <url>http://maven.apache.org</url>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  <modules>
+    <module>hdfs2redis</module>
+    <module>ora2redis</module>
+    <module>file2redis</module>
+    <module>local2hdfs</module>
+    <module>hdfs2local</module>
+    <!--module>unifyrecsresult2hbase</module>
+    <module>result2hbase</module>
+    <module>dna2hbase</module>
+    <module>bulkload</module>
+    <module>result2hbase</module-->
+    <module>result2hbase</module>
+    <module>unifyrecsresult2hbase</module>
+  </modules>
+</project>

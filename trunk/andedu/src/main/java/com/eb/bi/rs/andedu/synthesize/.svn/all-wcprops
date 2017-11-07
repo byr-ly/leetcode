@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/BI-recsys/!svn/ver/2042/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/synthesize
+END
+SynthesizeSortMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/2042/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/synthesize/SynthesizeSortMapper.java
+END
+SynthesizeSortReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/2023/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/synthesize/SynthesizeSortReducer.java
+END
+SynthesizeSortDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/1974/code/trunk/andedu/src/main/java/com/eb/bi/rs/andedu/synthesize/SynthesizeSortDriver.java
+END

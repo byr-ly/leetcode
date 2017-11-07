@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/BI-recsys/!svn/ver/371/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence
+END
+ConfidenceLevelReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/ConfidenceLevelReducer.java
+END
+OutputMatrixReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/OutputMatrixReducer.java
+END
+OutputMatrixDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/OutputMatrixDriver.java
+END
+ConfidenceLevelDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/ConfidenceLevelDriver.java
+END
+SubDimensionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/SubDimensionMapper.java
+END
+FrequencyMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/FrequencyMapper.java
+END
+Vertical2horizontalMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/Vertical2horizontalMapper.java
+END
+FrequencyReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/FrequencyReducer.java
+END
+SubDimensionDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/SubDimensionDriver.java
+END
+FrequencyDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/FrequencyDriver.java
+END
+ProportionComputeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/ProportionComputeMapper.java
+END
+CooccurrenceMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/193/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/CooccurrenceMapper.java
+END
+Vertical2horizontalReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/371/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/Vertical2horizontalReducer.java
+END
+ConfidenceLevelManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/369/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/ConfidenceLevelManager.java
+END
+App.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BI-recsys/!svn/ver/164/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/App.java
+END
+Items.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/192/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/Items.java
+END
+Vertical2horizontalDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/Vertical2horizontalDriver.java
+END
+ProportionComputeReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/ProportionComputeReducer.java
+END
+CooccurrenceReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BI-recsys/!svn/ver/192/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/CooccurrenceReducer.java
+END
+ProportionComputeDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/ProportionComputeDriver.java
+END
+CooccurrenceDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/CooccurrenceDriver.java
+END
+CooccurrenceCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/192/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/CooccurrenceCombiner.java
+END
+OutputMatrixMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/OutputMatrixMapper.java
+END
+CooccurrenceMatrixManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/CooccurrenceMatrixManager.java
+END
+ConfidenceLevelMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/167/code/trunk/algorithm/occurrence/src/main/java/com/eb/bi/rs/algorithm/occurrence/ConfidenceLevelMapper.java
+END

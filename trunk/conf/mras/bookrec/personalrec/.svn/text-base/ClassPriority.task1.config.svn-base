@@ -1,0 +1,19 @@
+<config>
+	<composite name="personaltailor">
+		<!--用户三级分类偏好(优先级)计算-->
+		<leaf name="hotbookrec-ClassPriorityComputeDriver">
+		<class>com.eb.bi.rs.mras.bookrec.personalrec.ClassPriorityComputeDriver</class>
+		<configuration>
+			<hdfs.input.path.1>/user/recsys/personaltailor/totaltest/userclassdata/userclassdata*</hdfs.input.path.1>
+			<hdfs.input.classinfo.path>/user/recsys/personaltailor/totaltest/classinfodata/class_*</hdfs.input.classinfo.path>
+			<hdfs.work.path>/user/recsys/personaltailor/totaltest/userclasspriority/work</hdfs.work.path>
+			<hdfs.output.path.1>/user/recsys/personaltailor/totaltest/userclasspriority/output</hdfs.output.path.1>
+			<hadoop.reduce.num>10</hadoop.reduce.num>
+			<hadoop.map.maxsplitsizejob>64</hadoop.map.maxsplitsizejob>
+			<hadoop.io.k_v_separator>|</hadoop.io.k_v_separator>
+			<Appconf.data.format.type>h</Appconf.data.format.type>
+			<Appconf.if.have.unuse.class>no</Appconf.if.have.unuse.class>
+		</configuration>
+		</leaf>
+	</composite>
+</config>

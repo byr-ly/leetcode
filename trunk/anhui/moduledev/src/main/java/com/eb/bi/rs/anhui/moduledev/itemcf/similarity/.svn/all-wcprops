@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BI-recsys/!svn/ver/1766/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/itemcf/similarity
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1712/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/itemcf/similarity/.classpath
+END
+SimilarityReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1766/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/itemcf/similarity/SimilarityReducer.java
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/1712/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/itemcf/similarity/.project
+END
+BrandScoreMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1766/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/itemcf/similarity/BrandScoreMapper.java
+END
+SimilarityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BI-recsys/!svn/ver/1751/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/itemcf/similarity/SimilarityMapper.java
+END
+BrandScoreReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1766/code/trunk/anhui/moduledev/src/main/java/com/eb/bi/rs/anhui/moduledev/itemcf/similarity/BrandScoreReducer.java
+END

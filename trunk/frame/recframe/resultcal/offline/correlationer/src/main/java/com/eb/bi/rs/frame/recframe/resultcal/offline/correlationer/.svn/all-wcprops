@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/BI-recsys/!svn/ver/280/code/trunk/frame/recframe/resultcal/offline/correlationer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/correlationer
+END
+App.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/BI-recsys/!svn/ver/218/code/trunk/frame/recframe/resultcal/offline/correlationer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/correlationer/App.java
+END
+TextPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/BI-recsys/!svn/ver/207/code/trunk/frame/recframe/resultcal/offline/correlationer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/correlationer/TextPair.java
+END
+MatrixSumReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/BI-recsys/!svn/ver/207/code/trunk/frame/recframe/resultcal/offline/correlationer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/correlationer/MatrixSumReducer.java
+END
+MatrixMultiple1Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/BI-recsys/!svn/ver/218/code/trunk/frame/recframe/resultcal/offline/correlationer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/correlationer/MatrixMultiple1Mapper.java
+END
+MatrixMultiple2Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/BI-recsys/!svn/ver/218/code/trunk/frame/recframe/resultcal/offline/correlationer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/correlationer/MatrixMultiple2Mapper.java
+END
+MatrixSumCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/BI-recsys/!svn/ver/207/code/trunk/frame/recframe/resultcal/offline/correlationer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/correlationer/MatrixSumCombiner.java
+END
+MatrixMultipleReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/BI-recsys/!svn/ver/207/code/trunk/frame/recframe/resultcal/offline/correlationer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/correlationer/MatrixMultipleReducer.java
+END
+MatrixComputeDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/BI-recsys/!svn/ver/280/code/trunk/frame/recframe/resultcal/offline/correlationer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/correlationer/MatrixComputeDriver.java
+END
+MatrixSumMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/BI-recsys/!svn/ver/207/code/trunk/frame/recframe/resultcal/offline/correlationer/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/correlationer/MatrixSumMapper.java
+END

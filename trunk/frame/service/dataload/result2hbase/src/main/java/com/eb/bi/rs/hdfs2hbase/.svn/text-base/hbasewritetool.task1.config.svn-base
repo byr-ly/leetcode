@@ -1,0 +1,20 @@
+<config>
+        <composite name="personaltailor">
+                <leaf name="resultloader_tag">
+                        <class>com.eb.bi.rs.hdfs2hbase.HbaseWriteTool</class>
+                        <configuration>
+                                <conf.input.path>base_score</conf.input.path>
+                                <conf.zk.host>10.1.69.170</conf.zk.host>
+                                <conf.zk.port>2182</conf.zk.port>
+                                <conf.hbase.table>unify_base_score</conf.hbase.table>
+                                <conf.num.reduce.tasks>2</conf.num.reduce.tasks>
+                                <conf.import.split>\|</conf.import.split>
+                                <conf.import.express>rowkey|cf:c|cf:class|cf:seriesid|cf:orderid</conf.import.express>
+                                <conf.import.splitnum>-1</conf.import.splitnum>
+                                <conf.rowkey.express>0_1</conf.rowkey.express>
+                                <conf.rowkey.split>_</conf.rowkey.split>
+                                <conf.truncate.table>true</conf.truncate.table>
+                        </configuration>
+                </leaf>
+        </composite>
+</config>

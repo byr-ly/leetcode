@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/BI-recsys/!svn/ver/1499/code/trunk/frame/recframe/resultcal/offline/datareduction/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/datareduction
+END
+DataReductionReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/BI-recsys/!svn/ver/1499/code/trunk/frame/recframe/resultcal/offline/datareduction/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/datareduction/DataReductionReducer.java
+END
+DataReductionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/BI-recsys/!svn/ver/1499/code/trunk/frame/recframe/resultcal/offline/datareduction/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/datareduction/DataReductionManager.java
+END
+DataReductionDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/BI-recsys/!svn/ver/1499/code/trunk/frame/recframe/resultcal/offline/datareduction/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/datareduction/DataReductionDriver.java
+END
+conf
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/BI-recsys/!svn/ver/1499/code/trunk/frame/recframe/resultcal/offline/datareduction/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/datareduction/conf
+END
+DataReductionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/BI-recsys/!svn/ver/1499/code/trunk/frame/recframe/resultcal/offline/datareduction/src/main/java/com/eb/bi/rs/frame/recframe/resultcal/offline/datareduction/DataReductionMapper.java
+END

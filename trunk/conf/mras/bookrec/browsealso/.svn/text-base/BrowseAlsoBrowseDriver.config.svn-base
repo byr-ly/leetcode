@@ -1,0 +1,17 @@
+﻿<leaf name="browsealso">
+    <class>com.eb.bi.rs.mras.bookrec.browsealso.BrowseAlsoBrowseDriver</class>
+    <configuration>
+        <conf.input.path>browsealso/input</conf.input.path>
+        <conf.book.class.path>browsealso/bookclass</conf.book.class.path>
+        <conf.book.uv.path>browsealso/bookuv/*</conf.book.uv.path>
+        <conf.mid.output.path>browsealso/midoutput</conf.mid.output.path>
+        <conf.output.path>browsealso/output</conf.output.path>
+        <conf.num.reduce.tasks>10</conf.num.reduce.tasks>
+        <conf.top.n>10</conf.top.n>
+        <conf.max.book.per.user>300</conf.max.book.per.user>
+        <conf.min.book.num>100</conf.min.book.num>
+        <conf.min.cooccur.num>5</conf.min.cooccur.num>
+        <conf.kulc.threshold>0.05</conf.kulc.threshold>
+        <conf.ir.threshold>0.7</conf.ir.threshold>
+    </configuration>
+</leaf>

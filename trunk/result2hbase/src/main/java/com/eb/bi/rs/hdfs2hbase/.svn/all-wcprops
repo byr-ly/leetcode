@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/BI-recsys/!svn/ver/1686/code/trunk/result2hbase/src/main/java/com/eb/bi/rs/hdfs2hbase
+END
+ImportDataProReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BI-recsys/!svn/ver/1686/code/trunk/result2hbase/src/main/java/com/eb/bi/rs/hdfs2hbase/ImportDataProReducer.java
+END
+hbasewritetool.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1686/code/trunk/result2hbase/src/main/java/com/eb/bi/rs/hdfs2hbase/hbasewritetool.task1.config
+END
+HbaseWriteMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/BI-recsys/!svn/ver/885/code/trunk/result2hbase/src/main/java/com/eb/bi/rs/hdfs2hbase/HbaseWriteMapper.java
+END
+ImportDataProTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/BI-recsys/!svn/ver/1686/code/trunk/result2hbase/src/main/java/com/eb/bi/rs/hdfs2hbase/ImportDataProTool.java
+END
+SplitHbaseWriteReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/BI-recsys/!svn/ver/1121/code/trunk/result2hbase/src/main/java/com/eb/bi/rs/hdfs2hbase/SplitHbaseWriteReducer.java
+END
+HbaseWriteMapper2.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/BI-recsys/!svn/ver/955/code/trunk/result2hbase/src/main/java/com/eb/bi/rs/hdfs2hbase/HbaseWriteMapper2.java
+END
+HbaseWriteReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/BI-recsys/!svn/ver/1127/code/trunk/result2hbase/src/main/java/com/eb/bi/rs/hdfs2hbase/HbaseWriteReducer.java
+END
+SplitHbaseWriteTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/1091/code/trunk/result2hbase/src/main/java/com/eb/bi/rs/hdfs2hbase/SplitHbaseWriteTool.java
+END
+importdataprotool.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/1686/code/trunk/result2hbase/src/main/java/com/eb/bi/rs/hdfs2hbase/importdataprotool.task1.config
+END
+ImportDataProMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BI-recsys/!svn/ver/1686/code/trunk/result2hbase/src/main/java/com/eb/bi/rs/hdfs2hbase/ImportDataProMapper.java
+END
+HbaseWriteTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/BI-recsys/!svn/ver/885/code/trunk/result2hbase/src/main/java/com/eb/bi/rs/hdfs2hbase/HbaseWriteTool.java
+END
+HbaseWriteTool2.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/BI-recsys/!svn/ver/953/code/trunk/result2hbase/src/main/java/com/eb/bi/rs/hdfs2hbase/HbaseWriteTool2.java
+END
+SplitHbaseWriteMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BI-recsys/!svn/ver/1121/code/trunk/result2hbase/src/main/java/com/eb/bi/rs/hdfs2hbase/SplitHbaseWriteMapper.java
+END

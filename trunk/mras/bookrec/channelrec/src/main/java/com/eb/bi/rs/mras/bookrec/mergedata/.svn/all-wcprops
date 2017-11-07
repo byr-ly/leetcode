@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/BI-recsys/!svn/ver/1428/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/mergedata
+END
+MergeDataReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BI-recsys/!svn/ver/1428/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/mergedata/MergeDataReducer.java
+END
+MergeIncrementDataMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/BI-recsys/!svn/ver/1428/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/mergedata/MergeIncrementDataMapper.java
+END
+MergeDataDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/1428/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/mergedata/MergeDataDriver.java
+END
+MergeAllDataMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BI-recsys/!svn/ver/1428/code/trunk/mras/bookrec/channelrec/src/main/java/com/eb/bi/rs/mras/bookrec/mergedata/MergeAllDataMapper.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/cachejoiner
+END
+CachedJoinTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1190/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/cachejoiner/CachedJoinTool.java
+END
+CacheJoiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BI-recsys/!svn/ver/1089/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/cachejoiner/CacheJoiner.java
+END
+CachedJoinTool.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/cachejoiner/CachedJoinTool.task1.config
+END
+CachedJoinMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/BI-recsys/!svn/ver/1176/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/cachejoiner/CachedJoinMapper.java
+END
+CachedJoinTool.task2.config
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BI-recsys/!svn/ver/1693/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/recframe/resultcal/offline/cachejoiner/CachedJoinTool.task2.config
+END

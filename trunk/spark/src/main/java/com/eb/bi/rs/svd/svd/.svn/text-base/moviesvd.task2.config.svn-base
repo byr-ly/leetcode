@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <!-- input -->
+  <param name="ratings_input_path">hdfs://eb170:8020/user/ebupt/liyang/spark/svd/data/ratings.dat</param>
+
+  <param name="movies_input_path">hdfs://eb170:8020/user/ebupt/liyang/spark/svd/data/movies.dat</param>
+
+  <!-- 隐含特征个数 -->
+  <param name="rank">50</param>
+
+  <!-- 迭代次数 -->
+  <param name="numIterations">20</param>
+
+  <!-- 正则因子 -->
+  <param name="lambda">0.01</param>
+
+  <!-- output -->
+  <param name="movie_recom_output_path">hdfs://eb170:8020/user/ebupt/liyang/spark/svd/recommendations</param>
+
+  </config>

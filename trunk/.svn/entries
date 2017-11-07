@@ -1,0 +1,114 @@
+10
+
+dir
+2155
+http://liyang@10.1.1.212/svn/BI-recsys/code/trunk
+http://liyang@10.1.1.212/svn/BI-recsys
+
+
+
+2017-09-07T08:45:23.658230Z
+2155
+yangningning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aff18cde-65bf-46cc-a571-9cca275ceb57
+
+spark
+dir
+
+mras2
+dir
+
+conf
+dir
+
+opus
+dir
+
+algorithm
+dir
+
+mrasstorm
+dir
+
+pom.xml
+file
+
+
+
+
+2017-09-08T02:35:06.000000Z
+6d365c0d9a20c3b6341f65f2edc4aab6
+2017-08-23T07:06:19.410010Z
+2109
+linwanying
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+946
+
+frame
+dir
+
+andedu
+dir
+
+qhll
+dir
+
+mras
+dir
+
+result2hbase
+dir
+
+mrasspark
+dir
+
+rs.iml
+file
+0
+
+
+add
+
+anhui
+dir
+
+opusstorm
+dir
+
+frame2
+dir
+

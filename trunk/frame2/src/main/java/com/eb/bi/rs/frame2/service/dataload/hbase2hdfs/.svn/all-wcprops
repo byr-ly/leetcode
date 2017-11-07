@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/BI-recsys/!svn/ver/1618/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/hbase2hdfs
+END
+tableexport.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BI-recsys/!svn/ver/1618/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/hbase2hdfs/tableexport.task1.config
+END
+HbaseReadMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/BI-recsys/!svn/ver/1618/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/hbase2hdfs/HbaseReadMapper.java
+END
+HbaseReadTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BI-recsys/!svn/ver/1618/code/trunk/frame2/src/main/java/com/eb/bi/rs/frame2/service/dataload/hbase2hdfs/HbaseReadTool.java
+END

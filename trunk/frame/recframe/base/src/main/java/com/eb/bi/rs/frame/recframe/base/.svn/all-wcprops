@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/BI-recsys/!svn/ver/502/code/trunk/frame/recframe/base/src/main/java/com/eb/bi/rs/frame/recframe/base
+END
+ComponentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/BI-recsys/!svn/ver/502/code/trunk/frame/recframe/base/src/main/java/com/eb/bi/rs/frame/recframe/base/ComponentHelper.java
+END
+ToolLeaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/BI-recsys/!svn/ver/502/code/trunk/frame/recframe/base/src/main/java/com/eb/bi/rs/frame/recframe/base/ToolLeaf.java
+END
+BaseDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/180/code/trunk/frame/recframe/base/src/main/java/com/eb/bi/rs/frame/recframe/base/BaseDriver.java
+END
+TestLeaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/BI-recsys/!svn/ver/502/code/trunk/frame/recframe/base/src/main/java/com/eb/bi/rs/frame/recframe/base/TestLeaf.java
+END
+JobComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/BI-recsys/!svn/ver/502/code/trunk/frame/recframe/base/src/main/java/com/eb/bi/rs/frame/recframe/base/JobComponent.java
+END
+JobComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/BI-recsys/!svn/ver/502/code/trunk/frame/recframe/base/src/main/java/com/eb/bi/rs/frame/recframe/base/JobComposite.java
+END
+TestTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/BI-recsys/!svn/ver/190/code/trunk/frame/recframe/base/src/main/java/com/eb/bi/rs/frame/recframe/base/TestTool.java
+END
+TestClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/BI-recsys/!svn/ver/190/code/trunk/frame/recframe/base/src/main/java/com/eb/bi/rs/frame/recframe/base/TestClient.java
+END

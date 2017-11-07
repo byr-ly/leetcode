@@ -1,0 +1,105 @@
+10
+
+dir
+2155
+http://liyang@10.1.1.212/svn/BI-recsys/code/trunk/mras
+http://liyang@10.1.1.212/svn/BI-recsys
+
+
+
+2017-09-01T07:48:09.504517Z
+2131
+yangningning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aff18cde-65bf-46cc-a571-9cca275ceb57
+
+realcollection
+dir
+
+booklistrec
+dir
+
+mras.iml
+file
+0
+
+
+add
+
+bookrec
+dir
+
+unifyrec
+dir
+
+hkmras
+dir
+
+generec
+dir
+
+andnewsrec
+dir
+
+pom.xml
+file
+
+
+
+
+2016-12-16T04:56:43.000000Z
+8bdf3accf5fef15d5a3258482fa8ac36
+2016-07-12T10:04:28.902789Z
+1478
+guohongbo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1199
+
+voicebookrec
+dir
+
+authorrec
+dir
+
+propsrec
+dir
+
+seachrec
+dir
+
+andnewsrecstorm
+dir
+

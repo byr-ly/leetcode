@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+	<param name="reduce_num">1</param>
+    <param name="downloadWeight">1</param>
+    <param name="collectWeight">1</param>
+    <param name="onlineplayWeight">1</param>
+    <param name="clickWeight">1</param>
+    
+    <param name="downloadInputPath">itemcf/similarity/download_input.txt</param>
+    <param name="collectInputPath">itemcf/similarity/collect_input.txt</param>
+    <param name="onlineplayInputPath">itemcf/similarity/onlineplay_input.txt</param>
+    <param name="clickInputPath">itemcf/similarity/click_input.txt</param>
+    
+    <param name="user_opus_score_output">itemcf/similarity/user_opus_score_output</param>
+    <param name="opus_similariry_output">itemcf/similarity/opus_similariry_output</param>
+    <param name="opus_module_output">itemcf/similarity/opus_module_output</param>
+    
+</config>

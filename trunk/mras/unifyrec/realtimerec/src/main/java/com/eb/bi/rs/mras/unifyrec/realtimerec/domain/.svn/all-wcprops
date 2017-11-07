@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/BI-recsys/!svn/ver/1451/code/trunk/mras/unifyrec/realtimerec/src/main/java/com/eb/bi/rs/mras/unifyrec/realtimerec/domain
+END
+BookSeriesInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/977/code/trunk/mras/unifyrec/realtimerec/src/main/java/com/eb/bi/rs/mras/unifyrec/realtimerec/domain/BookSeriesInfo.java
+END
+BookInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BI-recsys/!svn/ver/1451/code/trunk/mras/unifyrec/realtimerec/src/main/java/com/eb/bi/rs/mras/unifyrec/realtimerec/domain/BookInfo.java
+END
+RecRepBookInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BI-recsys/!svn/ver/977/code/trunk/mras/unifyrec/realtimerec/src/main/java/com/eb/bi/rs/mras/unifyrec/realtimerec/domain/RecRepBookInfo.java
+END

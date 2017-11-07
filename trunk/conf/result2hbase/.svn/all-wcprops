@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/BI-recsys/!svn/ver/1119/code/trunk/conf/result2hbase
+END
+tableexport.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/BI-recsys/!svn/ver/893/code/trunk/conf/result2hbase/tableexport.task1.config
+END
+LoadUserReadHistory.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/BI-recsys/!svn/ver/520/code/trunk/conf/result2hbase/LoadUserReadHistory.task1.config
+END
+splittableimport.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/BI-recsys/!svn/ver/1119/code/trunk/conf/result2hbase/splittableimport.task1.config
+END
+OnlineDayTool.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/BI-recsys/!svn/ver/618/code/trunk/conf/result2hbase/OnlineDayTool.task1.config
+END
+PersonalResultTool.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/BI-recsys/!svn/ver/477/code/trunk/conf/result2hbase/PersonalResultTool.task1.config
+END
+tableimport.task1.config
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/BI-recsys/!svn/ver/893/code/trunk/conf/result2hbase/tableimport.task1.config
+END

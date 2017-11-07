@@ -1,0 +1,46 @@
+<config>
+	<!-- Redis数据库的服务IP和端口 -->
+    <param name="redisIp">10.1.70.4</param>
+    <param name="redisPort">3030</param>
+	<!-- 待导入redis的数据文件或目录名称 -->
+	<param name="file">/home/idox/xyy/file2redis</param>
+	<!-- 数据文件中各字段之间的分隔符 -->
+	<param name="recordDelimiter">|</param>
+
+    <!-- 导入redis的数据结构，包括String/Hash/Set/List，首字母必须大写-->
+    <param name="type">Hash</param>
+	
+    
+    <!--一行文本是否包含多个分组，一个分组对应一个value-->
+    <param name="lineContainsMultiGroup">true</param>
+    
+   	
+   	<!-- Redis导数据前清空的keys值 -->
+    <param name="clearKey">offline_result:*</param>
+    <!-- 删除clearKey之前是否需要检查是否满足条件-->
+    <param name="checkBeforeClear">true</param> 
+    <!-- confirmBeforeClear为true时才会生效-->     
+    <param name="threshold">0.2</param>    
+    
+    
+    <!-- 导入redis时用的key -->
+    <param name="key">offline_result:$(0)</param>
+    <!-- 导入redis时用的value，如果lineContainsMultiGroup=true，复用为group begin location，如果每行含有多个value，为value的起始位置-->
+    <param name="value">1</param>
+    <!-- 可选参数，当导入数据结果为Hash时，hash的key -->
+    <param name="field">book,score</param>
+    
+    <!--type=hash & multivalue=true有效-->
+    <param name="filedIsConst">false</param>
+    <param name="fieldLocInGroup">0</param>  
+    
+
+    <param name="groupLength">2</param>
+    <param name="valueLocInGroup">1</param>
+    <param name="delimiterInValue">:</param> 
+     
+    <!--type=List时，生效-->
+    <param name="pushCommand">rpush</param>      
+
+        
+ </config> 

@@ -1,0 +1,96 @@
+10
+
+dir
+2155
+http://liyang@10.1.1.212/svn/BI-recsys/code/trunk/frame/recframe/resultcal/offline
+http://liyang@10.1.1.212/svn/BI-recsys
+
+
+
+2016-07-19T08:20:07.294374Z
+1499
+guohongbo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aff18cde-65bf-46cc-a571-9cca275ceb57
+
+selector
+dir
+
+supplementer
+dir
+
+filter
+dir
+
+datareduction
+dir
+
+joiner
+dir
+
+converter
+dir
+
+correlationer
+dir
+
+frame-recframe-resultcal-offline.iml
+file
+0
+
+
+add
+
+cachejoiner
+dir
+
+pom.xml
+file
+
+
+
+
+2016-12-16T04:56:52.000000Z
+4ae98874db3dacdc73b860030c4faae2
+2016-07-19T08:20:07.294374Z
+1499
+guohongbo
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1094
+
+sorter
+dir
+

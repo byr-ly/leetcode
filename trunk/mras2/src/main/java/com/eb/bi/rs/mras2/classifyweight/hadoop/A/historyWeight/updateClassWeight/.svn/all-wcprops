@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BI-recsys/!svn/ver/2055/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/classifyweight/hadoop/A/historyWeight/updateClassWeight
+END
+updateHbaseDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/BI-recsys/!svn/ver/1990/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/classifyweight/hadoop/A/historyWeight/updateClassWeight/updateHbaseDriver.java
+END
+readHistoryMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/BI-recsys/!svn/ver/1986/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/classifyweight/hadoop/A/historyWeight/updateClassWeight/readHistoryMapper.java
+END
+readWeightMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/2005/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/classifyweight/hadoop/A/historyWeight/updateClassWeight/readWeightMapper.java
+END
+putWeightReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BI-recsys/!svn/ver/2055/code/trunk/mras2/src/main/java/com/eb/bi/rs/mras2/classifyweight/hadoop/A/historyWeight/updateClassWeight/putWeightReducer.java
+END

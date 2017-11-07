@@ -1,0 +1,93 @@
+10
+
+dir
+2155
+http://liyang@10.1.1.212/svn/BI-recsys/code/trunk/frame/service/dataload
+http://liyang@10.1.1.212/svn/BI-recsys
+
+
+
+2017-07-26T08:07:04.369309Z
+2056
+guohongbo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aff18cde-65bf-46cc-a571-9cca275ceb57
+
+frame-service-dataload.iml
+file
+0
+
+
+add
+
+hdfs2local
+dir
+
+local2hdfs
+dir
+
+result2hbase
+dir
+
+dna2hbase
+dir
+
+file2redis
+dir
+
+ora2redis
+dir
+
+pom.xml
+file
+
+
+
+
+2016-12-16T04:56:50.000000Z
+959a6329199bf5bc5ad8a1b4cd36e3a3
+2016-01-08T08:31:34.812262Z
+1103
+liuchang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1228
+
+unifyrecsresult2hbase
+dir
+
+hdfs2redis
+dir
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<param name="userpref_all">/home/recsys/data/recsys_data/input/user_pref_all</param>
+	<param name="pref_average">/home/recsys/data/recsys_data/output/pref_average</param>
+	<param name="userpref_average_reduce_task_num">1</param>
+</config>

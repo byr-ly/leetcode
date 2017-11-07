@@ -1,0 +1,16 @@
+<config>
+        <composite name="write_grey_list">
+                <leaf name="write_grey_list">
+                        <class>com.eb.bi.rs.mras.unifyrec.greylist.WriteGreyListDriver</class>
+                        <configuration>
+                                <conf.input.path>/user/idox/newunifyrec/quasi_grey_books</conf.input.path>
+                                <conf.output.path>/user/idox/newunifyrec/greylist_output</conf.output.path>
+                                <conf.blacklist.output.path>/user/idox/newunifyrec/greylist_output/black_list/part</conf.blacklist.output.path>
+                                <conf.greylist.output.path>/user/idox/newunifyrec/greylist_output/grey_list/part</conf.greylist.output.path>
+                                <conf.data.size>3</conf.data.size>
+                                <conf.num.reduce.tasks>5</conf.num.reduce.tasks>
+                                <conf.import.split>\|</conf.import.split>
+                       </configuration>
+                </leaf>
+        </composite>
+</config>

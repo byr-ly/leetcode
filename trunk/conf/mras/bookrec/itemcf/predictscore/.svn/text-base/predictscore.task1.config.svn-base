@@ -1,0 +1,40 @@
+<config>
+  <!--Reduce个数-->
+  <param name="num_reduce_tasks">20</param>
+  <!--原始用户图书评分路径-->
+  <param name="user_book_score_path">similarity/input/user_book_score</param>
+  <!--原始图书相似度路径-->
+  <param name="book_similarity_path">similarity/book_similarity</param>
+  
+  <!--STEP1 图书平均分数路径-->
+  <param name="book_mean_score_path">predict/book_mean_score</param>
+ 
+  <!--STEP2 是否选择用户图书评分的TOPN--> 
+  <param name="if_select_userbookscore">true</param>
+  <!--用户图书评分TOPN输出路径-->
+  <param name="select_user_book_score_path">predict/select_user_book_score</param>
+  <!--TOPN-->
+  <param name="top_userbookscore_num">50</param>
+   
+  <!--STEP3 选择与源图书相似度最大的N本目的图书-->
+  <!--TOPN相似图书路径-->
+  <param name="select_book_similarity_path">predict/select_book_similarity</param>
+  <!--最小相似度-->
+  <param name="min_similarity">0</param>
+  <!--TOPN-->
+  <param name="top_similarity_num">30</param>
+  
+  <!--STEP4 用户图书评分与图书相似度连接-->
+  <param name="score_similarity_join_path">predict/score_similarity_join</param>
+  
+  <!--STEP5 预测得分-->
+  <!--预测得分输出路径-->
+  <param name="predict_score_path">predict/predict_score</param>
+
+  <!--STEP6 过滤用户历史-->
+  <param name="predict_score_filter_path">predict/predict_score_filter</param>
+  
+  <!--SETP7 每个用户取TOPN本预测图书-->
+  <param name="predict_result_path">predict/predict_result</param>
+  <param name="top_userpredictscore_num">30</param>
+</config>
